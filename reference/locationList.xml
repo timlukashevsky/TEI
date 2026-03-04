@@ -43,6 +43,11 @@
   </teiHeader>
   <standOff>
     <listPlace>
+      <place xml:id="otradnoje_malvinskoje">
+        <placeName>Отрадное (Мальвинское)</placeName>
+        <geo>55.872647 37.320077</geo>
+        <description/>
+      </place>
       <place xml:id="dom-brashnina-malyj-drovyanoj-pereulok">
         <placeName>Дом И. П. Брашнина в Малом Дровяном переулке</placeName>
         <geo>55.746248 37.657323</geo>
