@@ -723,11 +723,6 @@
         <geo>54.918900 36.953600</geo>
         <description>None</description>
       </place>
-      <place xml:id="maloe_pirogovo_tulskaya_gub">
-        <placeName>Малое Пирогово, Тульская губ.</placeName>
-        <geo>54.088600 37.521100</geo>
-        <description>None</description>
-      </place>
       <place xml:id="maldon_esseks_angliya">
         <placeName>Малдон, Эссекс, Англия</placeName>
         <geo>51.730300 0.675600</geo>
