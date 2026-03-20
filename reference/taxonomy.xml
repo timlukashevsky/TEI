@@ -333,7 +333,7 @@
   <category xml:id="dining" target="photo" uuid="95d8138f-5021-43f1-b1f8-476ae0764970" type="activity_scene">
     <catDesc>За едой</catDesc>
   </category>
-  <category xml:id="tolstoy_loved_children" target="photo" uuid="a7a808f2-0367-4716-8e56-73372d51036c" type="activity_scene">
+  <category xml:id="Tolstoy_loved_children" target="photo" uuid="a7a808f2-0367-4716-8e56-73372d51036c" type="activity_scene">
     <catDesc>«Лев Толстой очень любил детей»</catDesc>
   </category>
   <category xml:id="work_reading_correspondence" target="photo" uuid="80cf7675-6e54-46d1-9d43-2b8bad5af33d" type="activity_scene">
