@@ -285,7 +285,7 @@
   <category xml:id="Tolstoy_with_children" target="photo" uuid="0ec85818-08b6-43d7-9e42-020e0962cec1" type="who" subtype="with_tolstoy">
     <catDesc>Толстой с детьми</catDesc>
   </category>
-  <category xml:id="Tolstoy_with_like_minded_and_close" target="photo" uuid="e5e542b0-85c7-4112-a512-33ccd9843032" type="who" subtype="with_tolstoy">
+  <category xml:id="Tolstoy_with_his_circle" target="photo" uuid="e5e542b0-85c7-4112-a512-33ccd9843032" type="who" subtype="with_tolstoy">
     <catDesc>Толстой с единомышленниками и близкими</catDesc>
   </category>
   <category xml:id="Tolstoy_with_peasants" target="photo" uuid="8ed70d6c-5b06-4d36-aa7c-15b814e4da0f" type="who" subtype="with_tolstoy">
@@ -306,7 +306,7 @@
   <category xml:id="Tolstoy_grandchildren" target="photo" uuid="a1b6fadc-b75e-4338-b1f4-b8667d241b61" type="who" subtype="without_tolstoy">
     <catDesc>Внуки Толстого</catDesc>
   </category>
-  <category xml:id="Tolstoy_like_minded" target="photo" uuid="27185cbf-bf28-44f1-8a26-3264e3df9c73" type="who" subtype="without_tolstoy">
+  <category xml:id="Circle_of_Tolstoy" target="photo" uuid="27185cbf-bf28-44f1-8a26-3264e3df9c73" type="who" subtype="without_tolstoy">
     <catDesc>Единомышленники Толстого</catDesc>
   </category>
   <category xml:id="Yasnaya_Polyana_peasants" target="photo" uuid="d285517c-7733-4877-8a6c-56856b120dcd" type="who" subtype="without_tolstoy">
