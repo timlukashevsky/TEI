@@ -273,70 +273,106 @@
   <category xml:id="collection" target="biodata" uuid="87810884-f55f-458d-ba24-dc90630c05af">
     <catDesc/>
   </category>
-  <category xml:id="media_list" target="type" uuid="008c6cb1-dea7-4e85-ad49-da481280b3b6">
-    <catDesc>категории фотографий</catDesc>
-    <category xml:id="1849" target="photo" uuid="f0f56642-c5a1-4548-9383-267c716ff3de">
-      <catDesc>1849 г.</catDesc>
-    </category>
-    <category xml:id="1850-s" target="photo" uuid="49346b28-853c-4c36-95a3-e688a8272097">
-      <catDesc>1850-е годы</catDesc>
-    </category>
-    <category xml:id="1860-s" target="photo" uuid="f37c14ff-b918-45cd-b7af-3d5a53103b37">
-      <catDesc>1860-е годы</catDesc>
-    </category>
-    <category xml:id="1870-s" target="photo" uuid="a994bcae-b4da-4d8d-8a36-d183d0055bea">
-      <catDesc>1870-е годы</catDesc>
-    </category>
-    <category xml:id="1880-s" target="photo" uuid="b86d6cbc-e574-4ef1-ae0a-a67793ff4e67">
-      <catDesc>1880-е годы</catDesc>
-    </category>
-    <category xml:id="1890-s" target="photo" uuid="87afac12-0254-4e89-9656-5a27a03b3ffb">
-      <catDesc>1890-е годы</catDesc>
-    </category>
-    <category xml:id="1896 – 1903" target="photo" uuid="ac097b64-05fa-42b0-9d4c-6a68ea8d5cdb">
-      <catDesc>1896 – 1903 гг.</catDesc>
-    </category>
-    <category xml:id="1900-s" target="photo" uuid="565f8dda-a9f4-4d5c-940c-3007a2912c6a">
-      <catDesc>1900-е годы</catDesc>
-    </category>
-    <category xml:id="1904-1907" target="photo" uuid="90480c66-91e6-4258-a3de-62dec002428b">
-      <catDesc>1904-1907 гг.</catDesc>
-    </category>
-    <category xml:id="1908 – 1909" target="photo" uuid="74b87da9-b55d-4e77-a226-19a60fb52bcf">
-      <catDesc>1908 – 1909 гг.</catDesc>
-    </category>
-    <category xml:id="1908" target="photo" uuid="ed251d7a-7642-4b1e-b986-1b5f32ca3f6c">
-      <catDesc>1908 г.</catDesc>
-    </category>
-    <category xml:id="1910" target="photo" uuid="c95d1751-6fb0-4f12-a253-1cdcd769056f">
-      <catDesc>1910 г.</catDesc>
-    </category>
-    <category xml:id="albums" target="photo" uuid="7981ab7c-a94b-4f84-aa8e-dd134c4fb9a4">
-      <catDesc>альбомы</catDesc>
-    </category>
-    <category xml:id="other_people" target="photo" uuid="0d5a7214-e0ba-4093-a2a4-b262417e840c">
-      <catDesc>другие люди</catDesc>
-    </category>
-    <category xml:id="locations" target="photo" uuid="cdabe194-985a-4681-80da-ad5c315ad4a7">
-      <catDesc>места</catDesc>
-    </category>
-    <category xml:id="miscellania" target="photo" uuid="5e76dae1-eed3-43c1-82b5-54baf23283b0">
-      <catDesc>разное</catDesc>
-    </category>
-    <category xml:id="relatives_photo" target="photo" uuid="64582f1c-62b7-4a1c-97e0-486eca0a32f3">
-      <catDesc>родственники</catDesc>
-    </category>
-    <category xml:id="family_photo" target="photo" uuid="99c63419-2686-4e14-b1bb-772d5867be00">
-      <catDesc>семья</catDesc>
-    </category>
-    <category xml:id="sport" target="photo" uuid="c149a51f-dbb6-4180-8abc-e1c5295b512c">
-      <catDesc>спорт</catDesc>
-    </category>
-    <category xml:id="tolstoy_photo" target="photo" uuid="d521d615-4018-426b-84ae-7f638a2d337e">
-      <catDesc>Толстой</catDesc>
-    </category>
-    <category xml:id="tolstoy_accompanied" target="photo" uuid="385c99c7-0dbe-4602-a47d-6e9bb34e88d3">
-      <catDesc>Толстой с людьми</catDesc>
-    </category>
+  <category xml:id="Tolstoy_alone" target="photo" uuid="03d60927-f24d-437f-9209-c18319d19f08" type="who" subtype="with_tolstoy">
+    <catDesc>Толстой один</catDesc>
+  </category>
+  <category xml:id="Tolstoy_with_wife" target="photo" uuid="1d5371bf-cd73-41ad-9424-bfd3b269bfb3" type="who" subtype="with_tolstoy">
+    <catDesc>Толстой с женой</catDesc>
+  </category>
+  <category xml:id="Tolstoy_with_grandchildren" target="photo" uuid="21cca8dd-db30-4a21-a126-85105b782b3c" type="who" subtype="with_tolstoy">
+    <catDesc>Толстой с внуками</catDesc>
+  </category>
+  <category xml:id="Tolstoy_with_children" target="photo" uuid="0ec85818-08b6-43d7-9e42-020e0962cec1" type="who" subtype="with_tolstoy">
+    <catDesc>Толстой с детьми</catDesc>
+  </category>
+  <category xml:id="Tolstoy_with_like_minded_and_close" target="photo" uuid="e5e542b0-85c7-4112-a512-33ccd9843032" type="who" subtype="with_tolstoy">
+    <catDesc>Толстой с единомышленниками и близкими</catDesc>
+  </category>
+  <category xml:id="Tolstoy_with_peasants" target="photo" uuid="8ed70d6c-5b06-4d36-aa7c-15b814e4da0f" type="who" subtype="with_tolstoy">
+    <catDesc>Толстой с крестьянами</catDesc>
+  </category>
+  <category xml:id="Tolstoy_with_contemporaries" target="photo" uuid="5f31938a-9771-4840-a2b5-b7d8cdca43e4" type="who" subtype="with_tolstoy">
+    <catDesc>Толстой с современниками</catDesc>
+  </category>
+  <category xml:id="Tolstoy_family" target="photo" uuid="f924477c-62ca-4792-9d83-ec527540d24d" type="who" subtype="without_tolstoy">
+    <catDesc>Семья Толстого</catDesc>
+  </category>
+  <category xml:id="Tolstoy_wife" target="photo" uuid="7cb3e8d4-6f9e-4209-b3f9-5cadd22c8bc8" type="who" subtype="without_tolstoy">
+    <catDesc>Жена Толстого</catDesc>
+  </category>
+  <category xml:id="Tolstoy_children" target="photo" uuid="48b97acc-023a-42d3-af3f-7a81e727b221" type="who" subtype="without_tolstoy">
+    <catDesc>Дети Толстого</catDesc>
+  </category>
+  <category xml:id="Tolstoy_grandchildren" target="photo" uuid="a1b6fadc-b75e-4338-b1f4-b8667d241b61" type="who" subtype="without_tolstoy">
+    <catDesc>Внуки Толстого</catDesc>
+  </category>
+  <category xml:id="Tolstoy_like_minded" target="photo" uuid="27185cbf-bf28-44f1-8a26-3264e3df9c73" type="who" subtype="without_tolstoy">
+    <catDesc>Единомышленники Толстого</catDesc>
+  </category>
+  <category xml:id="Yasnaya_Polyana_peasants" target="photo" uuid="d285517c-7733-4877-8a6c-56856b120dcd" type="who" subtype="without_tolstoy">
+    <catDesc>Крестьяне Ясной Поляны</catDesc>
+  </category>
+  <category xml:id="Tolstoy_contemporaries" target="photo" uuid="8b5ce6fd-d9b6-4534-8ed9-cb22445935c0" type="who" subtype="without_tolstoy">
+    <catDesc>Современники Толстого</catDesc>
+  </category>
+  <category xml:id="historical_figures" target="photo" uuid="1df9bad7-782d-4d62-bbfc-7d2899dc1099" type="who" subtype="without_tolstoy">
+    <catDesc>Исторические личности</catDesc>
+  </category>
+  <category xml:id="indoors" target="photo" uuid="53619e99-df78-4371-82fa-5e2d808b514c" type="activity_scene">
+    <catDesc>В помещении</catDesc>
+  </category>
+  <category xml:id="horse_riding" target="photo" uuid="e2841537-a983-41db-b3c8-a34ad06f0259" type="activity_scene">
+    <catDesc>Верховая езда</catDesc>
+  </category>
+  <category xml:id="outdoors" target="photo" uuid="178d63cb-ad16-4789-8419-88f58213cf09" type="activity_scene">
+    <catDesc>На открытом воздухе</catDesc>
+  </category>
+  <category xml:id="trips_and_preparations" target="photo" uuid="116e35c3-2389-4817-a001-9cd1a0c0195d" type="activity_scene">
+    <catDesc>Поездки и сборы</catDesc>
+  </category>
+  <category xml:id="dining" target="photo" uuid="95d8138f-5021-43f1-b1f8-476ae0764970" type="activity_scene">
+    <catDesc>За едой</catDesc>
+  </category>
+  <category xml:id="tolstoy_loved_children" target="photo" uuid="a7a808f2-0367-4716-8e56-73372d51036c" type="activity_scene">
+    <catDesc>«Лев Толстой очень любил детей»</catDesc>
+  </category>
+  <category xml:id="work_reading_correspondence" target="photo" uuid="80cf7675-6e54-46d1-9d43-2b8bad5af33d" type="activity_scene">
+    <catDesc>Работа, чтение, переписка</catDesc>
+  </category>
+  <category xml:id="conversations" target="photo" uuid="f498278b-aa06-4331-93bb-3457e8fdd572" type="activity_scene">
+    <catDesc>Разговоры</catDesc>
+  </category>
+  <category xml:id="walking" target="photo" uuid="43a47c7d-24bc-42dc-a872-b57f379612dc" type="activity_scene">
+    <catDesc>Прогулки пешком</catDesc>
+  </category>
+  <category xml:id="theatre_and_cinema" target="photo" uuid="228bdbf6-81f7-457a-83a3-804d0d39909e" type="activity_scene">
+    <catDesc>Театр и кино</catDesc>
+  </category>
+  <category xml:id="sport" target="photo" uuid="19850420-a120-4250-8151-d2fed74c2ea6" type="activity_scene">
+    <catDesc>Спорт</catDesc>
+  </category>
+  <category xml:id="chess" target="photo" uuid="9bf16e54-ca93-4053-9042-27d7bc6c7807" type="activity_scene">
+    <catDesc>Шахматы</catDesc>
+  </category>
+  <category xml:id="portrait" target="photo" uuid="24bdcf9f-08dc-4271-9f21-b5b7f0b33c7b" type="photo_genre">
+    <catDesc>Портрет</catDesc>
+  </category>
+  <category xml:id="paired_photo" target="photo" uuid="ffbe1fd3-9f66-4eef-9eec-9f08aa939fe1" type="photo_genre">
+    <catDesc>Парная фотография</catDesc>
+  </category>
+  <category xml:id="group_photo" target="photo" uuid="7a75514e-b804-402c-a819-4634e824c492" type="photo_genre">
+    <catDesc>Групповая фотография</catDesc>
+  </category>
+  <category xml:id="crowd" target="photo" uuid="14be22f9-f93b-461e-a097-3e01eea52024" type="photo_genre">
+    <catDesc>Множество людей</catDesc>
+  </category>
+  <category xml:id="people_in_wide_shot" target="photo" uuid="814b1d31-6171-4ad4-9d57-43bfba633b7d" type="photo_genre">
+    <catDesc>Люди на общем плане</catDesc>
+  </category>
+  <category xml:id="landscapes" target="photo" uuid="4100e06f-4312-4401-91a9-2e9076a52f7d" type="photo_genre">
+    <catDesc>Пейзажи</catDesc>
+  </category>
+  <category xml:id="interiors" target="photo" uuid="53f7c646-3d90-4b12-a6c7-581558de4923" type="photo_genre">
+    <catDesc>Интерьеры</catDesc>
   </category>
 </taxonomy>
