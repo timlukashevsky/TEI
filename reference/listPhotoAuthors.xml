@@ -1,0 +1,2605 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Список авторов фотографий проекта «Слово Толстого»
+        </title>
+        <respStmt>
+          <resp>
+            Этот электронный документ создан в рамках проекта «Слово Толстого»
+          </resp>
+          <name>
+            Тимофей Лукашевский, Анастасия Бонч-Осмоловская, Фёкла Толстая, Дарья Тюрякова-Матвеева
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого»
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Проект «Слово Толстого»
+          </orgName>
+        </publisher>
+        <availability>
+          <p>
+            Тексты и метатекстовая разметка доступны для свободного использования и
+            распространения по лицензии Creative Commons Attribution Share-Alike (cc by-sa)
+          </p>
+        </availability>
+        <date from="2025" to="2026"/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          Список авторов фотографий сформирован на основе внутренней базы данных проекта
+          «Слово Толстого» и материалов Государственного музея Л. Н. Толстого.
+        </p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Данный документ содержит список авторов (создателей) фотографий, представленных в проекте «Слово Толстого».</p>
+      <p>В этом документе используется элемент &lt;photoAuthor/&gt; как обобщенное обозначение автора (создателя) фотографии. Он может относиться и к индивидуальному автору (включая как фотографов-любителей, так и профессионалов), и к коллективу или организации (в том числе действующим через своих представителей). Различение по атрибуту @type ("person" или "organisation") проводится только в тех случаях, где соответствующие сведения доподлинно установлены. Значительная часть случаев требует уточнения данных; в некоторых случаях провести разграничение затруднительно. Не всегда возможно установить, выступает ли автор снимка как частное лицо или как представитель организации, а также носит ли атрибуция авторства фотографии по имени владельца организации (фотоателье) фактический или условный характер.</p>
+      <p>Атрибут ID в элементах &lt;photoAuthor/&gt; содержит числовой идентификатор записи (автор фотографии) в данном документе. Связь с системой учета персон осуществляется через дочерний элемент &lt;idno type="listPerson"/&gt;, значение атрибута @ref которого является ссылкой на соответствующую запись в документе listPerson.xml. Элемент &lt;idno type="listPerson"/&gt; присутствует только в тех случаях, для которых такая связь установлена.</p>
+      <p>Параметр ana="uncertainIdentification" фиксирует сомнение в корректности записи имени (названия) автора фотографии и/или в возможности соотнести это имя (название) с конкретным физическим или юридическим лицом.</p>
+      <p>В теге &lt;name type="editorial"/&gt; фиксируется принятое в редакции проекта «Слово Толстого» имя (название) для физического (юридического) лица. В теге &lt;name type="normalised"/&gt; фиксируется вариант написания имени (названия), обеспечивающий корректную сортировку в алфавитном списке.</p>
+     </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPhotoAuthors>
+        <photoAuthor id="1610001">
+          <name type="editorial">Абади М.</name>
+          <name type="normalised">Абади М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610002">
+          <name type="editorial">Абакумова-Саввиных Мария Александровна</name>
+          <name type="normalised">Абакумова-Саввиных Мария Александровна</name>
+        </photoAuthor>
+        <photoAuthor id="1610003" type="person">
+          <name type="editorial">Абамелек-Лазарев Семен Семенович</name>
+          <name type="normalised">Абамелек-Лазарев Семен Семенович</name>
+          <idno type="listPerson" ref="#15"/>
+        </photoAuthor>
+        <photoAuthor id="1610597" type="organisation">
+          <name type="editorial">Фирма «Братья Абдулла» (Abdullah Frères)</name>
+          <name type="normalised">Абдулла братья (Abdullah Frères), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610411">
+          <name type="editorial">Aberls</name>
+          <name type="normalised">Aberls</name>
+        </photoAuthor>
+        <photoAuthor id="1610004">
+          <name type="editorial">Абрагамсон Николай Иоган</name>
+          <name type="normalised">Абрагамсон Николай Иоган</name>
+        </photoAuthor>
+        <photoAuthor id="1610005">
+          <name type="editorial">Адамович С.</name>
+          <name type="normalised">Адамович С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610006">
+          <name type="editorial">Адамович Сергей Федорович</name>
+          <name type="normalised">Адамович Сергей Федорович</name>
+        </photoAuthor>
+        <photoAuthor id="1610007">
+          <name type="editorial">Адамсон</name>
+          <name type="normalised">Адамсон</name>
+        </photoAuthor>
+        <photoAuthor id="1610900" type="organisation">
+          <name type="editorial">Фирма «Adele» (Адель)</name>
+          <name type="normalised">Adele, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610413">
+          <name type="editorial">Albert</name>
+          <name type="normalised">Albert</name>
+        </photoAuthor>
+        <photoAuthor id="1610009">
+          <name type="editorial">Александров Д. А.</name>
+          <name type="normalised">Александров Д. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610010">
+          <name type="editorial">Александров Н.</name>
+          <name type="normalised">Александров Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610011">
+          <name type="editorial">Александровский А.</name>
+          <name type="normalised">Александровский А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610012">
+          <name type="editorial">Александровский Иван Артемьевич</name>
+          <name type="normalised">Александровский Иван Артемьевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610013">
+          <name type="editorial">Александровский Иван Федорович</name>
+          <name type="normalised">Александровский Иван Федорович</name>
+        </photoAuthor>
+        <photoAuthor id="1610556" type="organisation">
+          <name type="editorial">Фирма «Fratelli Alinari et Co.»</name>
+          <name type="normalised">Alinari fratelli et Co., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610014">
+          <name type="editorial">Амурский Ю. Т.</name>
+          <name type="normalised">Амурский Ю. Т.</name>
+        </photoAuthor>
+        <photoAuthor id="1610015">
+          <name type="editorial">Ананьин Н.</name>
+          <name type="normalised">Ананьин Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610414">
+          <name type="editorial">Andepioni К.</name>
+          <name type="normalised">Andepioni К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610017">
+          <name type="editorial">Андерсон Клара</name>
+          <name type="normalised">Андерсон Клара</name>
+        </photoAuthor>
+        <photoAuthor id="1610018">
+          <name type="editorial">Андреев Николай Андреевич</name>
+          <name type="normalised">Андреев Николай Андреевич</name>
+          <idno type="listPerson" ref="#440"/>
+        </photoAuthor>
+        <photoAuthor id="1610415">
+          <name type="editorial">Angerer L.</name>
+          <name type="normalised">Angerer L.</name>
+        </photoAuthor>
+        <photoAuthor id="1610901">
+          <name type="editorial">Angerer Victor (Viktor)</name>
+          <name type="normalised">Angerer Victor (Viktor)</name>
+        </photoAuthor>
+        <photoAuthor id="1610589" type="organisation">
+          <name type="editorial">Фирма «Английская фотография»</name>
+          <name type="normalised">Английская фотография, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610417">
+          <name type="editorial">Antal Krankus</name>
+          <name type="normalised">Antal Krankus</name>
+        </photoAuthor>
+        <photoAuthor id="1610553" type="organisation">
+          <name type="editorial">Фирма «Antony Thouret Fils»</name>
+          <name type="normalised">Antony Thouret Fils, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610019">
+          <name type="editorial">Ануфриев Н. И.</name>
+          <name type="normalised">Ануфриев Н. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610020">
+          <name type="editorial">Арлэн</name>
+          <name type="normalised">Арлэн</name>
+        </photoAuthor>
+        <photoAuthor id="1610021">
+          <name type="editorial">Артюр</name>
+          <name type="normalised">Артюр</name>
+        </photoAuthor>
+        <photoAuthor id="1610022">
+          <name type="editorial">Асикритов Даниил Михайлович</name>
+          <name type="normalised">Асикритов Даниил Михайлович</name>
+        </photoAuthor>
+        <photoAuthor id="1610418">
+          <name type="editorial">Backoren F.</name>
+          <name type="normalised">Backoren F.</name>
+        </photoAuthor>
+        <photoAuthor id="1610419">
+          <name type="editorial">Badie Henri</name>
+          <name type="normalised">Badie Henri</name>
+        </photoAuthor>
+        <photoAuthor id="1610023">
+          <name type="editorial">Балдю Э.</name>
+          <name type="normalised">Балдю Э.</name>
+        </photoAuthor>
+        <photoAuthor id="1610024">
+          <name type="editorial">Баранов С. А.</name>
+          <name type="normalised">Баранов С. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610025">
+          <name type="editorial">Барканов В.</name>
+          <name type="normalised">Барканов В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610026">
+          <name type="editorial">Барклай Людвиг Вильгельм</name>
+          <name type="normalised">Барклай Людвиг Вильгельм</name>
+        </photoAuthor>
+        <photoAuthor id="1610634" type="organisation">
+          <name type="editorial">Фотоателье «Барон Клодт» (К. К. Клодт фон Юргенсбург)</name>
+          <name type="normalised">Барон Клодт (К. К. Клодт фон Юргенсбург), фотоателье</name>
+        </photoAuthor>
+        <photoAuthor id="1610658" type="organisation">
+          <name type="editorial">Фотоателье «P. Barth in Dorpat» (Фотоателье П. Барта в Дерпте)</name>
+          <name type="normalised">Barth P. in Dorpat (Дерпт), фотоателье</name>
+        </photoAuthor>
+        <photoAuthor id="1610420">
+          <name type="editorial">Bassano Alexander (Alessandro)</name>
+          <name type="normalised">Bassano Alexander (Alessandro)</name>
+        </photoAuthor>
+        <photoAuthor id="1610421">
+          <name type="editorial">Battelli G.</name>
+          <name type="normalised">Battelli G.</name>
+        </photoAuthor>
+        <photoAuthor id="1610422">
+          <name type="editorial">Behnke Edmund</name>
+          <name type="normalised">Behnke Edmund</name>
+        </photoAuthor>
+        <photoAuthor id="1610027">
+          <name type="editorial">Бейер Кароль Адольф</name>
+          <name type="normalised">Бейер Кароль Адольф</name>
+        </photoAuthor>
+        <photoAuthor id="1610028">
+          <name type="editorial">Бейкер В. И.</name>
+          <name type="normalised">Бейкер В. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610030" type="person">
+          <name type="editorial">Беленький Самуил Моисеевич</name>
+          <name type="normalised">Беленький Самуил Моисеевич</name>
+          <idno type="listPerson" ref="#1160"/>
+        </photoAuthor>
+        <photoAuthor id="1610029">
+          <name type="editorial">Белингер Э.</name>
+          <name type="normalised">Белингер Э.</name>
+        </photoAuthor>
+        <photoAuthor id="1610031" type="person">
+          <name type="editorial">Беллоуз Джон</name>
+          <name type="normalised">Беллоуз Джон</name>
+          <idno type="listPerson" ref="#1169"/>
+        </photoAuthor>
+        <photoAuthor id="1610032">
+          <name type="editorial">Бендель Э. С.</name>
+          <name type="normalised">Бендель Э. С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610423">
+          <name type="editorial">Berenitz L.</name>
+          <name type="normalised">Berenitz L.</name>
+        </photoAuthor>
+        <photoAuthor id="1610033">
+          <name type="editorial">Бергамаско Карл Иванович</name>
+          <name type="normalised">Бергамаско Карл Иванович</name>
+        </photoAuthor>
+        <photoAuthor id="1610034">
+          <name type="editorial">Бергнер Август</name>
+          <name type="normalised">Бергнер Август</name>
+        </photoAuthor>
+        <photoAuthor id="1610591" type="organisation">
+          <name type="editorial">Фирма «Бергнер»</name>
+          <name type="normalised">Бергнер, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610902">
+          <name type="editorial">Бертель Эдуард (Bertel Eduard)</name>
+          <name type="normalised">Бертель Эдуард (Bertel Eduard)</name>
+        </photoAuthor>
+        <photoAuthor id="1610036">
+          <name type="editorial">Бианки И.</name>
+          <name type="normalised">Бианки И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610425">
+          <name type="editorial">Bingham</name>
+          <name type="normalised">Bingham</name>
+        </photoAuthor>
+        <photoAuthor id="1610037" type="person">
+          <name type="editorial">Бирюков Павел Иванович</name>
+          <name type="normalised">Бирюков Павел Иванович</name>
+          <idno type="listPerson" ref="#1444"/>
+        </photoAuthor>
+        <photoAuthor id="1610038">
+          <name type="editorial">Бирюкова Б. П.</name>
+          <name type="normalised">Бирюкова Б. П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610039">
+          <name type="editorial">Блюменталь Э.</name>
+          <name type="normalised">Блюменталь Э.</name>
+        </photoAuthor>
+        <photoAuthor id="1610592" type="organisation">
+          <name type="editorial">Фирма «Боассон & Эгглер»</name>
+          <name type="normalised">Боассон & Эгглер, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610040">
+          <name type="editorial">Боассон (Boissonas) Федор Генрихович</name>
+          <name type="normalised">Боассон (Boissonas) Федор Генрихович</name>
+        </photoAuthor>
+        <photoAuthor id="1610041" type="person">
+          <name type="editorial">Бодянский Иван Александрович</name>
+          <name type="normalised">Бодянский Иван Александрович</name>
+          <idno type="listPerson" ref="#1631"/>
+        </photoAuthor>
+        <photoAuthor id="1610594" type="organisation">
+          <name type="editorial">Фирма «Большая французская фотография»</name>
+          <name type="normalised">Большая французская фотография, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610593" type="organisation">
+          <name type="editorial">Фирма «Большая русская фотография»</name>
+          <name type="normalised">Большая русская фотография, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610042">
+          <name type="editorial">Боронкин В.</name>
+          <name type="normalised">Боронкин В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610043">
+          <name type="editorial">Бортняева М. П.</name>
+          <name type="normalised">Бортняева М. П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610044">
+          <name type="editorial">Боткин Сергей Дмитриевич</name>
+          <name type="normalised">Боткин Сергей Дмитриевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610045">
+          <name type="editorial">Бранд Б.</name>
+          <name type="normalised">Бранд Б.</name>
+        </photoAuthor>
+        <photoAuthor id="1610046">
+          <name type="editorial">Бранденбург И.</name>
+          <name type="normalised">Бранденбург И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610047" type="organisation">
+          <name type="editorial">Братья Бардо</name>
+          <name type="normalised">Бардо братья, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610048" type="organisation">
+          <name type="editorial">Братья Биссон</name>
+          <name type="normalised">Биссон братья, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610050" type="organisation">
+          <name type="editorial">Братья Чиж (Frères Czyž)</name>
+          <name type="normalised">Чиж братья (Frères Czyž), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610049" type="organisation">
+          <name type="editorial">Братья Кондратенко</name>
+          <name type="normalised">Кондратенко братья, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610552" type="organisation">
+          <name type="editorial">Фотографическое заведение «Братья Кудрины»</name>
+          <name type="normalised">Кудрины братья, фотографическое заведение</name>
+        </photoAuthor>
+        <photoAuthor id="1610903">
+          <name type="editorial">Браун Адольф (Braun Adolphe)</name>
+          <name type="normalised">Браун Адольф (Braun Adolphe)</name>
+        </photoAuthor>
+        <photoAuthor id="1610427">
+          <name type="editorial">Bresslmair L.</name>
+          <name type="normalised">Bresslmair L.</name>
+        </photoAuthor>
+        <photoAuthor id="1610052">
+          <name type="editorial">Брион С.</name>
+          <name type="normalised">Брион С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610054">
+          <name type="editorial">Бродовский Роман Флорович</name>
+          <name type="normalised">Бродовский Роман Флорович</name>
+        </photoAuthor>
+        <photoAuthor id="1610428">
+          <name type="editorial">Bros H.</name>
+          <name type="normalised">Bros H.</name>
+        </photoAuthor>
+        <photoAuthor id="1610053">
+          <name type="editorial">Бровкин</name>
+          <name type="normalised">Бровкин</name>
+        </photoAuthor>
+        <photoAuthor id="1610599" type="organisation">
+          <name type="editorial">Фирма «Булгак и Овчаренко»</name>
+          <name type="normalised">Булгак и Овчаренко, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610056" type="person">
+          <name type="editorial">Булгаков Валентин Федорович</name>
+          <name type="normalised">Булгаков Валентин Федорович</name>
+          <idno type="listPerson" ref="#2013"/>
+        </photoAuthor>
+        <photoAuthor id="1610058">
+          <name type="editorial">Булла Карл Карлович</name>
+          <name type="normalised">Булла Карл Карлович</name>
+          <idno type="listPerson" ref="#20031"/>
+        </photoAuthor>
+        <photoAuthor id="1610057">
+          <name type="editorial">Булла Виктор Карлович</name>
+          <name type="normalised">Булла Виктор Карлович</name>
+        </photoAuthor>
+        <photoAuthor id="1610059">
+          <name type="editorial">Бургер В.</name>
+          <name type="normalised">Бургер В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610060">
+          <name type="editorial">Буше Павел В.</name>
+          <name type="normalised">Буше Павел В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610055">
+          <name type="editorial">Буйэ (Bouillier)</name>
+          <name type="normalised">Буйэ (Bouillier)</name>
+        </photoAuthor>
+        <photoAuthor id="1610651" type="organisation">
+          <name type="editorial">Campbell Art Gallery</name>
+          <name type="normalised">Campbell Art Gallery</name>
+        </photoAuthor>
+        <photoAuthor id="1610429">
+          <name type="editorial">Campbell E. J.</name>
+          <name type="normalised">Campbell E. J.</name>
+        </photoAuthor>
+        <photoAuthor id="1610554" type="organisation">
+          <name type="editorial">Campbell Studio</name>
+          <name type="normalised">Campbell Studio</name>
+        </photoAuthor>
+        <photoAuthor id="1610430">
+          <name type="editorial">Carjat Et.</name>
+          <name type="normalised">Carjat Et.</name>
+        </photoAuthor>
+        <photoAuthor id="1610431">
+          <name type="editorial">Chambay</name>
+          <name type="normalised">Chambay</name>
+        </photoAuthor>
+        <photoAuthor id="1610378">
+          <name type="editorial">Чеховский В.</name>
+          <name type="normalised">Чеховский В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610379">
+          <name type="editorial">Чеховской Дмитрий Васильевич</name>
+          <name type="normalised">Чеховской Дмитрий Васильевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610373">
+          <name type="editorial">Чернявский И. А.</name>
+          <name type="normalised">Чернявский И. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610375" type="person">
+          <name type="editorial">Чертков Владимир Григорьевич</name>
+          <name type="normalised">Чертков Владимир Григорьевич</name>
+          <idno type="listPerson" ref="#15284"/>
+        </photoAuthor>
+        <photoAuthor id="1610374" type="person">
+          <name type="editorial">Чертков Владимир Владимирович</name>
+          <name type="normalised">Чертков Владимир Владимирович</name>
+          <idno type="listPerson" ref="#15283"/>
+        </photoAuthor>
+        <photoAuthor id="1610376">
+          <name type="editorial">Чесноков Н. А.</name>
+          <name type="normalised">Чесноков Н. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610377">
+          <name type="editorial">Четвериков Д. И.</name>
+          <name type="normalised">Четвериков Д. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610540" type="organisation">
+          <name type="editorial">Фирма «Братья Цикен»</name>
+          <name type="normalised">Цикен братья, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610631" type="organisation" ana="uncertainIdentification">
+          <name type="editorial">Фирма «Cisseier, aîné, Lucerne» («Сиссье-старший, Люцерн»)  (?)</name>
+          <name type="normalised">Cisseier, aîné, Lucerne, фирма (?)</name>
+        </photoAuthor>
+        <photoAuthor id="1610652" type="organisation">
+          <name type="editorial">Фирма «Clasen, Stegemann & Co.»</name>
+          <name type="normalised">Clasen, Stegemann & Co., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610656" type="organisation">
+          <name type="editorial">Фирма «J. Contini & Bussi»</name>
+          <name type="normalised">Contini J. & Bussi, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610432">
+          <name type="editorial">Counten Paul</name>
+          <name type="normalised">Counten Paul</name>
+        </photoAuthor>
+        <photoAuthor id="1610433">
+          <name type="editorial">Dahlgren Alfred</name>
+          <name type="normalised">Dahlgren Alfred</name>
+        </photoAuthor>
+        <photoAuthor id="1610434">
+          <name type="editorial">Dahllof Alfred</name>
+          <name type="normalised">Dahllof Alfred</name>
+        </photoAuthor>
+        <photoAuthor id="1610111">
+          <name type="editorial">Дасс Н.</name>
+          <name type="normalised">Дасс Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610110">
+          <name type="editorial">Давиньон Альфред Яковлевич</name>
+          <name type="normalised">Давиньон Альфред Яковлевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610112">
+          <name type="editorial">Денисов Т. Ф.</name>
+          <name type="normalised">Денисов Т. Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610113">
+          <name type="editorial">Деньер Андрей Иванович</name>
+          <name type="normalised">Деньер Андрей Иванович</name>
+        </photoAuthor>
+        <photoAuthor id="1610435">
+          <name type="editorial">Deplanque J.</name>
+          <name type="normalised">Deplanque J.</name>
+        </photoAuthor>
+        <photoAuthor id="1610436">
+          <name type="editorial">Dérizet Y.</name>
+          <name type="normalised">Dérizet Y.</name>
+        </photoAuthor>
+        <photoAuthor id="1610437">
+          <name type="editorial">Desmaisons E.</name>
+          <name type="normalised">Desmaisons E.</name>
+        </photoAuthor>
+        <photoAuthor id="1610114">
+          <name type="editorial">Детау</name>
+          <name type="normalised">Детау</name>
+        </photoAuthor>
+        <photoAuthor id="1610115">
+          <name type="editorial">Деттарелл П.</name>
+          <name type="normalised">Деттарелл П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610117">
+          <name type="editorial">Дитерихс К. И.</name>
+          <name type="normalised">Дитерихс К. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610118">
+          <name type="editorial">Дитерихс Константин Константинович</name>
+          <name type="normalised">Дитерихс Константин Константинович</name>
+        </photoAuthor>
+        <photoAuthor id="1610116">
+          <name type="editorial">Диздери (Disderi) А.</name>
+          <name type="normalised">Диздери (Disderi) А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610600" type="organisation">
+          <name type="editorial">Фирма «Диздери и Ко»</name>
+          <name type="normalised">Диздери и Ко, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610119">
+          <name type="editorial">Дмитриев Максим Петрович</name>
+          <name type="normalised">Дмитриев Максим Петрович</name>
+        </photoAuthor>
+        <photoAuthor id="1610120">
+          <name type="editorial">Досекин В. С.</name>
+          <name type="normalised">Досекин В. С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610121">
+          <name type="editorial">Досс Н.</name>
+          <name type="normalised">Досс Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610664" type="organisation">
+          <name type="editorial">Фирма «W. & D. Downey» (В. и Д. Дауни)</name>
+          <name type="normalised">Downey W. & D. (Дауни В. & Д.), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610122">
+          <name type="editorial">Дранков Александр Осипович</name>
+          <name type="normalised">Дранков Александр Осипович</name>
+          <idno type="listPerson" ref="#4607"/>
+        </photoAuthor>
+        <photoAuthor id="1610438">
+          <name type="editorial">de Dresde</name>
+          <name type="normalised">Dresde, de</name>
+        </photoAuthor>
+        <photoAuthor id="1610601" type="organisation">
+          <name type="editorial">Фирма «Дрезденская галерея»</name>
+          <name type="normalised">Дрезденская галерея, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610123">
+          <name type="editorial">Дульве А. П.</name>
+          <name type="normalised">Дульве А. П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610124">
+          <name type="editorial">Дункель Теодор</name>
+          <name type="normalised">Дункель Теодор</name>
+        </photoAuthor>
+        <photoAuthor id="1610439">
+          <name type="editorial">Duphot</name>
+          <name type="normalised">Duphot</name>
+        </photoAuthor>
+        <photoAuthor id="1610125">
+          <name type="editorial">Дьяговченко Иван Григорьевич</name>
+          <name type="normalised">Дьяговченко Иван Григорьевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610126">
+          <name type="editorial">Дьяков Алексей Дмитриевич</name>
+          <name type="normalised">Дьяков Алексей Дмитриевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610440">
+          <name type="editorial">Dyck J. J.</name>
+          <name type="normalised">Dyck J. J.</name>
+        </photoAuthor>
+        <photoAuthor id="1610127">
+          <name type="editorial">Дюпон А.</name>
+          <name type="normalised">Дюпон А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610441">
+          <name type="editorial">Eelde, van C. M.</name>
+          <name type="normalised">Eelde, van C. M.</name>
+        </photoAuthor>
+        <photoAuthor id="1610399">
+          <name type="editorial">Эйдинов Арон Яковлевич</name>
+          <name type="normalised">Эйдинов Арон Яковлевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610400">
+          <name type="editorial">Эйхенвальд Андрей Федорович</name>
+          <name type="normalised">Эйхенвальд Андрей Федорович</name>
+        </photoAuthor>
+        <photoAuthor id="1610401">
+          <name type="editorial">Эйхлер</name>
+          <name type="normalised">Эйхлер</name>
+        </photoAuthor>
+        <photoAuthor id="1610128">
+          <name type="editorial">Елецкий Н.</name>
+          <name type="normalised">Елецкий Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610632" type="organisation">
+          <name type="editorial">Фирма «Elliott and Fly»</name>
+          <name type="normalised">Elliott and Fly, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610129">
+          <name type="editorial">Епанечников Н. Я.</name>
+          <name type="normalised">Епанечников Н. Я.</name>
+        </photoAuthor>
+        <photoAuthor id="1610402">
+          <name type="editorial">Эрдман А.</name>
+          <name type="normalised">Эрдман А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610403">
+          <name type="editorial">Эрдман Б.</name>
+          <name type="normalised">Эрдман Б.</name>
+        </photoAuthor>
+        <photoAuthor id="1610130">
+          <name type="editorial">Ермаков Д. Н.</name>
+          <name type="normalised">Ермаков Д. Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610131">
+          <name type="editorial">Еропкин</name>
+          <name type="normalised">Еропкин</name>
+        </photoAuthor>
+        <photoAuthor id="1610442">
+          <name type="editorial">Étrangere</name>
+          <name type="normalised">Étrangere</name>
+        </photoAuthor>
+        <photoAuthor id="1610443">
+          <name type="editorial">Fall Т.</name>
+          <name type="normalised">Fall Т.</name>
+        </photoAuthor>
+        <photoAuthor id="1610352">
+          <name type="editorial">Фазетти А.</name>
+          <name type="normalised">Фазетти А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610353">
+          <name type="editorial">Федоров Г. Ф.</name>
+          <name type="normalised">Федоров Г. Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610354">
+          <name type="editorial">Фельдман А.</name>
+          <name type="normalised">Фельдман А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610355" type="person">
+          <name type="editorial">Фельтен Николай Евгеньевич (Н. Моряк)</name>
+          <name type="normalised">Фельтен Николай Евгеньевич (Н. Моряк)</name>
+          <idno type="listPerson" ref="#14456"/>
+        </photoAuthor>
+        <photoAuthor id="1610904">
+          <name type="editorial">Фентон Роджер</name>
+          <name type="normalised">Фентон Роджер</name>
+        </photoAuthor>
+        <photoAuthor id="1610444">
+          <name type="editorial">Ferret</name>
+          <name type="normalised">Ferret</name>
+        </photoAuthor>
+        <photoAuthor id="1610357">
+          <name type="editorial">Феррети Р.</name>
+          <name type="normalised">Феррети Р.</name>
+        </photoAuthor>
+        <photoAuthor id="1610358">
+          <name type="editorial">Фетзер Элизабет</name>
+          <name type="normalised">Фетзер Элизабет</name>
+        </photoAuthor>
+        <photoAuthor id="1610359">
+          <name type="editorial">Фиглер К.</name>
+          <name type="normalised">Фиглер К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610445">
+          <name type="editorial">Findlow A.</name>
+          <name type="normalised">Findlow A.</name>
+        </photoAuthor>
+        <photoAuthor id="1610360">
+          <name type="editorial">Фирма «Чинес»</name>
+          <name type="normalised">Чинес, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610361">
+          <name type="editorial">Фишер Карл Андреевич</name>
+          <name type="normalised">Фишер Карл Андреевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610362">
+          <name type="editorial">Фохт, фон С.</name>
+          <name type="normalised">Фохт, фон С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610660" type="organisation">
+          <name type="editorial">Фотоателье в г. Моравский Крумлов (Moravský Krumlov)</name>
+          <name type="normalised">Фотоателье в г. Моравский Крумлов (Moravský Krumlov)</name>
+        </photoAuthor>
+        <photoAuthor id="1610642" type="organisation">
+          <name type="editorial">Фотоателье «Фотография Императорских театров»</name>
+          <name type="normalised">Фотография Императорских театров, фотоателье</name>
+        </photoAuthor>
+        <photoAuthor id="1610644" type="organisation">
+          <name type="editorial">Фотолаборатория Академии художеств СССР</name>
+          <name type="normalised">Фотолаборатория Академии художеств СССР</name>
+        </photoAuthor>
+        <photoAuthor id="1610446" type="organisation">
+          <name type="editorial">Фирма «Fratelli D’Alessandri»</name>
+          <name type="normalised">Alessandri, de fratelli фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610447" type="organisation">
+          <name type="editorial">Fratelli Vianelli</name>
+          <name type="normalised">Vianelli frattelli, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610448">
+          <name type="editorial">Fruit Edmone</name>
+          <name type="normalised">Fruit Edmone</name>
+        </photoAuthor>
+        <photoAuthor id="1610093">
+          <name type="editorial">Гадаев Ф. Н.</name>
+          <name type="normalised">Гадаев Ф. Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610092">
+          <name type="editorial">Гаген Федор</name>
+          <name type="normalised">Гаген Федор</name>
+        </photoAuthor>
+        <photoAuthor id="1610094">
+          <name type="editorial">Гальдберг Бернард</name>
+          <name type="normalised">Гальдберг Бернард</name>
+        </photoAuthor>
+        <photoAuthor id="1610602" type="organisation">
+          <name type="editorial">Фирма «К. Е. фон Ган и Ко»</name>
+          <name type="normalised">Ган, фон К. Е. и Ко, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610095" ana="uncertainIdentification">
+          <name type="editorial">Гарсин (Гарсен?) Г.</name>
+          <name type="normalised">Гарсин (Гарсен?) Г.</name>
+        </photoAuthor>
+        <photoAuthor id="1610096">
+          <name type="editorial">Геникае И. М.</name>
+          <name type="normalised">Геникае И. М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610558" type="organisation" ana="uncertainIdentification">
+          <name type="editorial">Ges Arloing (?)</name>
+          <name type="normalised">Ges Arloing (?)</name>
+        </photoAuthor>
+        <photoAuthor id="1610449" type="organisation">
+          <name type="editorial">Ghémar Frères</name>
+          <name type="normalised">Ghémar frères, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610574" type="organisation">
+          <name type="editorial">Главный штаб Кавказской армии</name>
+          <name type="normalised">Главный штаб Кавказской армии</name>
+        </photoAuthor>
+        <photoAuthor id="1610097">
+          <name type="editorial">Глазычев А.</name>
+          <name type="normalised">Глазычев А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610104">
+          <name type="editorial">Гофман Отто</name>
+          <name type="normalised">Гофман Отто</name>
+        </photoAuthor>
+        <photoAuthor id="1610105">
+          <name type="editorial">Гох И.</name>
+          <name type="normalised">Гох И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610098">
+          <name type="editorial">Гольдберг Н.</name>
+          <name type="normalised">Гольдберг Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610099">
+          <name type="editorial">Гольденберг С.</name>
+          <name type="normalised">Гольденберг С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610100">
+          <name type="editorial">Гольдфайн В.</name>
+          <name type="normalised">Гольдфайн В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610101">
+          <name type="editorial">Горбунов И.</name>
+          <name type="normalised">Горбунов И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610641" type="organisation">
+          <name type="editorial">Горкоммунхоз (Тула)</name>
+          <name type="normalised">Горкоммунхоз (Тула)</name>
+        </photoAuthor>
+        <photoAuthor id="1610102">
+          <name type="editorial">Горощенко К.</name>
+          <name type="normalised">Горощенко К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610103">
+          <name type="editorial">Готлиб Б.</name>
+          <name type="normalised">Готлиб Б.</name>
+        </photoAuthor>
+        <photoAuthor id="1610450">
+          <name type="editorial">Graf Heinrich</name>
+          <name type="normalised">Graf Heinrich</name>
+        </photoAuthor>
+        <photoAuthor id="1610106">
+          <name type="editorial">Граф М. П.</name>
+          <name type="normalised">Граф М. П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610451">
+          <name type="editorial">Grandseph F.</name>
+          <name type="normalised">Grandseph F.</name>
+        </photoAuthor>
+        <photoAuthor id="1610107">
+          <name type="editorial">Греков И.</name>
+          <name type="normalised">Греков И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610452">
+          <name type="editorial">Grimmett F.</name>
+          <name type="normalised">Grimmett F.</name>
+        </photoAuthor>
+        <photoAuthor id="1610108">
+          <name type="editorial">Гринберг Александр Данилович</name>
+          <name type="normalised">Гринберг Александр Данилович</name>
+        </photoAuthor>
+        <photoAuthor id="1610109">
+          <name type="editorial">Грюнберг И.</name>
+          <name type="normalised">Грюнберг И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610453">
+          <name type="editorial">Gurney</name>
+          <name type="normalised">Gurney</name>
+        </photoAuthor>
+        <photoAuthor id="1610564" type="organisation">
+          <name type="editorial">Фирма «L. Haase & Co.»</name>
+          <name type="normalised">Haase L. & Co., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610454">
+          <name type="editorial">Habgood</name>
+          <name type="normalised">Habgood</name>
+        </photoAuthor>
+        <photoAuthor id="1610455">
+          <name type="editorial">Hahn C.</name>
+          <name type="normalised">Hahn C.</name>
+        </photoAuthor>
+        <photoAuthor id="1610456">
+          <name type="editorial">Hebert, de M.</name>
+          <name type="normalised">Hebert, de M.</name>
+        </photoAuthor>
+        <photoAuthor id="1610457">
+          <name type="editorial">Hertel Friedrich</name>
+          <name type="normalised">Hertel Friedrich</name>
+        </photoAuthor>
+        <photoAuthor id="1610560" type="organisation">
+          <name type="editorial">Фирма «Hills & Saunders»</name>
+          <name type="normalised">Hills & Saunders, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610458">
+          <name type="editorial">Hoch Jean</name>
+          <name type="normalised">Hoch Jean</name>
+        </photoAuthor>
+        <photoAuthor id="1610562" type="organisation">
+          <name type="editorial">Фирма «Jean Hoch»</name>
+          <name type="normalised">Hoch Jean, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610459">
+          <name type="editorial">Hodcend C.</name>
+          <name type="normalised">Hodcend C.</name>
+        </photoAuthor>
+        <photoAuthor id="1610460">
+          <name type="editorial">Holmberg A.</name>
+          <name type="normalised">Holmberg A.</name>
+        </photoAuthor>
+        <photoAuthor id="1610655" type="organisation" ana="uncertainIdentification">
+          <name type="editorial">Фирма «H. Honoré» (?)</name>
+          <name type="normalised">Honoré H. (?), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610461">
+          <name type="editorial">Hughes Jabez</name>
+          <name type="normalised">Hughes Jabez</name>
+        </photoAuthor>
+        <photoAuthor id="1610561" type="organisation">
+          <name type="editorial">Фирма «Iamin & Co.»</name>
+          <name type="normalised">Iamin & Co., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610148">
+          <name type="editorial">Идашкин С.</name>
+          <name type="normalised">Идашкин С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610623" type="organisation" ana="uncertainIdentification">
+          <name type="editorial">Фирма «d'Illin & Yacom» (?)</name>
+          <name type="normalised">Illin, de & Yacom (?), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610152">
+          <name type="editorial">Йодко В. В.</name>
+          <name type="normalised">Йодко В. В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610151">
+          <name type="editorial">Иоффе М. С.</name>
+          <name type="normalised">Иоффе М. С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610145">
+          <name type="editorial">Иваницкий А.</name>
+          <name type="normalised">Иваницкий А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610146">
+          <name type="editorial">Иванов Н.</name>
+          <name type="normalised">Иванов Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610147">
+          <name type="editorial">Иванов-Терентьев</name>
+          <name type="normalised">Иванов-Терентьев</name>
+        </photoAuthor>
+        <photoAuthor id="1610576" type="organisation">
+          <name type="editorial">Издательство «Издание Ю. И. Лепковского»</name>
+          <name type="normalised">Издание Ю. И. Лепковского, издательство</name>
+        </photoAuthor>
+        <photoAuthor id="1610149">
+          <name type="editorial">Изосимов</name>
+          <name type="normalised">Изосимов</name>
+        </photoAuthor>
+        <photoAuthor id="1610150">
+          <name type="editorial">Израильтенко И. С.</name>
+          <name type="normalised">Израильтенко И. С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610462">
+          <name type="editorial">de Jongh Francis</name>
+          <name type="normalised">Jongh, de Francis</name>
+        </photoAuthor>
+        <photoAuthor id="1610463">
+          <name type="editorial">Joubert F.</name>
+          <name type="normalised">Joubert F.</name>
+        </photoAuthor>
+        <photoAuthor id="1610153">
+          <name type="editorial">Каган З. В.</name>
+          <name type="normalised">Каган З. В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610154">
+          <name type="editorial">Канарский М.</name>
+          <name type="normalised">Канарский М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610155">
+          <name type="editorial">Канбер С.</name>
+          <name type="normalised">Канбер С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610156">
+          <name type="editorial">Кантер Семен Осипович</name>
+          <name type="normalised">Кантер Семен Осипович</name>
+        </photoAuthor>
+        <photoAuthor id="1610157">
+          <name type="editorial">Каплан Эсфирь Исааковна</name>
+          <name type="normalised">Каплан Эсфирь Исааковна</name>
+        </photoAuthor>
+        <photoAuthor id="1610158">
+          <name type="editorial">Карелин А. О.</name>
+          <name type="normalised">Карелин А. О.</name>
+        </photoAuthor>
+        <photoAuthor id="1610159">
+          <name type="editorial">Каррик</name>
+          <name type="normalised">Каррик</name>
+        </photoAuthor>
+        <photoAuthor id="1610160" type="person">
+          <name type="editorial">Касаткин Николай Алексеевич</name>
+          <name type="normalised">Касаткин Николай Алексеевич</name>
+          <idno type="listPerson" ref="#6225"/>
+        </photoAuthor>
+        <photoAuthor id="1610161">
+          <name type="editorial">Каупе Р. Ф.</name>
+          <name type="normalised">Каупе Р. Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610162">
+          <name type="editorial">Кен А.</name>
+          <name type="normalised">Кен А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610464">
+          <name type="editorial">Kent W.</name>
+          <name type="normalised">Kent W.</name>
+        </photoAuthor>
+        <photoAuthor id="1610163">
+          <name type="editorial">Керин М.</name>
+          <name type="normalised">Керин М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610465">
+          <name type="editorial">Kestby Е. А.</name>
+          <name type="normalised">Kestby Е. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610363">
+          <name type="editorial">Хепгуд</name>
+          <name type="normalised">Хепгуд</name>
+        </photoAuthor>
+        <photoAuthor id="1610364" type="person">
+          <name type="editorial">Хилков Дмитрий Александрович</name>
+          <name type="normalised">Хилков Дмитрий Александрович</name>
+          <idno type="listPerson" ref="#14894"/>
+        </photoAuthor>
+        <photoAuthor id="1610365" type="person">
+          <name type="editorial">Хирьяков Александр Модестович</name>
+          <name type="normalised">Хирьяков Александр Модестович</name>
+          <idno type="listPerson" ref="#14908"/>
+        </photoAuthor>
+        <photoAuthor id="1610366">
+          <name type="editorial">Хлопонин Александр</name>
+          <name type="normalised">Хлопонин Александр</name>
+        </photoAuthor>
+        <photoAuthor id="1610646" type="organisation">
+          <name type="editorial">Фирма «Хлопонин и Кулибин»</name>
+          <name type="normalised">Хлопонин и Кулибин, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610367">
+          <name type="editorial">Хмелевский И.</name>
+          <name type="normalised">Хмелевский И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610368">
+          <name type="editorial">Ходасевич Фелициан Иванович</name>
+          <name type="normalised">Ходасевич Фелициан Иванович</name>
+        </photoAuthor>
+        <photoAuthor id="1610369">
+          <name type="editorial">Хорошев Е.</name>
+          <name type="normalised">Хорошев Е.</name>
+        </photoAuthor>
+        <photoAuthor id="1610370">
+          <name type="editorial">Хрущов-Сокольников Гаврила Александрович</name>
+          <name type="normalised">Хрущов-Сокольников Гаврила Александрович</name>
+          <idno type="listPerson" ref="#20221"/>
+        </photoAuthor>
+        <photoAuthor id="1610371">
+          <name type="editorial">Хупер В. Г.</name>
+          <name type="normalised">Хупер В. Г.</name>
+        </photoAuthor>
+        <photoAuthor id="1610164">
+          <name type="editorial">Кикнадзе Я.</name>
+          <name type="normalised">Кикнадзе Я.</name>
+        </photoAuthor>
+        <photoAuthor id="1610165">
+          <name type="editorial">Кистенмахер Г. К.</name>
+          <name type="normalised">Кистенмахер Г. К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610603" type="organisation">
+          <name type="editorial">Фирма «Кистенмахер и Ко»</name>
+          <name type="normalised">Кистенмахер и Ко, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610166">
+          <name type="editorial">Класен Вильям Генрих</name>
+          <name type="normalised">Класен Вильям Генрих</name>
+        </photoAuthor>
+        <photoAuthor id="1610625" type="organisation">
+          <name type="editorial">Фирма «Kloch & Dutkiewiecz»</name>
+          <name type="normalised">Kloch & Dutkiewiecz, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610167">
+          <name type="editorial">Кнорр А.</name>
+          <name type="normalised">Кнорр А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610168">
+          <name type="editorial">Князьков К.</name>
+          <name type="normalised">Князьков К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610169">
+          <name type="editorial">Коган С.</name>
+          <name type="normalised">Коган С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610172">
+          <name type="editorial">Кон А.</name>
+          <name type="normalised">Кон А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610173">
+          <name type="editorial">Конарский Мариан Николаевич</name>
+          <name type="normalised">Конарский Мариан Николаевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610578" type="organisation">
+          <name type="editorial">Издательство «Конрат, Мюллер и Ко»</name>
+          <name type="normalised">Конрат, Мюллер и Ко, издательство</name>
+        </photoAuthor>
+        <photoAuthor id="1610174">
+          <name type="editorial">Коопертивная артель (фирма) «Модерн»</name>
+          <name type="normalised">Модерн, кооперативная артель (фирма)</name>
+        </photoAuthor>
+        <photoAuthor id="1610466">
+          <name type="editorial">Kordysz Józef (Kordysch Y.)</name>
+          <name type="normalised">Kordysz Józef (Kordysch Y.)</name>
+        </photoAuthor>
+        <photoAuthor id="1610175">
+          <name type="editorial">Корнеев В.</name>
+          <name type="normalised">Корнеев В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610176" type="person">
+          <name type="editorial">Корсини Александра Александровна</name>
+          <name type="normalised">Корсини Александра Александровна</name>
+          <idno type="listPerson" ref="#6954"/>
+        </photoAuthor>
+        <photoAuthor id="1610467">
+          <name type="editorial">Koryeri C.</name>
+          <name type="normalised">Koryeri C.</name>
+        </photoAuthor>
+        <photoAuthor id="1610170">
+          <name type="editorial">Козак Б.</name>
+          <name type="normalised">Козак Б.</name>
+        </photoAuthor>
+        <photoAuthor id="1610171">
+          <name type="editorial">Козловский Н.</name>
+          <name type="normalised">Козловский Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610177">
+          <name type="editorial">Кривош В. И.</name>
+          <name type="normalised">Кривош В. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610178">
+          <name type="editorial">Кривошеев Василий Иванович</name>
+          <name type="normalised">Кривошеев Василий Иванович</name>
+        </photoAuthor>
+        <photoAuthor id="1610180">
+          <name type="editorial">Кулаков Петр Ефимович</name>
+          <name type="normalised">Кулаков Петр Ефимович</name>
+        </photoAuthor>
+        <photoAuthor id="1610181" type="person">
+          <name type="editorial">Курбатов Иван Фролович</name>
+          <name type="normalised">Курбатов Иван Фролович</name>
+          <idno type="listPerson" ref="#7405"/>
+        </photoAuthor>
+        <photoAuthor id="1610179">
+          <name type="editorial">Кувшинов В.</name>
+          <name type="normalised">Кувшинов В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610182">
+          <name type="editorial">Кюи Наполеон</name>
+          <name type="normalised">Кюи Наполеон</name>
+        </photoAuthor>
+        <photoAuthor id="1610183">
+          <name type="editorial">Кюсс Ф.</name>
+          <name type="normalised">Кюсс Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610580" type="organisation">
+          <name type="editorial">Лаборатория научно-прикладной фотографии и кинематографии (ЛАФОКИ)</name>
+          <name type="normalised">Лаборатория научно-прикладной фотографии и кинематографии (ЛАФОКИ)</name>
+        </photoAuthor>
+        <photoAuthor id="1610543" type="organisation">
+          <name type="editorial">Фирма «Лакомб и Лакруа» (Lacombe & Lacroix)</name>
+          <name type="normalised">Лакомб и Лакруа (Lacombe & Lacroix), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610468">
+          <name type="editorial">Lacy</name>
+          <name type="normalised">Lacy</name>
+        </photoAuthor>
+        <photoAuthor id="1610469">
+          <name type="editorial">Lange Ed.</name>
+          <name type="normalised">Lange Ed.</name>
+        </photoAuthor>
+        <photoAuthor id="1610470">
+          <name type="editorial">Langerer L.</name>
+          <name type="normalised">Langerer L.</name>
+        </photoAuthor>
+        <photoAuthor id="1610184">
+          <name type="editorial">Лангнер К.</name>
+          <name type="normalised">Лангнер К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610905">
+          <name type="editorial">Лапре Вильгельм (Lapre Wilhelm)</name>
+          <name type="normalised">Лапре Вильгельм (Lapre Wilhelm)</name>
+        </photoAuthor>
+        <photoAuthor id="1610186">
+          <name type="editorial">Ларгаджоли Ф.</name>
+          <name type="normalised">Ларгаджоли Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610472">
+          <name type="editorial">Lasy</name>
+          <name type="normalised">Lasy</name>
+        </photoAuthor>
+        <photoAuthor id="1610187">
+          <name type="editorial">Лауфферт В.</name>
+          <name type="normalised">Лауфферт В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610473">
+          <name type="editorial">Laurent H.</name>
+          <name type="normalised">Laurent H.</name>
+        </photoAuthor>
+        <photoAuthor id="1610474">
+          <name type="editorial">Laurent L.</name>
+          <name type="normalised">Laurent L.</name>
+        </photoAuthor>
+        <photoAuthor id="1610475">
+          <name type="editorial">Lavender</name>
+          <name type="normalised">Lavender</name>
+        </photoAuthor>
+        <photoAuthor id="1610476">
+          <name type="editorial">Le Blondel A.</name>
+          <name type="normalised">Blondel, le A.</name>
+        </photoAuthor>
+        <photoAuthor id="1610188">
+          <name type="editorial">ле Грей Густав</name>
+          <name type="normalised">Грей, ле Густав</name>
+        </photoAuthor>
+        <photoAuthor id="1610477">
+          <name type="editorial">Lea R.</name>
+          <name type="normalised">Lea R.</name>
+        </photoAuthor>
+        <photoAuthor id="1610189">
+          <name type="editorial">Лебедев Александр Тимофеевич</name>
+          <name type="normalised">Лебедев Александр Тимофеевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610192">
+          <name type="editorial">Лемберг</name>
+          <name type="normalised">Лемберг</name>
+        </photoAuthor>
+        <photoAuthor id="1610193">
+          <name type="editorial">Лео К.</name>
+          <name type="normalised">Лео К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610478" ana="uncertainIdentification">
+          <name type="editorial">Leonhara Ruhn (?)</name>
+          <name type="normalised">Leonhara Ruhn (?)</name>
+        </photoAuthor>
+        <photoAuthor id="1610194" type="person">
+          <name type="editorial">Леонидов Л.</name>
+          <name type="normalised">Леонидов Л.</name>
+          <idno type="listPerson" ref="#7797"/>
+        </photoAuthor>
+        <photoAuthor id="1610605" type="organisation">
+          <name type="editorial">Фирма «Левицкий и сын»</name>
+          <name type="normalised">Левицкий и сын, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610191">
+          <name type="editorial">Левицкий Сергей Львович</name>
+          <name type="normalised">Левицкий Сергей Львович</name>
+        </photoAuthor>
+        <photoAuthor id="1610190">
+          <name type="editorial">Левитский В. В.</name>
+          <name type="normalised">Левитский В. В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610195">
+          <name type="editorial">Либович Д.</name>
+          <name type="normalised">Либович Д.</name>
+        </photoAuthor>
+        <photoAuthor id="1610197">
+          <name type="editorial">Лихтенберг Ш.</name>
+          <name type="normalised">Лихтенберг Ш.</name>
+        </photoAuthor>
+        <photoAuthor id="1610479">
+          <name type="editorial">Link Ph.</name>
+          <name type="normalised">Link Ph.</name>
+        </photoAuthor>
+        <photoAuthor id="1610906">
+          <name type="editorial">ван Линт</name>
+          <name type="normalised">Линт, ван</name>
+        </photoAuthor>
+        <photoAuthor id="1610198">
+          <name type="editorial">Лобанов П. П.</name>
+          <name type="normalised">Лобанов П. П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610566" type="organisation">
+          <name type="editorial">Фирма «London Stereoscopiс»</name>
+          <name type="normalised">London Stereoscopic, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610199" type="person">
+          <name type="editorial">Лоранc (Laurens) Жан Поль</name>
+          <name type="normalised">Лоранc (Laurens) Жан Поль</name>
+          <idno type="listPerson" ref="#8046"/>
+        </photoAuthor>
+        <photoAuthor id="1610200">
+          <name type="editorial">Лоренкович Николай Михайлович</name>
+          <name type="normalised">Лоренкович Николай Михайлович</name>
+        </photoAuthor>
+        <photoAuthor id="1610201">
+          <name type="editorial">Лоренс Альфред</name>
+          <name type="normalised">Лоренс Альфред</name>
+        </photoAuthor>
+        <photoAuthor id="1610202">
+          <name type="editorial">Лорнец А. И.</name>
+          <name type="normalised">Лорнец А. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610657" type="organisation">
+          <name type="editorial">Фирма «Josef Löwy»</name>
+          <name type="normalised">Löwy Josef, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610654" type="organisation">
+          <name type="editorial">Фирма «Fratelli de Luca»</name>
+          <name type="normalised">Luca, de fratelli, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610480">
+          <name type="editorial">Luckpardt Fritz</name>
+          <name type="normalised">Luckpardt Fritz</name>
+        </photoAuthor>
+        <photoAuthor id="1610203">
+          <name type="editorial">Лухтергандт А.</name>
+          <name type="normalised">Лухтергандт А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610481">
+          <name type="editorial">Lulves Eugen</name>
+          <name type="normalised">Lulves Eugen</name>
+        </photoAuthor>
+        <photoAuthor id="1610205">
+          <name type="editorial">Лядов А. В.</name>
+          <name type="normalised">Лядов А. В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610204">
+          <name type="editorial">Любошец Н. Б.</name>
+          <name type="normalised">Любошец Н. Б.</name>
+        </photoAuthor>
+        <photoAuthor id="1610569" type="organisation">
+          <name type="editorial">Фирма «Michele Mang e Co.»</name>
+          <name type="normalised">Mang Michele e Co., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610482">
+          <name type="editorial">Mann F. S.</name>
+          <name type="normalised">Mann F. S.</name>
+        </photoAuthor>
+        <photoAuthor id="1610483">
+          <name type="editorial">Mansfeld August</name>
+          <name type="normalised">Mansfeld August</name>
+        </photoAuthor>
+        <photoAuthor id="1610484" type="organisation">
+          <name type="editorial">Фирма «Marck»</name>
+          <name type="normalised">Marck, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610207">
+          <name type="editorial">Маслова Анна Ивановна</name>
+          <name type="normalised">Маслова Анна Ивановна</name>
+        </photoAuthor>
+        <photoAuthor id="1610568" type="organisation">
+          <name type="editorial">Фирма «Mayer & Pierson»</name>
+          <name type="normalised">Mayer & Pierson, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610206">
+          <name type="editorial">Мазер Карл Петер</name>
+          <name type="normalised">Мазер Карл Петер</name>
+        </photoAuthor>
+        <photoAuthor id="1610208">
+          <name type="editorial">Мебиус Фридрих</name>
+          <name type="normalised">Мебиус Фридрих</name>
+        </photoAuthor>
+        <photoAuthor id="1610209">
+          <name type="editorial">Фирма «Ю. Мебиус»</name>
+          <name type="normalised">Мебиус Ю., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610218">
+          <name type="editorial">Мечковский И. К.</name>
+          <name type="normalised">Мечковский И. К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610563" type="organisation" ana="uncertainIdentification">
+          <name type="editorial">Фирма «Jeo. A. Mecres» (?)</name>
+          <name type="normalised">Mecres Jeo. A. (?), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610210">
+          <name type="editorial">Меддисон Артур</name>
+          <name type="normalised">Меддисон Артур</name>
+        </photoAuthor>
+        <photoAuthor id="1610485">
+          <name type="editorial">Meeres G. A.</name>
+          <name type="normalised">Meeres G. A.</name>
+        </photoAuthor>
+        <photoAuthor id="1610212">
+          <name type="editorial">Мей Альберт Иванович</name>
+          <name type="normalised">Мей Альберт Иванович</name>
+        </photoAuthor>
+        <photoAuthor id="1610213">
+          <name type="editorial">Мейер Иоганн Георг (Бременский)</name>
+          <name type="normalised">Мейер Иоганн Георг (Бременский)</name>
+        </photoAuthor>
+        <photoAuthor id="1610214">
+          <name type="editorial">Мейер Оскар</name>
+          <name type="normalised">Мейер Оскар</name>
+        </photoAuthor>
+        <photoAuthor id="1610215">
+          <name type="editorial">Мейер С. М.</name>
+          <name type="normalised">Мейер С. М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610486">
+          <name type="editorial">Mendelssohn H. S.</name>
+          <name type="normalised">Mendelssohn H. S.</name>
+        </photoAuthor>
+        <photoAuthor id="1610216">
+          <name type="editorial">Мендлин А. Н.</name>
+          <name type="normalised">Мендлин А. Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610219">
+          <name type="editorial">Мешковский И.</name>
+          <name type="normalised">Мешковский И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610220">
+          <name type="editorial">Мешковский Ян</name>
+          <name type="normalised">Мешковский Ян</name>
+        </photoAuthor>
+        <photoAuthor id="1610217">
+          <name type="editorial">Метенков Вл.</name>
+          <name type="normalised">Метенков Вл.</name>
+        </photoAuthor>
+        <photoAuthor id="1610211">
+          <name type="editorial">Мезер Ф.</name>
+          <name type="normalised">Мезер Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610222">
+          <name type="editorial">Мидор М.</name>
+          <name type="normalised">Мидор М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610606" type="organisation">
+          <name type="editorial">Фирма «Митке и Вавра» (Miethke & Wawra)</name>
+          <name type="normalised">Митке и Вавра (Miethke & Wawra), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610487">
+          <name type="editorial">Migulski Y.</name>
+          <name type="normalised">Migulski Y.</name>
+        </photoAuthor>
+        <photoAuthor id="1610221" type="person">
+          <name type="editorial">Мигурский Иосиф Карл</name>
+          <name type="normalised">Мигурский Иосиф Карл</name>
+          <idno type="listPerson" ref="#8888"/>
+        </photoAuthor>
+        <photoAuthor id="1610224">
+          <name type="editorial">Михайловский П.</name>
+          <name type="normalised">Михайловский П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610223">
+          <name type="editorial">Митхелль</name>
+          <name type="normalised">Митхелль</name>
+        </photoAuthor>
+        <photoAuthor id="1610488">
+          <name type="editorial">Mitkiewicz Cesar</name>
+          <name type="normalised">Mitkiewicz Cesar</name>
+        </photoAuthor>
+        <photoAuthor id="1610225">
+          <name type="editorial">Моисеев П. И.</name>
+          <name type="normalised">Моисеев П. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610608" type="organisation">
+          <name type="editorial">Фирма «Мойла и Хай»</name>
+          <name type="normalised">Мойла и Хай, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610226">
+          <name type="editorial">Морган П.</name>
+          <name type="normalised">Морган П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610227">
+          <name type="editorial">Морозов С. Т.</name>
+          <name type="normalised">Морозов С. Т.</name>
+        </photoAuthor>
+        <photoAuthor id="1610228">
+          <name type="editorial">Морозов Тимофей Михайлович</name>
+          <name type="normalised">Морозов Тимофей Михайлович</name>
+        </photoAuthor>
+        <photoAuthor id="1610229">
+          <name type="editorial">Морозова Е.</name>
+          <name type="normalised">Морозова Е.</name>
+        </photoAuthor>
+        <photoAuthor id="1610230">
+          <name type="editorial">Морозовская Елена Лукинична</name>
+          <name type="normalised">Морозовская Елена Лукинична</name>
+        </photoAuthor>
+        <photoAuthor id="1610232">
+          <name type="editorial">Мухотаев А. А.</name>
+          <name type="normalised">Мухотаев А. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610653" type="organisation">
+          <name type="editorial">Фирма «Фердинанд Мульние»</name>
+          <name type="normalised">Мульние Фердинанд, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610231">
+          <name type="editorial">Муромов С.</name>
+          <name type="normalised">Муромов С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610233">
+          <name type="editorial">Надар</name>
+          <name type="normalised">Надар</name>
+        </photoAuthor>
+        <photoAuthor id="1610234">
+          <name type="editorial">Настюков М.</name>
+          <name type="normalised">Настюков М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610235">
+          <name type="editorial">Немченко М. А.</name>
+          <name type="normalised">Немченко М. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610489" ana="uncertainIdentification">
+          <name type="editorial">Nestler (Nester?) M.</name>
+          <name type="normalised">Nestler (Nester?) M.</name>
+        </photoAuthor>
+        <photoAuthor id="1610490">
+          <name type="editorial">Neumayer Franz</name>
+          <name type="normalised">Neumayer Franz</name>
+        </photoAuthor>
+        <photoAuthor id="1610491">
+          <name type="editorial">Neurdein</name>
+          <name type="normalised">Neurdein</name>
+        </photoAuthor>
+        <photoAuthor id="1610492">
+          <name type="editorial">Neusghaffer O.</name>
+          <name type="normalised">Neusghaffer O.</name>
+        </photoAuthor>
+        <photoAuthor id="1610590" type="organisation">
+          <name type="editorial">Фирма «Ателье Ниблин»</name>
+          <name type="normalised">Ниблин, ателье (фирма)</name>
+        </photoAuthor>
+        <photoAuthor id="1610236" type="person">
+          <name type="editorial">Никитин Д.</name>
+          <name type="normalised">Никитин Д.</name>
+        </photoAuthor>
+        <photoAuthor id="1610237">
+          <name type="editorial">Никитин Дмитрий Васильевич</name>
+          <name type="normalised">Никитин Дмитрий Васильевич</name>
+          <idno type="listPerson" ref="#9742"/>
+        </photoAuthor>
+        <photoAuthor id="1610238">
+          <name type="editorial">Никитина С.</name>
+          <name type="normalised">Никитина С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610239">
+          <name type="editorial">Никонов Ю.</name>
+          <name type="normalised">Никонов Ю.</name>
+        </photoAuthor>
+        <photoAuthor id="1610610" type="organisation">
+          <name type="editorial">Фирма «Нills & Saunders»</name>
+          <name type="normalised">Нills & Saunders, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610240">
+          <name type="editorial">Нордман-Северова Наталия Борисовна</name>
+          <name type="normalised">Нордман-Северова Наталия Борисовна</name>
+        </photoAuthor>
+        <photoAuthor id="1610545" type="organisation">
+          <name type="editorial">Фирма «Новая фотография»</name>
+          <name type="normalised">Новая фотография, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610544" type="organisation">
+          <name type="editorial">Фирма «Новая русская фотография»</name>
+          <name type="normalised">Новая русская фотография, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610493">
+          <name type="editorial">Numa Blanc (fils)</name>
+          <name type="normalised">Numa Blanc (fils)</name>
+        </photoAuthor>
+        <photoAuthor id="1610241" type="person">
+          <name type="editorial">Оболенская Мария Львовна (рожд. Толстая)</name>
+          <name type="normalised">Оболенская Мария Львовна (рожд. Толстая)</name>
+          <idno type="listPerson" ref="#9984"/>
+        </photoAuthor>
+        <photoAuthor id="1610242">
+          <name type="editorial">Оболенский Михаил Васильевич</name>
+          <name type="normalised">Оболенский Михаил Васильевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610243" type="person">
+          <name type="editorial">Оболенский Николай Леонидович</name>
+          <name type="normalised">Оболенский Николай Леонидович</name>
+          <idno type="listPerson" ref="#10009"/>
+        </photoAuthor>
+        <photoAuthor id="1610246" type="person">
+          <name type="editorial">Олсуфьев Дмитрий Адамович</name>
+          <name type="normalised">Олсуфьев Дмитрий Адамович</name>
+          <idno type="listPerson" ref="#10176"/>
+        </photoAuthor>
+        <photoAuthor id="1610247">
+          <name type="editorial">Опитц Франц Иосифович</name>
+          <name type="normalised">Опитц Франц Иосифович</name>
+        </photoAuthor>
+        <photoAuthor id="1610248">
+          <name type="editorial">Оранский Василий Яковлевич</name>
+          <name type="normalised">Оранский Василий Яковлевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610249" ana="uncertainIdentification">
+          <name type="editorial">Орлов</name>
+          <name type="normalised">Орлов</name>
+        </photoAuthor>
+        <photoAuthor id="1610251">
+          <name type="editorial">Островский В.</name>
+          <name type="normalised">Островский В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610252">
+          <name type="editorial">Оцуп А.</name>
+          <name type="normalised">Оцуп А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610244">
+          <name type="editorial">Овчаренко</name>
+          <name type="normalised">Овчаренко</name>
+        </photoAuthor>
+        <photoAuthor id="1610245">
+          <name type="editorial">Овчинников С. Г.</name>
+          <name type="normalised">Овчинников С. Г.</name>
+        </photoAuthor>
+        <photoAuthor id="1610257" type="person">
+          <name type="editorial">Панов М. М.</name>
+          <name type="normalised">Панов М. М.</name>
+          <idno type="listPerson" ref="#10477"/>
+        </photoAuthor>
+        <photoAuthor id="1610258">
+          <name type="editorial">Пантелеев В. И.</name>
+          <name type="normalised">Пантелеев В. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610612" type="organisation">
+          <name type="editorial">Фирма «Паола»</name>
+          <name type="normalised">Паола, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610546" type="organisation">
+          <name type="editorial">Фирма «Пашков и Александров»</name>
+          <name type="normalised">Пашков и Александров, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610259">
+          <name type="editorial">Пашков Н. А.</name>
+          <name type="normalised">Пашков Н. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610595" type="organisation">
+          <name type="editorial">Фирма «Братья Пате» (Pathé Frères)</name>
+          <name type="normalised">Пате братья (Pathé Frères), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610613" type="organisation">
+          <name type="editorial">Фирма «Пате-фильм» (Pathé Films)</name>
+          <name type="normalised">Пате-фильм (Pathé Films), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610649" type="organisation" ana="uncertainIdentification">
+          <name type="editorial">Фирма «A. Patna & Co.» (?)</name>
+          <name type="normalised">Patna A. & Co., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610659" type="organisation">
+          <name type="editorial">Фирма «Paul Coutem»</name>
+          <name type="normalised">Paul Coutem, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610253">
+          <name type="editorial">Павлов И. П.</name>
+          <name type="normalised">Павлов И. П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610254">
+          <name type="editorial">Павлов Петр Петрович</name>
+          <name type="normalised">Павлов Петр Петрович</name>
+        </photoAuthor>
+        <photoAuthor id="1610255">
+          <name type="editorial">Павловский</name>
+          <name type="normalised">Павловский</name>
+        </photoAuthor>
+        <photoAuthor id="1610256">
+          <name type="editorial">Пазетти А.</name>
+          <name type="normalised">Пазетти А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610260">
+          <name type="editorial">Пейшес И. И.</name>
+          <name type="normalised">Пейшес И. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610265">
+          <name type="editorial">Пеханов Е. И.</name>
+          <name type="normalised">Пеханов Е. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610494">
+          <name type="editorial">Penabert G.</name>
+          <name type="normalised">Penabert G.</name>
+        </photoAuthor>
+        <photoAuthor id="1610650" type="organisation">
+          <name type="editorial">Фирма «G. Penabert & Co.»</name>
+          <name type="normalised">Penabert G. & Co., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610261">
+          <name type="editorial">Перен</name>
+          <name type="normalised">Перен</name>
+        </photoAuthor>
+        <photoAuthor id="1610262">
+          <name type="editorial">Перепечко В. К.</name>
+          <name type="normalised">Перепечко В. К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610495">
+          <name type="editorial">Perini L.</name>
+          <name type="normalised">Perini L.</name>
+        </photoAuthor>
+        <photoAuthor id="1610615" type="organisation">
+          <name type="editorial">Фирма «Петербургская фотография»</name>
+          <name type="normalised">Петербургская фотография, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610496">
+          <name type="editorial">Petersen J.</name>
+          <name type="normalised">Petersen J.</name>
+        </photoAuthor>
+        <photoAuthor id="1610637" type="organisation" ana="uncertainIdentification">
+          <name type="editorial">Фирма «П. Пети и Тренкар» (?)</name>
+          <name type="normalised">Пети П. и Тренкар, фирма (?)</name>
+        </photoAuthor>
+        <photoAuthor id="1610497">
+          <name type="editorial">Petitschinsky Jean</name>
+          <name type="normalised">Petitschinsky Jean</name>
+        </photoAuthor>
+        <photoAuthor id="1610263">
+          <name type="editorial">Петлоренко Ф.</name>
+          <name type="normalised">Петлоренко Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610264" ana="uncertainIdentification">
+          <name type="editorial">Петров</name>
+          <name type="normalised">Петров</name>
+        </photoAuthor>
+        <photoAuthor id="1610498">
+          <name type="editorial">Pierre Petit</name>
+          <name type="normalised">Pierre Petit</name>
+        </photoAuthor>
+        <photoAuthor id="1610499">
+          <name type="editorial">Pierson</name>
+          <name type="normalised">Pierson</name>
+        </photoAuthor>
+        <photoAuthor id="1610266">
+          <name type="editorial">Пихтин М.</name>
+          <name type="normalised">Пихтин М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610500">
+          <name type="editorial">Pilvy C.</name>
+          <name type="normalised">Pilvy C.</name>
+        </photoAuthor>
+        <photoAuthor id="1610267" ana="uncertainIdentification">
+          <name type="editorial">Поливаев (Полеваев?) П.</name>
+          <name type="normalised">Поливаев (Полеваев?) П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610268">
+          <name type="editorial">Полунин В. О.</name>
+          <name type="normalised">Полунин В. О.</name>
+        </photoAuthor>
+        <photoAuthor id="1610645" type="organisation">
+          <name type="editorial">Фирма «Пономарев и Русинов»</name>
+          <name type="normalised">Пономарев и Русинов, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610269">
+          <name type="editorial">Попов Е. И.</name>
+          <name type="normalised">Попов Е. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610270" type="person">
+          <name type="editorial">Преображенский Петр Васильевич</name>
+          <name type="normalised">Преображенский Петр Васильевич</name>
+          <idno type="listPerson" ref="#11242"/>
+        </photoAuthor>
+        <photoAuthor id="1610501">
+          <name type="editorial">Prevot G.</name>
+          <name type="normalised">Prevot G.</name>
+        </photoAuthor>
+        <photoAuthor id="1610271">
+          <name type="editorial">Прокудин-Горский Сергей Михайлович</name>
+          <name type="normalised">Прокудин-Горский Сергей Михайлович</name>
+          <idno type="listPerson" ref="#11294"/>
+        </photoAuthor>
+        <photoAuthor id="1610272">
+          <name type="editorial">Протасевич Франц Трофимович (Трифонович)</name>
+          <name type="normalised">Протасевич Франц Трофимович (Трифонович)</name>
+        </photoAuthor>
+        <photoAuthor id="1610273">
+          <name type="editorial">Пташинский С.</name>
+          <name type="normalised">Пташинский С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610274">
+          <name type="editorial">Пушкина Софья</name>
+          <name type="normalised">Пушкина Софья</name>
+        </photoAuthor>
+        <photoAuthor id="1610570" type="organisation" ana="uncertainIdentification">
+          <name type="editorial">Фирма «Qwen» (?)</name>
+          <name type="normalised">Qwen, фирма (?)</name>
+        </photoAuthor>
+        <photoAuthor id="1610502">
+          <name type="editorial">Rabending Emil</name>
+          <name type="normalised">Rabending Emil</name>
+        </photoAuthor>
+        <photoAuthor id="1610661" type="organisation">
+          <name type="editorial">Фирма «Rabending & Monckhoven»</name>
+          <name type="normalised">Rabending & Monckhoven, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610503">
+          <name type="editorial">Radoschevitch</name>
+          <name type="normalised">Radoschevitch</name>
+        </photoAuthor>
+        <photoAuthor id="1610275">
+          <name type="editorial">Раев Г. И.</name>
+          <name type="normalised">Раев Г. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610504">
+          <name type="editorial">Raffaello Ferretti</name>
+          <name type="normalised">Raffaello Ferretti</name>
+        </photoAuthor>
+        <photoAuthor id="1610277" ana="uncertainIdentification">
+          <name type="editorial">Рамблер (Рамбер?) И.</name>
+          <name type="normalised">Рамблер (Рамбер?) И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610505">
+          <name type="editorial">Randegger F.</name>
+          <name type="normalised">Randegger F.</name>
+        </photoAuthor>
+        <photoAuthor id="1610506">
+          <name type="editorial">Raoult J. X.</name>
+          <name type="normalised">Raoult J. X.</name>
+        </photoAuthor>
+        <photoAuthor id="1610577" type="organisation" ana="uncertainIdentification">
+          <name type="editorial">Издание Рау и Блюмлайна (?)</name>
+          <name type="normalised">Рау и Блюмлайн, издание (?)</name>
+        </photoAuthor>
+        <photoAuthor id="1610507">
+          <name type="editorial">Rawles</name>
+          <name type="normalised">Rawles</name>
+        </photoAuthor>
+        <photoAuthor id="1610508">
+          <name type="editorial">Rayne Jahn</name>
+          <name type="normalised">Rayne Jahn</name>
+        </photoAuthor>
+        <photoAuthor id="1610276">
+          <name type="editorial">Разетти А.</name>
+          <name type="normalised">Разетти А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610278">
+          <name type="editorial">Редер Л.</name>
+          <name type="normalised">Редер Л.</name>
+        </photoAuthor>
+        <photoAuthor id="1610280">
+          <name type="editorial">Рейн Дж.</name>
+          <name type="normalised">Рейн Дж.</name>
+        </photoAuthor>
+        <photoAuthor id="1610626" type="organisation">
+          <name type="editorial">Фирма «Райнхольд Тиле и Ко» (Reinhold Thiele & Co.)</name>
+          <name type="normalised">Тиле Райнхольд и Ко (Reinhold Thiele & Co.), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610279">
+          <name type="editorial">Рейзенер О.</name>
+          <name type="normalised">Рейзенер О.</name>
+        </photoAuthor>
+        <photoAuthor id="1610509">
+          <name type="editorial">Rek Mathilda</name>
+          <name type="normalised">Rek Mathilda</name>
+        </photoAuthor>
+        <photoAuthor id="1610647" type="organisation">
+          <name type="editorial">Фирма «Рембрандт»</name>
+          <name type="normalised">Рембрандт, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610636" type="organisation">
+          <name type="editorial">Фотоателье «Рембрандт»</name>
+          <name type="normalised">Рембрандт, фотоателье</name>
+        </photoAuthor>
+        <photoAuthor id="1610282" type="organisation">
+          <name type="editorial">Фирма «Отто Ренар»</name>
+          <name type="normalised">Ренар Отто, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610283">
+          <name type="editorial">Рендель И.</name>
+          <name type="normalised">Рендель И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610284">
+          <name type="editorial">Рене Ж.</name>
+          <name type="normalised">Рене Ж.</name>
+        </photoAuthor>
+        <photoAuthor id="1610643" type="organisation">
+          <name type="editorial">Фирма «Ренессанс»</name>
+          <name type="normalised">Ренессанс, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610588" type="organisation">
+          <name type="editorial">Фирма «А. Рентц и Ко»</name>
+          <name type="normalised">Рентц А. и Ко, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610587" type="organisation">
+          <name type="editorial">Фирма «А. Рентц и Ф. Шрадер»</name>
+          <name type="normalised">Рентц А. и Шрадер Ф., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610286">
+          <name type="editorial">Реш Х.</name>
+          <name type="normalised">Реш Х.</name>
+        </photoAuthor>
+        <photoAuthor id="1610510">
+          <name type="editorial">Reutlinger Ch.</name>
+          <name type="normalised">Reutlinger Ch.</name>
+        </photoAuthor>
+        <photoAuthor id="1610511">
+          <name type="editorial">Ricci Leone</name>
+          <name type="normalised">Ricci Leone</name>
+        </photoAuthor>
+        <photoAuthor id="1610288">
+          <name type="editorial">Ричард К.</name>
+          <name type="normalised">Ричард К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610287">
+          <name type="editorial">Рихаруа Т.</name>
+          <name type="normalised">Рихаруа Т.</name>
+        </photoAuthor>
+        <photoAuthor id="1610559" type="organisation">
+          <name type="editorial">Фирма «H. P. Robertson & Son»</name>
+          <name type="normalised">Robertson H. P. & Son, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610289">
+          <name type="editorial">Робийяр (Robillard) И. И.</name>
+          <name type="normalised">Робийяр (Robillard) И. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610512">
+          <name type="editorial">Roesch Ch.</name>
+          <name type="normalised">Roesch Ch.</name>
+        </photoAuthor>
+        <photoAuthor id="1610290">
+          <name type="editorial">Ротницкий Арий Давидович</name>
+          <name type="normalised">Ротницкий Арий Давидович</name>
+        </photoAuthor>
+        <photoAuthor id="1610291">
+          <name type="editorial">Рудольф Федор</name>
+          <name type="normalised">Рудольф Федор</name>
+        </photoAuthor>
+        <photoAuthor id="1610292">
+          <name type="editorial">Русинов Н.</name>
+          <name type="normalised">Русинов Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610547" type="organisation">
+          <name type="editorial">Агентство «Русс-фото»</name>
+          <name type="normalised">Русс-фото, агентство</name>
+        </photoAuthor>
+        <photoAuthor id="1610616" type="organisation">
+          <name type="editorial">Фирма «Русская фотография»</name>
+          <name type="normalised">Русская фотография, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610548" type="organisation">
+          <name type="editorial">Фирма «Русская фотография Гамалея»</name>
+          <name type="normalised">Русская фотография Гамалея, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610293">
+          <name type="editorial">Руссов Александр Александрович</name>
+          <name type="normalised">Руссов Александр Александрович</name>
+        </photoAuthor>
+        <photoAuthor id="1610294">
+          <name type="editorial">Рыльский А. Ф.</name>
+          <name type="normalised">Рыльский А. Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610513">
+          <name type="editorial">S. Bureau</name>
+          <name type="normalised">S. Bureau</name>
+        </photoAuthor>
+        <photoAuthor id="1610295">
+          <name type="editorial">Сабин-Гус С.</name>
+          <name type="normalised">Сабин-Гус С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610617" type="organisation">
+          <name type="editorial">Фирма «Садовский и Козловский»</name>
+          <name type="normalised">Садовский и Козловский, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610514">
+          <name type="editorial">Saint-Edmé</name>
+          <name type="normalised">Saint-Edmé</name>
+        </photoAuthor>
+        <photoAuthor id="1610618" type="organisation">
+          <name type="editorial">Фирма «Сахаров и Орлов»</name>
+          <name type="normalised">Сахаров и Орлов, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610299" type="person">
+          <name type="editorial">Самарин Петр Федорович</name>
+          <name type="normalised">Самарин Петр Федорович</name>
+          <idno type="listPerson" ref="#12212"/>
+        </photoAuthor>
+        <photoAuthor id="1610300">
+          <name type="editorial">Санько Г. З.</name>
+          <name type="normalised">Санько Г. З.</name>
+        </photoAuthor>
+        <photoAuthor id="1610296">
+          <name type="editorial">Савельев Алексей Иванович</name>
+          <name type="normalised">Савельев Алексей Иванович</name>
+        </photoAuthor>
+        <photoAuthor id="1610297">
+          <name type="editorial">Савельева А. И.</name>
+          <name type="normalised">Савельева А. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610298">
+          <name type="editorial">Савина Ф. А.</name>
+          <name type="normalised">Савина Ф. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610515">
+          <name type="editorial">Schemboche Michele</name>
+          <name type="normalised">Schemboche Michele</name>
+        </photoAuthor>
+        <photoAuthor id="1610516">
+          <name type="editorial">Schneider</name>
+          <name type="normalised">Schneider</name>
+        </photoAuthor>
+        <photoAuthor id="1610517">
+          <name type="editorial">Schulze Eduard</name>
+          <name type="normalised">Schulze Eduard</name>
+        </photoAuthor>
+        <photoAuthor id="1610518">
+          <name type="editorial">Schulze J.</name>
+          <name type="normalised">Schulze J.</name>
+        </photoAuthor>
+        <photoAuthor id="1610519">
+          <name type="editorial">Schutz</name>
+          <name type="normalised">Schutz</name>
+        </photoAuthor>
+        <photoAuthor id="1610549" type="organisation">
+          <name type="editorial">Фирма «Friedrich Ferdinand Albert Schwartz & Co.»</name>
+          <name type="normalised">Schwartz F. F. A. & Co., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610520">
+          <name type="editorial">See</name>
+          <name type="normalised">See</name>
+        </photoAuthor>
+        <photoAuthor id="1610521">
+          <name type="editorial">Seefels Inl.</name>
+          <name type="normalised">Seefels Inl.</name>
+        </photoAuthor>
+        <photoAuthor id="1610303">
+          <name type="editorial">Селиверстов М.</name>
+          <name type="normalised">Селиверстов М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610522">
+          <name type="editorial">Selle Hermann</name>
+          <name type="normalised">Selle Hermann</name>
+        </photoAuthor>
+        <photoAuthor id="1610304">
+          <name type="editorial">Семененко А.</name>
+          <name type="normalised">Семененко А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610305">
+          <name type="editorial">Семенов И.</name>
+          <name type="normalised">Семенов И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610306">
+          <name type="editorial">Сен-Марк В.</name>
+          <name type="normalised">Сен-Марк В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610307" type="person">
+          <name type="editorial">Сергеенко Алексей Петрович</name>
+          <name type="normalised">Сергеенко Алексей Петрович</name>
+          <idno type="listPerson" ref="#12519"/>
+        </photoAuthor>
+        <photoAuthor id="1610308" type="person">
+          <name type="editorial">Сергеенко Петр Алексеевич</name>
+          <name type="normalised">Сергеенко Петр Алексеевич</name>
+          <idno type="listPerson" ref="#12524"/>
+        </photoAuthor>
+        <photoAuthor id="1610380">
+          <name type="editorial">Шапиро Константин Александрович</name>
+          <name type="normalised">Шапиро Константин Александрович</name>
+        </photoAuthor>
+        <photoAuthor id="1610382">
+          <name type="editorial">Шарфенберг В. А.</name>
+          <name type="normalised">Шарфенберг В. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610381">
+          <name type="editorial">Шарно Ф.</name>
+          <name type="normalised">Шарно Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610384">
+          <name type="editorial">Шаталов Т. Л.</name>
+          <name type="normalised">Шаталов Т. Л.</name>
+        </photoAuthor>
+        <photoAuthor id="1610383">
+          <name type="editorial">Шаталов В.</name>
+          <name type="normalised">Шаталов В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610385">
+          <name type="editorial">Шенфельдт Вильгельм</name>
+          <name type="normalised">Шенфельдт Вильгельм</name>
+        </photoAuthor>
+        <photoAuthor id="1610386">
+          <name type="editorial">Шепелев В. С.</name>
+          <name type="normalised">Шепелев В. С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610621" type="organisation">
+          <name type="editorial">Фирма «Шерер, Набгольц и Ко»</name>
+          <name type="normalised">Шерер, Набгольц и Ко, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610387">
+          <name type="editorial">Шилов А.</name>
+          <name type="normalised">Шилов А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610388">
+          <name type="editorial">Шиндель Конрад</name>
+          <name type="normalised">Шиндель Конрад</name>
+        </photoAuthor>
+        <photoAuthor id="1610635" type="organisation">
+          <name type="editorial">Фотоателье «М. А. Шиндлер и А. И. Мей под фирмою Шерер и Набгольц»</name>
+          <name type="normalised">Шиндлер М. А. и Мей А. И. под фирмою Шерер и Набгольц, фотоателье</name>
+        </photoAuthor>
+        <photoAuthor id="1610389">
+          <name type="editorial">Широков Г.</name>
+          <name type="normalised">Широков Г.</name>
+        </photoAuthor>
+        <photoAuthor id="1610390">
+          <name type="editorial">Шитов Т. В.</name>
+          <name type="normalised">Шитов Т. В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610391">
+          <name type="editorial">Шлуков П.</name>
+          <name type="normalised">Шлуков П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610392">
+          <name type="editorial">Шохор-Троцкий Константин Семенович</name>
+          <name type="normalised">Шохор-Троцкий Константин Семенович</name>
+        </photoAuthor>
+        <photoAuthor id="1610393">
+          <name type="editorial">Шпаковский А. И.</name>
+          <name type="normalised">Шпаковский А. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610395">
+          <name type="editorial">Штарк К. П.</name>
+          <name type="normalised">Штарк К. П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610396">
+          <name type="editorial">Штейнберг Герман Федорович</name>
+          <name type="normalised">Штейнберг Герман Федорович</name>
+        </photoAuthor>
+        <photoAuthor id="1610397">
+          <name type="editorial">Штейнберг Н.</name>
+          <name type="normalised">Штейнберг Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610398">
+          <name type="editorial">Штейнберг Юлий Федорович</name>
+          <name type="normalised">Штейнберг Юлий Федорович</name>
+        </photoAuthor>
+        <photoAuthor id="1610523">
+          <name type="editorial">Silli</name>
+          <name type="normalised">Silli</name>
+        </photoAuthor>
+        <photoAuthor id="1610524">
+          <name type="editorial">Silvy С.</name>
+          <name type="normalised">Silvy С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610309">
+          <name type="editorial">Сироткин М. А.</name>
+          <name type="normalised">Сироткин М. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610310">
+          <name type="editorial">Смирнов С. Г.</name>
+          <name type="normalised">Смирнов С. Г.</name>
+        </photoAuthor>
+        <photoAuthor id="1610311">
+          <name type="editorial">Соболев Михаил Николаевич</name>
+          <name type="normalised">Соболев Михаил Николаевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610312">
+          <name type="editorial">Соколов</name>
+          <name type="normalised">Соколов</name>
+        </photoAuthor>
+        <photoAuthor id="1610313">
+          <name type="editorial">Сокорнов В.</name>
+          <name type="normalised">Сокорнов В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610314" type="person">
+          <name type="editorial">Соловьев Владимир Сергеевич</name>
+          <name type="normalised">Соловьев Владимир Сергеевич</name>
+          <idno type="listPerson" ref="#12977"/>
+        </photoAuthor>
+        <photoAuthor id="1610551" type="organisation">
+          <name type="editorial">Фирма «Современная фотография»</name>
+          <name type="normalised">Современная фотография, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610315">
+          <name type="editorial">Стадлинг Йонас</name>
+          <name type="normalised">Стадлинг Йонас</name>
+        </photoAuthor>
+        <photoAuthor id="1610318" type="person">
+          <name type="editorial">Стахович Михаил Александрович</name>
+          <name type="normalised">Стахович Михаил Александрович</name>
+          <idno type="listPerson" ref="#13147"/>
+        </photoAuthor>
+        <photoAuthor id="1610316">
+          <name type="editorial">Старк К. П.</name>
+          <name type="normalised">Старк К. П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610317">
+          <name type="editorial">Старобыковский А.</name>
+          <name type="normalised">Старобыковский А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610319">
+          <name type="editorial">Стейкер А.</name>
+          <name type="normalised">Стейкер А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610320">
+          <name type="editorial">Страхов И. Е.</name>
+          <name type="normalised">Страхов И. Е.</name>
+        </photoAuthor>
+        <photoAuthor id="1610321">
+          <name type="editorial">Стуколкин М.</name>
+          <name type="normalised">Стуколкин М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610324">
+          <name type="editorial">Сучков М. Д.</name>
+          <name type="normalised">Сучков М. Д.</name>
+        </photoAuthor>
+        <photoAuthor id="1610323" type="person">
+          <name type="editorial">Сухотина Елена Петровна (рожд. Базилевская)</name>
+          <name type="normalised">Сухотина Елена Петровна (рожд. Базилевская)</name>
+          <idno type="listPerson" ref="#13411"/>
+        </photoAuthor>
+        <photoAuthor id="1610525">
+          <name type="editorial">Suscipj Lorenzo</name>
+          <name type="normalised">Suscipj Lorenzo</name>
+        </photoAuthor>
+        <photoAuthor id="1610322">
+          <name type="editorial">Суворов Ф.</name>
+          <name type="normalised">Суворов Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610302">
+          <name type="editorial">Свейкин А.</name>
+          <name type="normalised">Свейкин А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610583" type="organisation">
+          <name type="editorial">Стереографическое общество (издательство) «Свет»</name>
+          <name type="normalised">Свет, стереографическое общество (издательство)</name>
+        </photoAuthor>
+        <photoAuthor id="1610550" type="organisation">
+          <name type="editorial">Фирма «Светопись» (бывш. Левицкого)</name>
+          <name type="normalised">Светопись (бывш. Левицкого), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610327">
+          <name type="editorial">Тачалов И. А.</name>
+          <name type="normalised">Тачалов И. А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610325">
+          <name type="editorial">Тапсель Томас</name>
+          <name type="normalised">Тапсель Томас</name>
+        </photoAuthor>
+        <photoAuthor id="1610326">
+          <name type="editorial">Тараканов А.</name>
+          <name type="normalised">Тараканов А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610584" type="organisation">
+          <name type="editorial">ТАСС</name>
+          <name type="normalised">ТАСС, агентство</name>
+        </photoAuthor>
+        <photoAuthor id="1610329">
+          <name type="editorial">Теплицкий М.</name>
+          <name type="normalised">Теплицкий М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610627" type="organisation">
+          <name type="editorial">Фирма «The London School Photography»</name>
+          <name type="normalised">The London School Photography, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610526">
+          <name type="editorial">Thiebault</name>
+          <name type="normalised">Thiebault</name>
+        </photoAuthor>
+        <photoAuthor id="1610527">
+          <name type="editorial">Tietz Hermann</name>
+          <name type="normalised">Tietz Hermann</name>
+        </photoAuthor>
+        <photoAuthor id="1610630" type="organisation">
+          <name type="editorial">Фирма «Тиле и Опитц»</name>
+          <name type="normalised">Тиле и Опитц, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610585" type="organisation">
+          <name type="editorial">Фирма «Тиле и Серебрин»</name>
+          <name type="normalised">Тиле и Серебрин, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610330">
+          <name type="editorial">Тиле Р. Ю.</name>
+          <name type="normalised">Тиле Р. Ю.</name>
+        </photoAuthor>
+        <photoAuthor id="1610331">
+          <name type="editorial">Тимм Василий Федорович (Вильгельм Фридрих)</name>
+          <name type="normalised">Тимм Василий Федорович (Вильгельм Фридрих)</name>
+          <idno type="listPerson" ref="#13715"/>
+        </photoAuthor>
+        <photoAuthor id="1610332">
+          <name type="editorial">Тирасполький Ю.</name>
+          <name type="normalised">Тирасполький Ю.</name>
+        </photoAuthor>
+        <photoAuthor id="1610333" type="person">
+          <name type="editorial">Толстая Александра Львовна</name>
+          <name type="normalised">Толстая Александра Львовна</name>
+          <idno type="listPerson" ref="#13815"/>
+        </photoAuthor>
+        <photoAuthor id="1610334" type="person">
+          <name type="editorial">Толстая Екатерина Васильевна (рожд. Горяинова, по первому мужу Арцимович)</name>
+          <name type="normalised">Толстая Екатерина Васильевна (рожд. Горяинова, по первому мужу Арцимович)</name>
+          <idno type="listPerson" ref="#13827"/>
+        </photoAuthor>
+        <photoAuthor id="1610335" type="person">
+          <name type="editorial">Толстая Мария Николаевна (рожд. Зубова)</name>
+          <name type="normalised">Толстая Мария Николаевна (рожд. Зубова)</name>
+          <idno type="listPerson" ref="#13836"/>
+        </photoAuthor>
+        <photoAuthor id="1610336" type="person">
+          <name type="editorial">Толстая Ольга Константиновна (рожд. Дитерихс)</name>
+          <name type="normalised">Толстая Ольга Константиновна (рожд. Дитерихс)</name>
+          <idno type="listPerson" ref="#13838"/>
+        </photoAuthor>
+        <photoAuthor id="1610337" type="person">
+          <name type="editorial">Толстая Софья Андреевна (рожд. Берс)</name>
+          <name type="normalised">Толстая Софья Андреевна (рожд. Берс)</name>
+          <idno type="listPerson" ref="#13844"/>
+        </photoAuthor>
+        <photoAuthor id="1610338" type="person">
+          <name type="editorial">Толстой Андрей Ильич</name>
+          <name type="normalised">Толстой Андрей Ильич</name>
+          <idno type="listPerson" ref="#13859"/>
+        </photoAuthor>
+        <photoAuthor id="1610339" type="person">
+          <name type="editorial">Толстой Андрей Львович</name>
+          <name type="normalised">Толстой Андрей Львович</name>
+          <idno type="listPerson" ref="#13860"/>
+        </photoAuthor>
+        <photoAuthor id="1610342" type="person">
+          <name type="editorial">Толстой Илья Львович</name>
+          <name type="normalised">Толстой Илья Львович</name>
+          <idno type="listPerson" ref="#13880"/>
+        </photoAuthor>
+        <photoAuthor id="1610341" type="person">
+          <name type="editorial">Толстой Иван Львович</name>
+          <name type="normalised">Толстой Иван Львович</name>
+          <idno type="listPerson" ref="#13871"/>
+        </photoAuthor>
+        <photoAuthor id="1610343" type="person">
+          <name type="editorial">Толстой Лев Львович</name>
+          <name type="normalised">Толстой Лев Львович</name>
+          <idno type="listPerson" ref="#13881"/>
+        </photoAuthor>
+        <photoAuthor id="1610344" type="person">
+          <name type="editorial">Толстой Лев Николаевич</name>
+          <name type="normalised">Толстой Лев Николаевич</name>
+          <idno type="listPerson" ref="#13883"/>
+        </photoAuthor>
+        <photoAuthor id="1610345" type="person">
+          <name type="editorial">Толстой Михаил Львович</name>
+          <name type="normalised">Толстой Михаил Львович</name>
+          <idno type="listPerson" ref="#13886"/>
+        </photoAuthor>
+        <photoAuthor id="1610340">
+          <name type="editorial">Толстой В. И.</name>
+          <name type="normalised">Толстой В. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610346">
+          <name type="editorial">Тольванин Г.</name>
+          <name type="normalised">Тольванин Г.</name>
+        </photoAuthor>
+        <photoAuthor id="1610347">
+          <name type="editorial">Томашевич Е. С.</name>
+          <name type="normalised">Томашевич Е. С.</name>
+        </photoAuthor>
+        <photoAuthor id="1610528">
+          <name type="editorial">Tourtin Emile</name>
+          <name type="normalised">Tourtin Emile</name>
+        </photoAuthor>
+        <photoAuthor id="1610348">
+          <name type="editorial">Трейвас И.</name>
+          <name type="normalised">Трейвас И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610349">
+          <name type="editorial">Трубецкая Э.</name>
+          <name type="normalised">Трубецкая Э.</name>
+        </photoAuthor>
+        <photoAuthor id="1610350">
+          <name type="editorial">Трунов Георгий Васильевич</name>
+          <name type="normalised">Трунов Георгий Васильевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610372">
+          <name type="editorial">Цикен</name>
+          <name type="normalised">Цикен</name>
+        </photoAuthor>
+        <photoAuthor id="1610529">
+          <name type="editorial">Tuferau W.</name>
+          <name type="normalised">Tuferau W.</name>
+        </photoAuthor>
+        <photoAuthor id="1610351">
+          <name type="editorial">Тулинов М. Б.</name>
+          <name type="normalised">Тулинов М. Б.</name>
+        </photoAuthor>
+        <photoAuthor id="1610328">
+          <name type="editorial">Творницкий В.</name>
+          <name type="normalised">Творницкий В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610530">
+          <name type="editorial">Twardzicki W.</name>
+          <name type="normalised">Twardzicki W.</name>
+        </photoAuthor>
+        <photoAuthor id="1610062">
+          <name type="editorial">Вакуленко Иван Павлович</name>
+          <name type="normalised">Вакуленко Иван Павлович</name>
+        </photoAuthor>
+        <photoAuthor id="1610061">
+          <name type="editorial">Вакуленко Владимир Иванович</name>
+          <name type="normalised">Вакуленко Владимир Иванович</name>
+        </photoAuthor>
+        <photoAuthor id="1610063">
+          <name type="editorial">Валери</name>
+          <name type="normalised">Валери</name>
+        </photoAuthor>
+        <photoAuthor id="1610064">
+          <name type="editorial">Валухин Н. Н.</name>
+          <name type="normalised">Валухин Н. Н.</name>
+        </photoAuthor>
+        <photoAuthor id="1610066">
+          <name type="editorial">Ванштейн О.</name>
+          <name type="normalised">Ванштейн О.</name>
+        </photoAuthor>
+        <photoAuthor id="1610067">
+          <name type="editorial">Вармунд А.</name>
+          <name type="normalised">Вармунд А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610068">
+          <name type="editorial">Варшавский Б. Л.</name>
+          <name type="normalised">Варшавский Б. Л.</name>
+        </photoAuthor>
+        <photoAuthor id="1610070">
+          <name type="editorial">Васильев</name>
+          <name type="normalised">Васильев</name>
+        </photoAuthor>
+        <photoAuthor id="1610071">
+          <name type="editorial">Васильев А.</name>
+          <name type="normalised">Васильев А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610069">
+          <name type="editorial">Василевский Жозеф</name>
+          <name type="normalised">Василевский Жозеф</name>
+        </photoAuthor>
+        <photoAuthor id="1610573" type="organisation">
+          <name type="editorial">Фотослужба ВЦИК</name>
+          <name type="normalised">ВЦИК, фотослужба</name>
+        </photoAuthor>
+        <photoAuthor id="1610072">
+          <name type="editorial">Ведли О.</name>
+          <name type="normalised">Ведли О.</name>
+        </photoAuthor>
+        <photoAuthor id="1610073" type="organisation">
+          <name type="editorial">Фирма «Е. Westly & Сo.» (Вестли Э.)</name>
+          <name type="normalised">Е. Westly & Сo. (Вестли Э.), фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610639" type="organisation">
+          <name type="editorial">Фирма «Фотография Везенберг и Ко»</name>
+          <name type="normalised">Везенберг и Ко, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610074">
+          <name type="editorial">Виганд Карл</name>
+          <name type="normalised">Виганд Карл</name>
+        </photoAuthor>
+        <photoAuthor id="1610075">
+          <name type="editorial">Вильке А.</name>
+          <name type="normalised">Вильке А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610076">
+          <name type="editorial">Винкерте Б.</name>
+          <name type="normalised">Винкерте Б.</name>
+        </photoAuthor>
+        <photoAuthor id="1610078">
+          <name type="editorial">Виноградов Н. Д.</name>
+          <name type="normalised">Виноградов Н. Д.</name>
+        </photoAuthor>
+        <photoAuthor id="1610077">
+          <name type="editorial">Виноградов В. Д.</name>
+          <name type="normalised">Виноградов В. Д.</name>
+        </photoAuthor>
+        <photoAuthor id="1610907">
+          <name type="editorial">Винтер М. Л. (Winter M. L.)</name>
+          <name type="normalised">Винтер М. Л. (Winter M. L.)</name>
+        </photoAuthor>
+        <photoAuthor id="1610080">
+          <name type="editorial">Витлин А.</name>
+          <name type="normalised">Витлин А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610586" type="organisation">
+          <name type="editorial">Фирма «А. и Я. Витлин»</name>
+          <name type="normalised">Витлин А. и Я., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610081">
+          <name type="editorial">Витлин Я.</name>
+          <name type="normalised">Витлин Я.</name>
+        </photoAuthor>
+        <photoAuthor id="1610640" type="organisation">
+          <name type="editorial">Военные топографы Кавказской армии</name>
+          <name type="normalised">Военные топографы Кавказской армии, организация</name>
+        </photoAuthor>
+        <photoAuthor id="1610531">
+          <name type="editorial">Voigt</name>
+          <name type="normalised">Voigt</name>
+        </photoAuthor>
+        <photoAuthor id="1610087">
+          <name type="editorial">Волховский</name>
+          <name type="normalised">Волховский</name>
+        </photoAuthor>
+        <photoAuthor id="1610086">
+          <name type="editorial">Волконский</name>
+          <name type="normalised">Волконский</name>
+        </photoAuthor>
+        <photoAuthor id="1610083">
+          <name type="editorial">Волков Иван</name>
+          <name type="normalised">Волков Иван</name>
+        </photoAuthor>
+        <photoAuthor id="1610084">
+          <name type="editorial">Волков М. П.</name>
+          <name type="normalised">Волков М. П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610085">
+          <name type="editorial">Волковир Б. И.</name>
+          <name type="normalised">Волковир Б. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610088">
+          <name type="editorial">Воюцкий В.</name>
+          <name type="normalised">Воюцкий В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610082">
+          <name type="editorial">Вознесенский А.,</name>
+          <name type="normalised">Вознесенский А.,</name>
+        </photoAuthor>
+        <photoAuthor id="1610091">
+          <name type="editorial">Вяткин А.</name>
+          <name type="normalised">Вяткин А.</name>
+        </photoAuthor>
+        <photoAuthor id="1610089">
+          <name type="editorial">Высоцкий Вл.</name>
+          <name type="normalised">Высоцкий Вл.</name>
+        </photoAuthor>
+        <photoAuthor id="1610090">
+          <name type="editorial">Высоцкий Влодзимеж (Владимир Викентьевич)</name>
+          <name type="normalised">Высоцкий Влодзимеж (Владимир Викентьевич)</name>
+        </photoAuthor>
+        <photoAuthor id="1610532">
+          <name type="editorial">W. W. Burnand. Poole</name>
+          <name type="normalised">Burnand W. W. Poole</name>
+        </photoAuthor>
+        <photoAuthor id="1610533">
+          <name type="editorial">Walery</name>
+          <name type="normalised">Walery</name>
+        </photoAuthor>
+        <photoAuthor id="1610534">
+          <name type="editorial">Warnod</name>
+          <name type="normalised">Warnod</name>
+        </photoAuthor>
+        <photoAuthor id="1610662" type="organisation">
+          <name type="editorial">Фирма «Warnod & Caccia»</name>
+          <name type="normalised">Warnod & Caccia, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610572" type="organisation">
+          <name type="editorial">Фирма «G. West & Son A. J. West»</name>
+          <name type="normalised">West G. & Son West A. J., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610628" type="organisation">
+          <name type="editorial">Фирма «G. West & Son. Alfred John West»</name>
+          <name type="normalised">West G. & Son West A. J., фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610565" type="organisation">
+          <name type="editorial">Фирма «Lambert Weston & Son»</name>
+          <name type="normalised">Weston Lambert & Son, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610535">
+          <name type="editorial">Weyde, van der William M.</name>
+          <name type="normalised">Weyde, van der William M.</name>
+        </photoAuthor>
+        <photoAuthor id="1610536">
+          <name type="editorial">Wigand-Sohn</name>
+          <name type="normalised">Wigand-Sohn</name>
+        </photoAuthor>
+        <photoAuthor id="1610537">
+          <name type="editorial">Wilcke August</name>
+          <name type="normalised">Wilcke August</name>
+        </photoAuthor>
+        <photoAuthor id="1610407">
+          <name type="editorial">Якоби</name>
+          <name type="normalised">Якоби</name>
+        </photoAuthor>
+        <photoAuthor id="1610408">
+          <name type="editorial">Ясвоин А. И.</name>
+          <name type="normalised">Ясвоин А. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610409">
+          <name type="editorial">Ясвоин В.</name>
+          <name type="normalised">Ясвоин В.</name>
+        </photoAuthor>
+        <photoAuthor id="1610404">
+          <name type="editorial">Югрин Б.</name>
+          <name type="normalised">Югрин Б.</name>
+        </photoAuthor>
+        <photoAuthor id="1610405">
+          <name type="editorial">Юргенсон Э. М.</name>
+          <name type="normalised">Юргенсон Э. М.</name>
+        </photoAuthor>
+        <photoAuthor id="1610629" type="organisation">
+          <name type="editorial">Фирма Захарьина (бывш. Шпаковского)</name>
+          <name type="normalised">Захарьина, фирма (бывш. Шпаковского)</name>
+        </photoAuthor>
+        <photoAuthor id="1610140">
+          <name type="editorial">Захаров Н. П.</name>
+          <name type="normalised">Захаров Н. П.</name>
+        </photoAuthor>
+        <photoAuthor id="1610141">
+          <name type="editorial">Захарьин Петр Алексеевич</name>
+          <name type="normalised">Захарьин Петр Алексеевич</name>
+        </photoAuthor>
+        <photoAuthor id="1610663" type="organisation">
+          <name type="editorial">Фирма «Zander & Labisch»</name>
+          <name type="normalised">Zander & Labisch, фирма</name>
+        </photoAuthor>
+        <photoAuthor id="1610137">
+          <name type="editorial">Занис К.</name>
+          <name type="normalised">Занис К.</name>
+        </photoAuthor>
+        <photoAuthor id="1610138">
+          <name type="editorial">Заранкин А. И.</name>
+          <name type="normalised">Заранкин А. И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610139">
+          <name type="editorial">Затьянов Ф. Т.</name>
+          <name type="normalised">Затьянов Ф. Т.</name>
+        </photoAuthor>
+        <photoAuthor id="1610143">
+          <name type="editorial">Здобнов Дмитрий Спиридонович</name>
+          <name type="normalised">Здобнов Дмитрий Спиридонович</name>
+        </photoAuthor>
+        <photoAuthor id="1610144">
+          <name type="editorial">Здобнов С. Д.</name>
+          <name type="normalised">Здобнов С. Д.</name>
+        </photoAuthor>
+        <photoAuthor id="1610132">
+          <name type="editorial">Жданов Владимир Александрович</name>
+          <name type="normalised">Жданов Владимир Александрович</name>
+        </photoAuthor>
+        <photoAuthor id="1610133">
+          <name type="editorial">Жерюзе И.</name>
+          <name type="normalised">Жерюзе И.</name>
+        </photoAuthor>
+        <photoAuthor id="1610135">
+          <name type="editorial">Жихак А. Ф.</name>
+          <name type="normalised">Жихак А. Ф.</name>
+        </photoAuthor>
+        <photoAuthor id="1610134">
+          <name type="editorial">Живаго Василий Романович</name>
+          <name type="normalised">Живаго Василий Романович</name>
+        </photoAuthor>
+        <photoAuthor id="1610539">
+          <name type="editorial">Zimmerman Charles A.</name>
+          <name type="normalised">Zimmerman Charles A.</name>
+        </photoAuthor>
+        <photoAuthor id="1610142">
+          <name type="editorial">Звягин Н. Н.</name>
+          <name type="normalised">Звягин Н. Н.</name>
+        </photoAuthor>
+      </listPhotoAuthors>
+    </body>
+  </text>
+</TEI>
