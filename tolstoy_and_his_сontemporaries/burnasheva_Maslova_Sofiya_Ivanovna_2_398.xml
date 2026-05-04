@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Maslova_Sofiya_Ivanovna_2_398">Маслова София Ивановна</title>
+        <title type="bibl">
+          Шестакова Е. Г. Маслова София Ивановна // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888156">
+                  <name>Шестакова Е. Г.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20130">Маслова София Ивановна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Маслова София Ивановна</head>
+      <ab type="bibliographicalEntry">
+        <p>(ум. в 1902 г.) — младшие сёстры, «обе небольшого роста, худощавые и живые», занимались хозяйством; «деятельные и трудолюбивые, они вставали раньше всех, неся на себе все домашние заботы. Кроме того, они поддерживали сношения с деревней, нередко оказывали материальную помощь нуждающимся крестьянам, лечили больных женщин и детей, для чего держали у себя целую аптеку» (Савёлова З.Ф. Мои воспоминания о С.И. Танееве // С.И. Танеев. Материалы и документы. Т. L Переписка и воспоминания. М., 1952. С. 323). Заботливость Анны Ивановны распространялась и на Танеева, для которого она переписывала ноты, покупала нужное из вещей и выполняла разнообразные поручения и вообще заботилась о нём, как о ближайшем родственнике.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

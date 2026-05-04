@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Bannikova_Anna_Petrovna_2_057">Банникова Анна Петровна</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Банникова Анна Петровна // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="941">Банникова Анна Петровна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Банникова Анна Петровна</head>
+      <ab type="bibliographicalEntry">
+        <p>(1807-после 1858) — скотница в усадьбе Толстых. По её просьбе Толстой в 1856 г. отпустил на волю её дочерей Анну и Авдотью. Все продолжали служить в усадьбе. В 1860-е гг. Авдотья училась в школе Толстого. О ней в «Дневнике яснополянской школы» Толстой писал: «Дворовая самостоятельная девочка, с озабоченным лицом, сидящая всегда на высоком столе; так и кажется, каждое слово глотает» (8: 40). В ОР ГМТ хранится её тетрадь по рисованию.</p>
+        <p>Авдотья (Евдокия) была взята в дом Толстых помощницей горничной; известна под именем Душки.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

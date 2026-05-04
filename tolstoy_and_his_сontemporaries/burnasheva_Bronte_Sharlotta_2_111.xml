@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Bronte_Sharlotta_2_111">Бронте Шарлотта</title>
+        <title type="bibl">
+          Алексеева Г. В. Бронте Шарлотта // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888161">
+                  <name>Алексеева Г. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="1905">Бронте Шарлотта</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Бронте Шарлотта</head>
+      <ab type="bibliographicalEntry">
+        <p>(Bronte Charlotte; псевд.: Currer Bell; 1816-1855) — английская писательница, одна из трёх сестёр Бронте. 9/21 июля 1857 г. В.П. Боткину Толстой с восторгом писал о ней: «Прочтите биографию Curer Bell, ужасно интересно по интимному представлению литературных воззрений…» Толстой читал роман Бронте «Джейн Эйр» в конце 1850-х гг., когда интерес его всё больше и больше концентрировался на проблемах воспитания и образования, а в этом романе писательница затрагивает злободневные вопросы образования бедных слоёв общества. В библиотеке Толстого в Ясной Поляне имеется первый том этого сочинения: Charlotte Bronte. Jane Eyre: An autobiography / By Currer Bell. — Leipzig, 1850. — 2 vol. Есть здесь и книга Элизабет Гаскелл о Шарлотте Бронте, лучшая, по общему мнению, работа об английской романистке: Gaskell, Elizabeth Cleghom. ТЪе Life of Charlotte Вгоntё… Leipzig, 1857. — 2 vol. С этой книгой Толстой, вероятно, познакомился в Швейцарии: в дневнике этого периода встречается упоминание о чтении книги. Сохраняется в яснополянской библиотеке и книга «Wuthering Heights», написанная сестрой Шарлотты Эмилией, изданная совместно с романом Анны Бронте «Agnes Grey» и с предисловием самой Шарлотты (Bronte, Emily Jane, Bronte, Anne. Wuthering heights and Agnes Grey. — Leipzig, 1851. — 2 vol.).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

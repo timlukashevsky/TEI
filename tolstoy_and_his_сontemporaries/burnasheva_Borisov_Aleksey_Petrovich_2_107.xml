@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Borisov_Aleksey_Petrovich_2_107">Борисов Алексей Петрович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Борисов Алексей Петрович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="1734">Борисов Алексей Петрович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Борисов Алексей Петрович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1869 — после 1924) — яснополянские крестьяне. Братья служили в усадьбе Толстых: Алексей дворником, Филипп — кучер, почтарь. Оба очень старательные, добросовестные, добрые. Многие в усадьбе относились к ним как к глупым. Толстой их неизменно защищал, считал людьми умными и нравственно здоровыми. Филя был вхож в дом Толстых, дружил с их детьми. Пел, играл на балалайке. О нём Толстой хотел написать.</p>
+        <p>Филька сопровождал писателя на станцию при его уходе из Ясной Поляны. Сам Филипп Петрович рассказывал об этом в 1918 г. В «Почтовом ящике», который возродила в Ясной Поляне А.Л. Толстая в 1923 г., Филю сравнили с «божьей коровкой».</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

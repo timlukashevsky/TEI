@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Vlasov_Vlas_Kirillovich_2_139">Власов Влас Кириллович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Власов Влас Кириллович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="2675">Власов Влас Кириллович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Власов Влас Кириллович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1801-1881) — крестьянин Волконских, затем Толстых. Переведён из деревни Ягодной между 1816-1824 гг. во двор крестьянина Евсея Родионовича как его «приёмуш». Вскоре Влас остался хозяином двора и дал начало роду крестьян с фамилией от его имени. Семья его многочисленная.</p>
+        <p>Толстой хорошо знал эту огромную семью. Влас послужил прототипом одного из героев романа «Декабристы». Упоминался он и в «Дневнике помещика» 7 июня 1856 г. Толстой собрал для совета нескольких стариков. Пришёл «Влас, болезненный, развратный старик» (5: 254). Упомянут Влас в записной книжке 13 марта 1879 г.: рассмотрение в волостном суде его дела со старшим сыном Аввакумом о дележе имущества. «Влас 80 лет, горбатый, слепой, плюгавый, рыжий, длинные космы». Таким Влас изображён и в «Декабристах».</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

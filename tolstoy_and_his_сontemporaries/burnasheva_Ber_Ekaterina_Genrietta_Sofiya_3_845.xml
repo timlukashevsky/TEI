@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Ber_Ekaterina_Genrietta_Sofiya_3_845">Бер Екатерина Генриэтта София</title>
+        <title type="bibl">
+          Богачёва З. М. Бер Екатерина Генриэтта София // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888021">
+                  <name>Богачёва З. М.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20023">Бер Екатерина Генриэтта София</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Бер Екатерина Генриэтта София</head>
+      <ab type="bibliographicalEntry">
+        <p>(Behr; рожд. Крафт; 1842-1908) — переводчица произведений Толстого на немецкий и итальянский языки. Писатель был доволен её работой. Перевод статьи «В чём моя вера?» (Tolstoi Leo. Worin besteht mein Glaube? / Eine Studie von Graf Leo Tolstoi; Aus dem russischen Manuskript übersetzt von Sophie Behr. Leipzig, 1885) он нашёл прекрасным. В 1893 г. появился в печати итальянский вариант трактата «Царство Божие внутри вас»: Il regno di Dio è in voi. Рим, 1893. И его автор читал с удовольствием. «Я ничего не делаю, кроме чтения итальянского. Читаю Царство Божие и очень интересно и полезно», - писал он Т. Л. Толстой 14 октября 1895 г. (68: 214). Несколько огорчила писателя публикация на немецком языке статьи «Религия и нравственность», написанной в ответ на вопросы профессора философии Берлинского университета Г. Гижицкого о вере и этике («Ethische Kultur», 1893, № 52-53; 1894, № 1-3). В тексты первых номеров журнала не были внесены поправки, которые автор посылал во время печатания сочинения. Со всеми исправлениями статья вышла в Берлине в 1894 г. отдельным изданием с предисловием Г. Гижицкого: Tolstoy Leo. Religion und Moral / Antwort auf eine in der «Ethischen Kultur» gestellte Frage von Graf Leo Tolstoy; Aus dem russischen Manuskript übersetzt von Sophie Behr; [Vorwort von G. von Gižycki]. Berlin, 1894. Через год в Берлине был напечатан немецкий вариант статьи Толстого «Патриотизм или мир?» (Patriotismus Oder Frieden? Vom Verfasser autorisierte Übersetzung von S. Behr. Berlin, 1895). София Бер - автор перевода философского трактата Толстого «О жизни» (Über das Leben / Autorisierte Übersetzung von S. Behr. Leipzig, 1889). Известно одно письмо Толстого к переводчице (от 6 марта 1896 г., см.: 69: 54-55). Бер прислала в Ясную Поляну свои очерки (Behr, Sophie. Skizzen. Berlin, 1896) с печатным посвящением писателю: «Graf Leo Tolstoi gewidmet». В личной библиотеке Толстого хранится также двухтомное издание произведений русских поэтов в переводе Бер (Russische Dichtungen / Übersetzt von Sophie Behr. 2 T. Berlin, 1890-1892).</p>
+      </ab>
+      <bibl>Лит.: Талалай M. Переводчицы Толстого Софья Бер и Ирина Паскевич согласно новым итальянским источникам // Лев Толстой и мировая литература: Материалы VII Международной конференции: Музей-усадьба Л. Н. Толстого «Ясная Поляна», 2012. С. 333-343.</bibl>
+    </body>
+  </text>
+</TEI>

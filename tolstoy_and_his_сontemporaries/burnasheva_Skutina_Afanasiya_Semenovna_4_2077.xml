@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Skutina_Afanasiya_Semenovna_4_2077">Ску́тина Афанасия Семёновна</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Ску́тина Афанасия Семёновна // Лев Толстой и его современники: энциклопедия. Вып. 4 / Под общ. ред. Н. И. Бурнашёвой. М.: ИНФРА-М, 2021.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+              <pubPlace>
+                Москва
+              </pubPlace>
+              <publisher>
+                ИНФРА-М
+              </publisher>
+              <date when="2021"/>
+              </imprint>
+              <biblScope unit="volume">
+                4
+              /biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="12765">Ску́тина Афанасия Семёновна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Ску́тина Афанасия Семёновна</head>
+      <ab type="bibliographicalEntry">
+        <p>(с 1925 г. Юрьева Роза; 1879-1945) — корреспондент и адресат Толстого; крестьянка села Хайдук Шогринской волости Ирбитского уезда Пермской губ.; поэтесса. Родилась в бедной крестьянской семье. После смерти отца стала фактически батрачкой у своего дяди, хозяина деревенской лавки. Всю свою жизнь тянулась к свету: самоучкой выучилась грамоте, старалась много читать, начала писать стихи… В молодости прочитала романы «Война и мир», «Анна Каренина», «Воскресение» и др. произведения Толстого.</p>
+        <p>19 октября 1906 г. написала Толстому в Ясную Поляну. Описала свою трудную жизнь и послала четыре стихотворения собственного сочинения: «Доля крестьянки», «Работница», «Сентябрь», «Средь шумной столицы» — в них говорилось о тяжёлой доле крестьянской, о нищете русской деревни, о несчастном детстве крестьянских детей и беспросветном их будущем, о голоде, холоде и непосильном труде. Вот одно из этих стихотворений:</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

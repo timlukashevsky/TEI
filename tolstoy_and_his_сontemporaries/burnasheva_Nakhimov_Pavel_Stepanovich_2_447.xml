@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Nakhimov_Pavel_Stepanovich_2_447">Нахимов Павел Степанович</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Нахимов Павел Степанович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="9597">Нахимов Павел Степанович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Нахимов Павел Степанович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1802-1855) — вице-адмирал, выдающийся флотоводец; в 1854-1855 гг. руководил обороной Севастополя. Толстой в одной из первых дневниковых записей о Нахимове отметил его среди «порядочных людей» «из начальников». Герой Севастополя, Нахимов ещё при жизни стал личностью легендарной, пользовался большим авторитетом среди солдат и офицеров; его присутствие поднимало дух войска. 28 июня 1855 г. был смертельно ранен на Малаховом кургане (Корниловском бастионе).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

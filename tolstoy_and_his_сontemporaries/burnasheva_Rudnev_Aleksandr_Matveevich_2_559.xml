@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Rudnev_Aleksandr_Matveevich_2_559">Руднев Александр Матвеевич</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Руднев Александр Матвеевич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="11935">Руднев Александр Матвеевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Руднев Александр Матвеевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(род. в 1842 г.) — главный врач Тульской губ. больницы; «хороший наш знакомый» (86: 274), как писал Толстой. Лечил всех Толстых, взрослых и детей; лечил семью С.Н. Толстого, который писал, что Руднев — «человек опытный и хороший», «добрый человек» (ПТСБ. С. 416, 419). Неоднократно писатель просил его принять больных мужиков. Летом 1885 г. Толстой, «работая в поле и возя снопы», сильно повредил ногу, «возникло рожистое воспаление, начиналось заражение крови, температура поднялась». С.Л. Толстой вспоминал, что жизнь отца «была в большой опасности; его спасли врачи Чирков и Руднев» (Очерки былого. Гл. «С осени до осени 1898 года. 1884-1887 годы»).</p>
+        <p>В.Г. Чертков считал, что доктор Руднев — «очень надёжный» (67: 205).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

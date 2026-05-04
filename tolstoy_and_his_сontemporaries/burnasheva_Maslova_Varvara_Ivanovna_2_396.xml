@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Maslova_Varvara_Ivanovna_2_396">Маслова Варвара Ивановна</title>
+        <title type="bibl">
+          Шестакова Е. Г. Маслова Варвара Ивановна // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888156">
+                  <name>Шестакова Е. Г.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20129">Маслова Варвара Ивановна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Маслова Варвара Ивановна</head>
+      <ab type="bibliographicalEntry">
+        <p>(ум. в 1905 г.), старшая сестра, была любительницей живописи, брала уроки у художника В.Е. Маковского и постоянно что-нибудь писала. Семья Толстых познакомилась с В.И. Масловой в 1881 г.: Варвара Ивановна училась вместе с Татьяной Львовной Толстой в Училище живописи, ваяния и зодчества. Среди взрослых учениц Варвара Ивановна была уже «довольно пожилой дамой», которая с увлечением занималась живописью. С.А. Толстая вспоминала: «Вот этой-то милой Варваре Ивановне поручил Лев Николаевич свою юную шалунью Таню, и она не только добросовестно присматривала за Таней, но потом ласкала её, звала к себе, и Таня охотно посещала их дом, который был в некотором роде центром всякого искусства. Друзьями Масловых были и художники (Маковский и его семья), и музыканты (Танеев, Чайковский, Аренский и другие), и много лучших, порядочных людей» (Толстая С.А. Моя жизнь // Прометей. 12. С. 169).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

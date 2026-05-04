@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Ershov_Semen_Yakovlevich_2_248">Ершов Семён Яковлевич</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Ершов Семён Яковлевич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="5004">Ершов Семён Яковлевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Ершов Семён Яковлевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1852-1917) — яснополянский крестьянин. Его приглашал Толстой на совет о том, как лучше истратить гонорар за роман «Воскресение» на помощь крестьянам. В 1872 г. Толстой крестил его сына Льва. Жена Ершова — Ольга Родионовна из Егоровых — была одной из лучших учениц в школе Толстого 60-х гг.; дружила с детьми Толстых. За малый рост её называли Мышкой. Толстой подарил ей Евангелие. В рассказе «Три дня в деревне. Подати» в числе просителей у писателя была и Ольга Ершова, старушка, у которой тоже за недоимки описали тёлку. За несколько дней до ухода из Ясной Поляны Толстой побывал у О.Р. Ершовой.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Osten-Saken_Dmitriy_Erofeevich_2_486">Остен-Сакен Дмитрий Ерофеевич</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Остен-Сакен Дмитрий Ерофеевич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="10315">Остен-Сакен Дмитрий Ерофеевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Остен-Сакен Дмитрий Ерофеевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1789/90-1881), граф — генерал-адъютант, начиная с 1805 г. участник всех войн с Наполеоном и других военных кампаний. 28 ноября 1854 г., после кровопролитного и проигранного Инкерманского сражения, был назначен начальником севастопольского гарнизона; на Пасху в 1855 г. ему пожалован графский титул. Известная набожность Остен-Сакена нередко становилась предметом скрытой, а порой и явной насмешки офицеров. Упоминался в дневниках, письмах Толстого и в его севастопольской песне: А там Сакен-генерал Всё акафисты читал Богородице.</p>
+        <p>В данной ситуации это был незаслуженный упрёк Остен-Сакеиу, который не слышал сигнала к выступлению гарнизона не потому, что «акафисты читал», а потому, что Горчаков не подал этого сигнала.</p>
+        <p>После Крымской войны был членом Гос. совета.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

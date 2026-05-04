@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Sverbeev_Nikolay_Dmitrievich_4_2063">Свербеев Николай Дмитриевич</title>
+        <title type="bibl">
+          Чурсина Л. К. Свербеев Николай Дмитриевич // Лев Толстой и его современники: энциклопедия. Вып. 4 / Под общ. ред. Н. И. Бурнашёвой. М.: ИНФРА-М, 2021.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888153">
+                  <name>Чурсина Л. К.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+              <pubPlace>
+                Москва
+              </pubPlace>
+              <publisher>
+                ИНФРА-М
+              </publisher>
+              <date when="2021"/>
+              </imprint>
+              <biblScope unit="volume">
+                4
+              /biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="12324">Свербеев Николай Дмитриевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Свербеев Николай Дмитриевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1874-1905) — сын Свербеева Д. Д., тульского вице-губернатора, курляндского губернатора, знакомого Л. Н. Толстого. О своём общении с молодым 26-летним Николаем Свербеевым Толстой, гостящий в имении Сухотиных Кочеты, сообщал в письме С. А. Толстой 18 октября 1900 г.: «Михаил Сергеевич [Сухотин] в Новосиле, нынче вечером ждут. Здесь две девицы Сологуб и сейчас был Николай Свербеев» (84: 351).</p>
+        <p>Три сына Д. Д. Свербеева были военными моряками и все трое приняли участие в Русско-японской войне: ушли в 1904 г. в поход 2-й Дальневосточной эскадры вице-адмирала З. П. Рожественского. Прапорщик Николай Дмитриевич Свербеев и его старший брат лейтенант Сергей Дмитриевич Свербеев погибли в сражении при Цусиме: один — на крейсере «Светлана», другой — на борту флагманского броненосца «Князь Суворов».</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

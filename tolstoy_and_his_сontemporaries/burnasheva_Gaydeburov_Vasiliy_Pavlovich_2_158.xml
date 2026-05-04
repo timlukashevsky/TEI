@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Gaydeburov_Vasiliy_Pavlovich_2_158">Гайдебуров Василий Павлович</title>
+        <title type="bibl">
+          Прокопчук Ю. В. Гайдебуров Василий Павлович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888116">
+                  <name>Прокопчук Ю. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="3038">Гайдебуров Василий Павлович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Гайдебуров Василий Павлович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1866-1940) — журналист, поэт (под псевдонимами Гарри В. и Гарри Г. писал декадентские стихи); в 1890-е гг. редактор газет «Неделя» и «Русь»; сын писателя и публициста П.А. Гайдебурова. Окончил юридический факультет Петербургского университета. В советское время работал юристом и экономистом.</p>
+        <p>В. Гайдебуров — посетитель, корреспондент и адресат Толстого. Встретились они 1 марта 1894 г. и переписывались в 1894-1895 гг. В 1894 г. в издаваемых Гайдебуровым «Книжках Недели» было опубликовано переведённое Толстым с английского языка «Письмо И. Мадзини о бессмертии». Впоследствии Толстой отклонял предложения Гайдебурова о публикации своих произведений в издаваемых им газетах, однако присылал ему рукописи своих единомышленников — М.А. Сопоцько и П.Н. Гастева.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

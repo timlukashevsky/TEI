@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Ge_Petr_Nikolaevich_3_940">Ге Пётр Николаевич</title>
+        <title type="bibl">
+          Дробат Л. С. Ге Пётр Николаевич // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888040">
+                  <name>Дробат Л. С.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="3194">Ге Пётр Николаевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Ге Пётр Николаевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1859-1939) — знакомый, корреспондент и адресат Толстого; младший сын художника H. Н. Ге: архитектор, художественный критик, переводчик, искусствовед. Статский советник. Родился в Риме, жил в Киеве и С.-Петербурге. Неоднократно встречался с Толстым, который помог ему передать В. В. Стасову для публикации переписку H. Н. Ге с Толстым (опубл. в 1904 г.). Получил в наследство хутор Ивановский, где частыми гостями были художник М. А. Врубель с женой. Её старшая сестра Екатерина была с 1883 г. женой Петра Ге. В 1918 г. уехал с детьми в Киев, позже эмигрировал в Берлин, затем в Сербию. Последние годы жизни провёл в Русском доме престарелых, похоронен в Белграде. Письма, адресованные П. Н. Ге, Толстой, как правило, заканчивал словами: «Вы для меня всегда будете дороги. Любящий вас Л. Толстой» (67: 151).</p>
+      </ab>
+      <bibl>Лит.: Николай Николаевич Ге. К 180-летию со дня рождения. М., 2011.</bibl>
+    </body>
+  </text>
+</TEI>

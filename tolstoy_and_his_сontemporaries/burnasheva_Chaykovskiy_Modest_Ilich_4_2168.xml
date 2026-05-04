@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Chaykovskiy_Modest_Ilich_4_2168">Чайковский Модест Ильич</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Чайковский Модест Ильич // Лев Толстой и его современники: энциклопедия. Вып. 4 / Под общ. ред. Н. И. Бурнашёвой. М.: ИНФРА-М, 2021.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+              <pubPlace>
+                Москва
+              </pubPlace>
+              <publisher>
+                ИНФРА-М
+              </publisher>
+              <date when="2021"/>
+              </imprint>
+              <biblScope unit="volume">
+                4
+              /biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="15145">Чайковский Модест Ильич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Чайковский Модест Ильич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1850-1916) — знакомый Толстого; младший брат П. И. Чайковского; драматург, переводчик, либреттист: ему принадлежат либретто опер «Пиковая дама», «Иоланта», «Дубровский». Первый биограф композитора, автор трёхтомной его биографии «Жизнь Петра Ильича Чайковского». Родился в г. Алапаевске. Закончил Училище правоведения.</p>
+      </ab>
+      <bibl>Литературная деятельность М. Чайковского началась в 1874 г.: он выступил как музыкальный и театральный критик; тогда же была написана его первая пьеса «Благодетель» (позднее переработана и названа «Борцы», 1897 г.). В театрах ставились его пьесы «Лизавета Николаевна», «Симфония», «Похмелье», «Предрассудки», «День в Петербурге» и др. Переводил сонеты Шекспира. Основатель Музея П. И. Чайковского в Клину.</bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Marakuev_Vladimir_Nikolaevich_3_1230">Мараку́ев Владимир Николаевич</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Мараку́ев Владимир Николаевич // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="8511">Мараку́ев Владимир Николаевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Мараку́ев Владимир Николаевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(?-1921) — писатель, видный деятель народного образования. Не без его участия родилась идея организации издательства «Посредник». С 1882 г. издавал книги в серии «Народная библиотека»; в числе художественных сочинений им были изданы и рассказы Толстого «Чем люди живы», «Бог правду видит, да не скоро скажет», «Кавказский пленник», разошедшиеся в десятках тысяч экземпляров. Он сам автор брошюр «О школьных библиотеках» (М., 1884), «Что читал и читает русский народ» (М., 1886), составитель списка книг для самообразования. Взгляды Маракуева на народное чтение были очень близки взглядам Толстого, который привлёк его к организации дела народных изданий: в феврале 1884 г. Маракуев был в числе лиц, собиравшихся у Толстого в хамовническом доме для обсуждения проекта народного издательства. В 1890-1891 гг. - издатель журнала «Сотрудник».</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

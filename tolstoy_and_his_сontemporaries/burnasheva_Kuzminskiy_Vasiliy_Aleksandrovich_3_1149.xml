@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Kuzminskiy_Vasiliy_Aleksandrovich_3_1149">Кузминский Василий Александрович</title>
+        <title type="bibl">
+          Хомякова Е. Ю. Кузминский Василий Александрович // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888146">
+                  <name>Хомякова Е. Ю.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="7290">Кузминский Василий Александрович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Кузминский Василий Александрович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1882-1933) — родственник Толстого; второй сын А. М. и Т. А. Кузминских, племянник С. А. Толстой. Лейтенант гвардейского экипажа; участник Русско-японской войны, был в бою при Цусиме. 1 августа 1908 г. Т. А. Кузминская по просьбе сына написала Толстому письмо, в котором спрашивала, какого полка был Вронский, персонаж романа «Анна Каренина». 4 августа 1908 г. Толстой отвечал: «Не могу сказать, какого именно полка был Вронский. Только, наверное, не лейб-гусар. Желал бы, чтобы твой милый Вася интересовался бы узнать от меня вещи более нужные для жизни. Братски целую тебя, Сашу и Васю. Л. Толстой» (78: 192). В тот же день «Л. Н. рассказал, что получил письмо от Т. А. Кузминской: “Пишет “с великой просьбой”, спрашивает (я ожидал серьёзный вопрос, радовался): между её сыном-кавалергардом и другими возник спор, был ли Вронский кавалергард или лейб-гусар. Какие вопросы интересуют петербургскую молодёжь!”» (ЯПЗ. 3. С. 158).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

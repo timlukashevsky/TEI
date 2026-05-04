@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Brashnin_Ivan_Petrovich_3_884">Бра́шнин Иван Петрович</title>
+        <title type="bibl">
+          Дробат Л. С. Бра́шнин Иван Петрович // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888040">
+                  <name>Дробат Л. С.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="1855">Бра́шнин Иван Петрович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Бра́шнин Иван Петрович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1826-1898) — московский купец, знакомый Толстого, близкий ему по духу. Был дружен с известным толстовцем А. Н. Дунаевым. Вместе с ним или самостоятельно неоднократно посещал Толстого. «Пришёл Брашнин. Прошёлся с ним. Он прямо ищет наставления, как жить» (50: 66). Толстой и Брашнин были знакомы 15 лет. Писатель симпатизировал Брашнину, просил Дунаева: «…передайте Брашнину. - Л. Д. мою любовь» (65: 200). В марте 1898 г. тяжело больной Брашнин (у него был рак печени) накануне смерти просил Толстого прийти проститься. Когда Толстой пришёл, то увидел совершенно спокойного человека, в полной памяти и ясности ума, всё было так просто, спокойно, серьёзно, и близость смерти не нарушала привычного хода душевной жизни. Толстой сказал, что это потому, что в его сознании не было лжи, «ни причастия, ни Иверской, ни дорогих врачей, ни завещаний, ни соборований». Об этом Толстой написал в одном из писем А. К. Чертковой (88: 87).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Ershov_Yakov_Ivanovich_2_249">Ершов Яков Иванович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Ершов Яков Иванович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20064">Ершов Яков Иванович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Ершов Яков Иванович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1829-1868) — из потомственных яснополянских крестьян (в прошлом близких родственников Базыкиных; часто именующихся их фамилией). В «Дневнике помещика» 5 июня 1856 г. Толстой отметил, что на сходке крестьян при обсуждении вопроса о земле выступил против выкупа земли в течение 25 лет «Яков, белобрысый бойкий мужик, сказал, что никто не доживёт до этого срока. … Сначала напали бедняки, и из первых Яков, на то, что оброчным нечего ходить, ежели не все» (5: 253). В воспоминаниях О.Р. Ершовой, снохи Якова Ивановича, говорится, что их фамилия произошла от их предка-спорщика, задиристого на сходках. Его назвали «ершом». Так фамилия и появилась. Дети и внуки Ершова в документах именуются то Ершовыми, то Базыкиными.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

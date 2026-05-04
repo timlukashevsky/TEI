@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Bannikov_Mitrofan_Nikolaevich_2_059">Банников Митрофан Николаевич</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Банников Митрофан Николаевич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="937">Банников Митрофан Николаевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Банников Митрофан Николаевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(не ранее 1843-?) — слуга Толстых. В 1860-х гг. Митрофан — объездчик, затем приказчик и управляющий Ясной Поляны в период болезни А.С. Орехова и после его смерти в 1882 г до октября 1884 г. Прозван Кацапом за драчливость и грубость.</p>
+        <p>Неоднократно упоминается Митрофан в письмах и дневнике Толстого. «Митрофан очень хорошо распоряжается …. Он очень старается и очень толков», — сообщал Толстой жене (83: 330). Вместе с Митрофаном в январе 1884 г. Толстой шил башмаки дворовой Агафье Михайловне.</p>
+        <p>В том же 1884 г. Митрофан «увёл» жену у Фёдора Резунова. Толстой возмущался, даже хотел освободить его от «должности» и сам управлять имением, посоветовался с Софьей Андреевной. Она не советовала, и Толстой согласился, боясь обидеть Митрофана. Тот сам попросил освободить его от должности в октябре 1884 г.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

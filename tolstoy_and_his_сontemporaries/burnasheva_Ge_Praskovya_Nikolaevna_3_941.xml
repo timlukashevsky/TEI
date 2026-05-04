@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Ge_Praskovya_Nikolaevna_3_941">Ге Прасковья Николаевна</title>
+        <title type="bibl">
+          Дробат Л. С. Ге Прасковья Николаевна // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888040">
+                  <name>Дробат Л. С.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="3195">Ге Прасковья Николаевна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Ге Прасковья Николаевна</head>
+      <ab type="bibliographicalEntry">
+        <p>(«Парася»; 1878-1959) — внучка художника H. Н. Ге, дочь его старшего сына Николая. Жила на хуторе Ивановском (1883-1894). Вместе с отцом периодически жила в Ясной Поляне (1884-1889), потом с отцом и братом Иваном переехала в Алушту (1895). После отъезда отца в Швейцарию (1901) осталась в Крыму, работала медсестрой, окончила фельдшерские курсы в Туле (1905-1910). Ездила к отцу в Швейцарию (1905, 1909-1910) и на обратном пути посетила Толстого в Ясной Поляне. Писатель расспрашивал её об отце. Парася переписывалась с Татьяной Львовной Толстой. Последний раз видела Толстого в 1910 г., незадолго до его смерти. Автор воспоминаний «Страницы прошлого. Воспоминания о H. Н. Ге».</p>
+      </ab>
+      <bibl>Лит.: Николай Николаевич Ге. К 180-летию со дня рождения. М., 2011. С. 399-403.</bibl>
+    </body>
+  </text>
+</TEI>

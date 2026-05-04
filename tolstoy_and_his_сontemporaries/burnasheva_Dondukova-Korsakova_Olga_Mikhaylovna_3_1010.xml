@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Dondukova-Korsakova_Olga_Mikhaylovna_3_1010">Дондуко́ва-Ко́рсакова Ольга Михайловна</title>
+        <title type="bibl">
+          Мазур T. Р. Дондуко́ва-Ко́рсакова Ольга Михайловна // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888087">
+                  <name>Мазур T. Р.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="4568">Дондуко́ва-Ко́рсакова Ольга Михайловна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Дондуко́ва-Ко́рсакова Ольга Михайловна</head>
+      <ab type="bibliographicalEntry">
+        <p>(1834-?) — знакомая Толстого, дочь князя М. А. и М. Н. Дондуковых-Корсаковых, жена Н. Г. фон Регенкампфа, члена смоленского окружного суда. В письме из Гиера к гр. А. А. Толстой от 25 ноября 1860 г. писатель тепло отзывался об Ольге Михайловне: «Однако желанье ваше читать Евангелие я исполню. У меня теперь нет его, но ваша хорошая знакомая Ольга Дундукова обещала мне дать его. Она милая женщина, особенно потому для меня, что напоминает вас и любит» (ПАТ 2011. С. 187). Ольга Михайловна Дондукова-Корсакова подсказала Толстому в 1861 г. сюжет будущего рассказа «Поликушка», нал которым писатель начал работать в Брюсселе.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

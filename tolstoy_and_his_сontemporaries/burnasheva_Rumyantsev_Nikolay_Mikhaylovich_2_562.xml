@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Rumyantsev_Nikolay_Mikhaylovich_2_562">Румянцев Николай Михайлович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Румянцев Николай Михайлович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="11953">Румянцев Николай Михайлович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Румянцев Николай Михайлович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1814-1894) — главный повар Толстых в Ясной Поляне, из потомственных поваров у Толстых. В прошлом крестьянин Волконских. Был взят в дворню как музыкант-флейтист. Затем переведён в кухонные мужики. Женился на дворовой Анне, дочери слуги Тихона Ильича Аникина. Служил у Толстых до конца 1880-х гг. Затем жил на пенсии. Пользовался в усадьбе большим авторитетом: был поваром от Бога, по отзывам Толстых.</p>
+        <p>Часто упоминался в письмах, дневнике Толстого. 29 апреля 1887 г. Толстой писал жене во время своей болезни: «Н.М. готовит отличные обеды, и я совсем здоров и заниматься мне ничто не мешает».</p>
+        <p>Четыре сына Н.М. Румянцева учились в школе Толстого в 1860-1870-е гг. Толстой и С.А. Толстая были восприемниками при крещении его сыновей Егора и Семёна. T.JI. Толстая в 1893 г. написала портрет Н.М. Румянцева.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

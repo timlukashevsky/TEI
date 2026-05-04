@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Egorov_Petr_Filippovich_2_242">Егоров Пётр Филиппович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Егоров Пётр Филиппович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="4846">Егоров Пётр Филиппович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Егоров Пётр Филиппович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1866-после 1924) — яснополянский крестьянин. Учился в школе Толстых в 70-х гг. Толстой отрядил его вместе с Н. Минаевым продавать книги по окрестным деревням. Но дело не очень пошло: ребят обокрали; дело пришлось оставить.</p>
+        <p>Пётр одним из первых подписал у Толстых «Согласие против пьянства». Дружил с детьми Толстых. Вместе отдыхали и читали. Мальчишкой был драчлив, но быстро мирился.</p>
+        <p>Одним из первых среди яснополянцев написал воспоминания о Толстом. В 1920 г. по поручению крестьян Ясной Поляны вместе с И. Кондауровым в Москве хлопотал об освобождении А.Л. Толстой из заключения по обвинению в деле «Тактического центра». Дошли до Председателя ВЦИКа М.И. Калинина, и АЛ. Толстую освободили.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

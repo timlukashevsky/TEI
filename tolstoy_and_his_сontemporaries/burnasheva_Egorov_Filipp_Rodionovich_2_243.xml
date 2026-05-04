@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Egorov_Filipp_Rodionovich_2_243">Егоров Филипп Родионович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Егоров Филипп Родионович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="4849">Егоров Филипп Родионович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Егоров Филипп Родионович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1839-1895) — яснополянский крестьянин, прослужил у Толстых более 30 лет. И.М. Ивакин, домашний учитель старших сыновей Толстого, рассказывал в своих «Записках»: «Вот, если идти дорожкой от господской конюшни, изба Филиппа Родивоныча. В моё время он ещё служил кучером — ездил раз или два в неделю, а то случалось и больше, в Тулу за покупками, почтой, гостем. Сколько бывало ему разных поручений от графини, детей, учителей, гувернанток, дворовых: кому письмо опустить, кому купить пряников, кому лекарства или чаю четвёртку и т.д. Филипп ничего не забывал, всё исполнит, бывало, в точности. Когда умер управляющий Ясной Поляной Алексей Степаныч Орехов, умер в 1882 г. — Н.Ш., бывший с графом ещё в Севастополе и носивший ему судки с супом на батареи, сан управляющего был передан ему. Филипп и тут сумел быть на высоте призвания» («Неизвестный Толстой. В архивах России и США». М., 1994. С. 94-95) Н. И. Шинкарюк</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

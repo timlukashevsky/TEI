@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Popov_Evgeniy_Ivanovich_2_515">Попов Евгений Иванович</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Попов Евгений Иванович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="11086">Попов Евгений Иванович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Попов Евгений Иванович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1864-1938) — близкий друг Толстого, его последователь, посетитель, корреспондент и адресат. Педагог, переводчик. Один из тех «незаметных» помощников, с которыми Толстому было легко и просто, как с самим собой. Принимал активное участие в работе издательства «Посредник». Автор книги «Жизнь и смерть Евдокима Никитича Дрожжина. 1866-1894»; Толстой написал послесловие к этой книге.</p>
+        <p>Часто и подолгу жил в Ясной Поляне, сопровождал Толстого в его прогулках и поездках, переписывал сочинения писателя. помогал ему в переводах. Вместе с Толстым принимал участие в помощи голодающим, вместе с ним ходил пешком из Москвы в Ясную Поляну и оставил об этом путешествии воспоминания (Попов Е.И. Отрывочные воспоминания о Л.Н. Толстом // Летописи. Кн. 2).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

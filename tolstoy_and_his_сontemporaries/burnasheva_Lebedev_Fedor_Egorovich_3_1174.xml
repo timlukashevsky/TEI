@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Lebedev_Fedor_Egorovich_3_1174">Ле́бедев Фёдор Егорович</title>
+        <title type="bibl">
+          Гладун О. В. Ле́бедев Фёдор Егорович // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888034">
+                  <name>Гладун О. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="7687">Ле́бедев Фёдор Егорович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Ле́бедев Фёдор Егорович</head>
+      <ab type="bibliographicalEntry">
+        <p>(даты жизни не установлены) — помогал Толстому в работе на голоде в 1891-1892 гг. В письме из Бегичевки от 7 марта 1892 г. Толстой отмечал: «…после завтрака ездил к Лебедеву свести счёты по складу» (84: 134-135). Склад продовольствия для снабжения столовых находился в селе Колодези Данковского уезда, километрах в пятнадцати от Бегичевки и километрах в семи от деревни Грязновки, Епифанского уезда, где Лебедев был управляющим имением московского губ. предводителя дворянства В. И. Ершова. Толстой упоминал Лебедева в письме о рассылке по складам всей имеющейся в Клекотках ржи («Ржи два вагона отправьте к Лебедеву, управляющему Ершова, в Грязновку» - 66: 151) и др. распоряжениях по ходу организации работы.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

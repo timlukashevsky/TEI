@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Figner_Nikolay_Nikolaevich_2_696">Фигнер Николай Николаевич</title>
+        <title type="bibl">
+          Айнбиндер А. Г. Фигнер Николай Николаевич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888002">
+                  <name>Айнбиндер А. Г.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="14510">Фигнер Николай Николаевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Фигнер Николай Николаевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1857-1918) — певец, лирико-драматический тенор. Учился в Петербургской консерватории, затем совершенствовался в Италии. В 1882 г. дебютировал в Неаполе. С успехом гастролировал в странах Европы и Южной Америки. В 1887 г. дебютировал на сцене Мариинского театра в Петербурге. В 1910-1915 гг. солист, художественный руководитель и директор оперной труппы Петербургского народного дома.</p>
+        <p>Фигнер в совершенстве владел искусством бельканто. Он уделял большое внимание не только вокальной стороне партии, но и её сценическому воплощению; был первым исполнителем партии Германна в «Пиковой даме» и Водемона в «Иоланте» П.И. Чайковского, Владимира Дубровского в опере Э.Ф. Направника «Дубровский».</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

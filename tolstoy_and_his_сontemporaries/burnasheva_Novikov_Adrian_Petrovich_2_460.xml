@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Novikov_Adrian_Petrovich_2_460">Новиков Адриан Петрович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Новиков Адриан Петрович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="9850">Новиков Адриан Петрович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Новиков Адриан Петрович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1865-1930) — крестьянин. Семья Новиковых происходила из деревни Боровково Тульского уезда. Давние знакомые Толстого, его посетители, корреспонденты и адресаты. Последователи его взглядов. 26 октября 1902 г. в письме к А.Ф. Кони Толстой сообщал: «В Тульском уезде есть замечательная по нравственности, уму и образованию семья крестьян Новиковых». Толстой особенно тесно был связан с братьями Адрианом и Михаилом. Адриан служил лакеем в Москве у Волконских. Со взглядами Толстого познакомился через свою барыню. Неоднократно бывал в Ясной Поляне, переписывался с Толстым. В 1903 г. написал «Записки лакея». Толстой читал их в рукописи. Сочинение Новикова произвело ни нею сильное впечатление. Впоследствии он не раз перечитывал «Записки». Хотел написать что-то подобное сам. «Записки лакея» опубликованы в 1905 г.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>
