@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Shevich_Lidiya_Dmitrievna_2_741">Шевич Лидия Дмитриевна</title>
+        <title type="bibl">
+          Белова Т. В. Шевич Лидия Дмитриевна // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888016">
+                  <name>Белова Т. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="15518">Шевич Лидия Дмитриевна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Шевич Лидия Дмитриевна</head>
+      <ab type="bibliographicalEntry">
+        <p>(рожд. Блудова; 1815-1882) — младшая дочь Д.Н. Блудова. В 1833-1835 гг. фрейлина императрицы. Семья Блудовых принадлежала к кругу аристократических знакомых Толстого в Петербурге. В середине 1850-х гг., бывая в Петербурге, Толстой посещал дом Шевич, проводил время в её компании. Осенью 1856 г. имя Шевич часто упоминалось в дневнике: «Ездил на острова с Шевич. Приятно» (47: 69); «…у Шевич слушал дурной рассказ, у Дружинина приятно» (47: 174). Были и такие записи: «…был у Шевич, скучно, играл» (47: 103). «Вечер у Шевич с Козловой. Тупоумны» (46: 161). «У Блудовых Лидия конфузила меня своим выражением привязанности. Я боюсь, что это мешает мне видеть в ней много дурного; простились с ней» (47: 72). Со временем, вероятно, их отношения стали более отдалёнными.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

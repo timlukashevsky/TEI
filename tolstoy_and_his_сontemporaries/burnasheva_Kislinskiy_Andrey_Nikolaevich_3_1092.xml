@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Kislinskiy_Andrey_Nikolaevich_3_1092">Кисли́нский Андрей Николаевич</title>
+        <title type="bibl">
+          Никитина Н. А. Кисли́нский Андрей Николаевич // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888099">
+                  <name>Никитина Н. А.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="6436">Кисли́нский Андрей Николаевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Кисли́нский Андрей Николаевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1831-1888) — председатель Тульской губ. земской управы, знакомый Толстых. Был женат на Наталье Александровне, урождённой баронессе Бистром. С. А. Толстая, бывая в Туле, делала визиты семье Кислинских. Сам Кислинский очень часто бывал в доме Толстых в Ясной Поляне и в Москве, о чём свидетельствуют многочисленные упоминания в дневниках Толстого. «После обеда с Кислинским пошёл ходить» (49: 69). «За обедом Кислинский» (49: 80). Вероятно, его частые визиты бывали утомительны; С. А. Толстая писала мужу из Москвы в Ясную Поляну: «Иду сейчас в залу, наверх, там все девять детей и неизбежный по воскресеньям Кислинский. Как от него отделаться помягче, и ума не приложу!» (ПСАТ. С. 270).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

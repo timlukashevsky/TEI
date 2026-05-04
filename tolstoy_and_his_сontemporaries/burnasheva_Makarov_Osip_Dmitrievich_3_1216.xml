@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Makarov_Osip_Dmitrievich_3_1216">Мака́ров Осип Дмитриевич</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Мака́ров Осип Дмитриевич // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="8325">Мака́ров Осип Дмитриевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Мака́ров Осип Дмитриевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1853-?) — яснополянский крестьянин-бедняк, которому Толстой много помогал: косил с ним его луговой надел, «рубил деревья», засевал его поле, возил с поля урожай. «Мы убирали покос с Степаном Резуновым и Осипом Макаровым - очень хорошо было» (письмо И. Б. Файнерману 8 июля 1887 г. Ясная Поляна. - 64: 57). 19 июля 1889 г. в дневнике Толстой записал: «После завтрака пошёл косить у Осипа. Много скосил. Он прибежал, жилистый, чёрный, убрал лошадь, накормил ребят и тотчас же взялся работать» (50: 109). 5 августа того же года: «Косил остаток и потом до ночи возил овёс у Осипа. Замочил дождь» (50: 119). Толстой переживал, когда «Осип напоролся на вилы. Кажется, не опасно», - с удовлетворением заметил он в дневнике 5 июля 1889 (50: 104).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

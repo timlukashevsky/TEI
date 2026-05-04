@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Komstadius_Iosif_Karlovich_2_323">Комстадиус Иосиф Карлович</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Комстадиус Иосиф Карлович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="6780">Комстадиус Иосиф Карлович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Комстадиус Иосиф Карлович</head>
+      <ab type="bibliographicalEntry">
+        <p>(«Камстадиус»; ум. в 1854 г.) — пггабс-капитан, сослуживец Толстого в Дунайской армии; один из участников организации Общества для содействия просвещению и образованию среди войска, идея которого принадлежала Толстому.</p>
+        <p>«План общества перешёл в план журнала», участником этого нового замысла — издания журнала «Военный листок» (первоначальное название «Солдатский вестник») — также был Комстадиус. После его гибели в Инкерманском сражении Толстой записал в дневнике: «В числе бесполезных жертв этого несчастного дела убиты Соймонов и Комстадиус. Про первого говорят, что он был одним из немногих честных и мыслящих генералов русской армии; второго же я знал довольно близко; он был членом нашего общества и будущим издателем Журнала. Его смерть более всего побудила меня проситься в Севастополь. Мне как будто стало совестно перед ним» (47: 28).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

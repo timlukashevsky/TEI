@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Anosov_Ivan_Vasilevich_2_029">Аносов Иван Васильевич</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Аносов Иван Васильевич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="521">Аносов Иван Васильевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Аносов Иван Васильевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(даты жизни не установлены) — участник Крымской кампании, офицер 14-й артиллерийской бригады, в которой служил Толстой. В 1855-1856 гг. прислал «с театра военных действий», из Крыма в Петербург литератору М. Венюкову список песни «Как четвёртого числа…». Аносов очень осторожно сообщал об авторстве Толстого, «чтобы не наделать беды Толстому, если сочинитель действительно он». Только в феврале 1875 г. этот список был опубликован в журнале «Русская старина» (первая публикация полного текста песни в России). Список Аносова лёг в основу авторизованного текста песни, опубликованного П.И. Бирюковым.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

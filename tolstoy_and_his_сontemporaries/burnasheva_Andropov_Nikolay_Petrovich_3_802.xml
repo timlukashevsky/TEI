@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Andropov_Nikolay_Petrovich_3_802">Андро́пов Николай Петрович</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Андро́пов Николай Петрович // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="466">Андро́пов Николай Петрович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Андро́пов Николай Петрович</head>
+      <ab type="bibliographicalEntry">
+        <p>(Антропов; даты жизни не установлены) — сослуживец Толстого по Дунайской армии, с 16 марта 1854 г. полковник, командир Донского казачьего № 40 полка. Общение с Андроповым, нередкие споры с ним заставляли Толстого пристальнее вглядываться в себя. Стремясь к самоусовершенствованию и желая избавиться от своих порогов, он осуждал себя в дневнике: «Уже нынче я спорил с Антроповым о том, должно ли или нет ему ехать в Журжу, с раздражительностью и излишним самолюбием» (4 июля 1854 г. - 47: 6), и тут же упрекал себя за то, что был «раздражителен с Антроповым» (47: 6). 12 июля 1854 г.: «Вечером позвал к себе Антропова, чтобы взять денег, и спорил с ним, т. е. присутствие его возбуждало мои мысли. Я люблю это, хотя к этому примешивается всегда неприятное и дурное чувство, что он не может оценить моих мыслей» (47: 12). В дальнейшем имя Андропова на жизненном пути Толстого не встречается.</p>
+      </ab>
+      <bibl>Лит.: Зайончковский А. М. Восточная война 1853-1856 гг. Т. 2, ч. 2. С. 659.</bibl>
+    </body>
+  </text>
+</TEI>

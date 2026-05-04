@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Shevale_Ippolit_3_1602">Шевалье Ипполит</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Шевалье Ипполит // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="15513">Шевалье Ипполит</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Шевалье Ипполит</head>
+      <ab type="bibliographicalEntry">
+        <p>(даты жизни не установлены) — владелец модных в середине XIX в. гостиницы и ресторана в Москве в Старо-Газетном переулке в доме Маркова (ныне: Камергерский переулок, напротив Московского Художественного театра). В молодости Толстой не раз останавливался в этой гостинице и довольно часто посещал ресторан Шевалье. Вместе с братьями H. Н. и С. Н. Толстыми и друзьями Б. Н. Чичериным, А. А. Фетом, Н. С. Кашкиным, H. С. Мухановым, А. В. Оболенским и др. нередко проводил здесь вечера и половину ночи: обед, ужин, «цыганы»… В начатом романе «Декабристы» Толстой местом действия сделал эту «лучшую московскую гостиницу» (17: 9), ресторан и говорил о его роли в жизни «золотых молодых людей» в Москве 1850-х гг. Из ресторана Шевалье на Кавказ уезжал Дмитрий Оленин в повести «Казаки». Сам Шевалье, «хозяин-француз», появлялся как персонаж в «Декабристах» в своей роли и под своей реальной фамилией.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Andreev_Matvey_4_1651">Андре́ев Матвей</title>
+        <title type="bibl">
+          Матвеева И. Ю. Андре́ев Матвей // Лев Толстой и его современники: энциклопедия. Вып. 4 / Под общ. ред. Н. И. Бурнашёвой. М.: ИНФРА-М, 2021.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888090">
+                  <name>Матвеева И. Ю.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+              <pubPlace>
+                Москва
+              </pubPlace>
+              <publisher>
+                ИНФРА-М
+              </publisher>
+              <date when="2021"/>
+              </imprint>
+              <biblScope unit="volume">
+                4
+              /biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20003">Андре́ев Матвей</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Андре́ев Матвей</head>
+      <ab type="bibliographicalEntry">
+        <p>(«Матюша»; отчество и годы жизни не установлены) — камердинер графа Николая Ильича Толстого, отца Льва Толстого. См. в этом выпуске статью: Андреев Пётр.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

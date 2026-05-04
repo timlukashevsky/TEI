@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Kholl_Bolton_2_716">Холл Болтон</title>
+        <title type="bibl">
+          Алексеева Г. В. Холл Болтон // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888161">
+                  <name>Алексеева Г. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20218">Холл Болтон</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Холл Болтон</head>
+      <ab type="bibliographicalEntry">
+        <p>(Hall Bolton; 1854-1938) — американский литератор, лектор, корреспондент и адресат Толстого. В личной библиотеке писателя в Ясной Поляне есть две книги Холла, близкого по взглядам Толстому, сторонника и пропагандиста учения Г. Джорджа, друга Э. Кросби (Hall, В. The Game of life. — N.Y., 1902; Hall, В. Life, and love and peace. — N.Y., 1909). В 1897 г. Холл прислал Толстому своё изложение трактата «О жизни», одобренное Толстым в письме к В.Г. Черткову. В письме к Холлу 2 марта 1897 г. Толстой замечал: «Надеюсь, что эта книга, в этой новой форме, будет в том смысле, как я желал, полезнее для более широкой публики, чем оригинал» (70: 41-42). В марте 1908 г. Холл прислал Толстому экземпляр американского журнала «The Single Tax Review» (1908. Vol. 7. № 3), в котором пропагандировались экономические идеи Г. Джорджа. В библиотеке сохраняется этот экземпляр журнала с отмеченной Холлом для Толстого статьёй. 20 сентября 1908 г., как записал Д.П. Маковицкий, Толстой читал книгу Холла «The Game of life», в оглавлении отмечены простым карандашом, вероятно, рукой Толстого названия некоторых рассказов.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

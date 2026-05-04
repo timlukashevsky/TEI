@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Filimonov_Vasiliy_Semenovich_2_699">Филимонов Василий Семёнович</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Филимонов Василий Семёнович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="14527">Филимонов Василий Семёнович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Филимонов Василий Семёнович</head>
+      <ab type="bibliographicalEntry">
+        <p>(ум. в 1891 г.) — офицер, командир лёгкой № 3 батареи, в которой Толстой служил в Севастополе. В январском дневнике 1855 г. Толстой характеризовал Филимонова как «самое сальное создание, которое можно себе представить». Внешний облик и характер капитана отразились в произведениях, над которыми писатель работал в Севастополе: в рассказе «Рубка леса» черты Филимонова узнаваемы в Абраме Ильиче Кирсанове; в незавершённом сочинении «Характеры и лица» («Командир части — хороший человек») — в капитане Белоногове; в рассказе «Севастополь в августе 1855 года» — в «обозном офицере», к которому братья Козельцовы заехали на Северной стороне, по дороге в Севастополь.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

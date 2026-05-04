@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Fokanov_Karp_Mikhaylovich_2_701">Фоканов Карп Михайлович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Фоканов Карп Михайлович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="14634">Фоканов Карп Михайлович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Фоканов Карп Михайлович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1828-1899) — потомственный яснополянский крестьянин. Фокановы — старейший и один из самых многочисленных крестьянских родов Ясной Поляны от крестьянина Фоки Петровича (1694-1746). С 1763 г. принадлежали князю Волконскому. Фамилия «Фокановы» закрепилась и осталась без изменения в XIX в. Многие Фокановы оставили заметный след в истории Ясной Поляны и в творчестве Толстого: для него Фокановы были олицетворением русского народа. Наиболее тесно он был связан с несколькими Фокановыми. Фоканов К.М. — четвёртый сын М.М. Фоканова. Хозяйство у Карпа было крепкое. Пчеловод. В «Утре помещика» Толстой назвал его Дутловым — богатым мужиком. Изба у него высокая и просторная, с двумя трубами, посреди деревни. Т.Л. Толстая в 1894 г. написала его портрет.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

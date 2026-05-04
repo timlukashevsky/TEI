@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Rumyantsev_Semen_Nikolaevich_2_563">Румянцев Семён Николаевич</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Румянцев Семён Николаевич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="11955">Румянцев Семён Николаевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Румянцев Семён Николаевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1867-1932) — потомственный повар Толстых в Ясной Поляне. Ученик школы Толстого 1870-х гг. Крестник С.А. Толстой. Поручителем при венчании у Семёна был A.Л. Толстой. На кухне с самого детства, как повар был незаменим. Готовил по праздникам знаменитый плум-пудинг, облитый ромом: он пылал, когда его несли к столу. На 9 марта выпекал целые семейства жаворонков.</p>
+        <p>С Толстым бывал во всех поездках. В 1879 г. писатель крестил у Семёна сына Дмитрия. Румянцев имел дом на земле Толстого в Ясной Поляне; когда болел, Толстой посещал его. «Сейчас после гулянья, — запись в дневнике 23 октября 1910 г., — зашёл к Семёну поговорить об его здоровье и был доволен собой, как медный грош…»</p>
+        <p>С.Н. Румянцев был самостоятелен в суждениях, смел, независим, хотя и очень сдержан. Все его уважали и ценили. В г. он получил от Толстых самое большое пособие среди слуг в 1500 руб.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Solomonida_2_601">Соломонида</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Соломонида // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="13000">Соломонида</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Соломонида</head>
+      <ab type="bibliographicalEntry">
+        <p>(«Саламанида»; фамилия и даты жизни неизвестны) — молодая казачка из станицы Старогладковской; ею был увлечён Толстой (далеко не платонически) во время пребывания в станице. Толстого познакомил с Соломонидой «дядя Япишка»: «Пьяный Япишка вчера сказал, что с Саламанидой дело на лад идёт. Хотелось бы мне её взять и отчистить», — запись в дневнике 26 августа 1851 г. Несколько месяцев длилось это увлечение; в дневнике не раз мелькает имя казачки. 18 апреля 1853 г. Толстой записал: «После обеда был у Епишки и говорил с Саламанидой, груди у неё подурнели; однако мне ещё очень нравится. Впрочем, всё юное сильно действует на меня: каждая женская голая нога, мне кажется, принадлежит красавице». Последняя запись о казачке сделана 2 июля 1853 г.: «Саламанида уехала совсем». Дальнейшая судьба её неизвестна.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

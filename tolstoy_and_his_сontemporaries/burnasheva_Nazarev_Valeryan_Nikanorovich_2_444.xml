@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Nazarev_Valeryan_Nikanorovich_2_444">Назарьев Валерьян Никанорович</title>
+        <title type="bibl">
+          Коновалова С. А. Назарьев Валерьян Никанорович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888067">
+                  <name>Коновалова С. А.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="9521">Назарьев Валерьян Никанорович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Назарьев Валерьян Никанорович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1826-1902) — сокурсник Толстого по юридическому факультету Императорского Казанского университета. Позднее занимался литературной деятельностью. Мемуары Назарьева «Жизнь и люди былого времени», напечатанные в журнале «Исторический вестник» в 1890 г., содержат сведения о студенческих годах Толстого. Так, им описан случай, как однажды в январе 1846 г. они вместе сидели в карцере за непосещение лекций профессора русской и всеобщей истории Н.А. Иванова. В переписке с П.И. Бирюковым во время работы над «Воспоминаниями» Толстой подтверждал этот факт.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Boytsov_Petr_Vasilevich_3_870">Бойцо́в Пётр Васильевич</title>
+        <title type="bibl">
+          Гладун О. В. Бойцо́в Пётр Васильевич // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888034">
+                  <name>Гладун О. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="1639">Бойцо́в Пётр Васильевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Бойцо́в Пётр Васильевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(даты жизни не установлены) — в 1881 г. поступил к Толстым поваром и прослужил у них несколько лет. Сергей Львович Толстой отмечал в своих воспоминаниях: «Около 15 сентября 1881 г. - О. Г. в Москву переехала вся наша семья …. Поваром к нам поступил нанятый в Москве Пётр Васильевич, добрейший человек, любивший выпивать» (Очерки былого. Гл. «Первая зима в Москве: 1881-1882»). В 1892 г. Бойцов работал с Толстым на голоде в Бегичевке. Старшая дочь писателя Т. Л. Толстая записала 6 февраля: «Живём без прислуги, кроме Петра Васильевича, и очень весело и легко всё делать самим. Хоть бы всегда так» (Сухотина-Толстая Т. Л. Дневник. М., 1979. С. 286). Бойцов вызывал у Толстого симпатию. О нём писатель упоминал в письмах к С. А. Толстой; 19 апреля 1892 г. писал: «Пётр Васильевич, как всегда, спокоен и мил» (84: 138).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

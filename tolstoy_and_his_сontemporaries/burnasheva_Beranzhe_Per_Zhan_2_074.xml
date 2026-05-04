@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Beranzhe_Per_Zhan_2_074">Беранже Пьер Жан</title>
+        <title type="bibl">
+          Поринец Ю. Ю. Беранже Пьер Жан // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888113">
+                  <name>Поринец Ю. Ю.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="1247">Беранже Пьер Жан</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Беранже Пьер Жан</head>
+      <ab type="bibliographicalEntry">
+        <p>(1780-1857) — французский поэт XIX в. С его сочинениями Толстой был хорошо знаком, читал их на языке оригинала. В дневниковой записи 24 июня 1854 г. он упоминал Беранже: «После обеда у генерала читал Беранже».</p>
+        <p>В черновиках «Детства» Толстой цитировал песни Беранже. В Главе 20. «Сбираются гости» есть строки: «Когда проходила мимо нас Валахина с дочерью и спросила, где бабушка, поправляя рукой буклю волос, которая не хотела держаться на настоящем месте, а падала на лоб Сонечке, я не мог, несмотря на то, что был занят одной мыслью — видеть поскорей Петрушу, — не полюбоваться этой девочкой. Она, по моим догадкам, должна была быть со мною одних лет и одного роста; но —</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

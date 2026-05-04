@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Borisova_Aksinya_Titovna_2_106">Борисова Аксинья Титовна</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Борисова Аксинья Титовна // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20030">Борисова Аксинья Титовна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Борисова Аксинья Титовна</head>
+      <ab type="bibliographicalEntry">
+        <p>(1849-?) — яснополянская крестьянка, дочь кучера Тита Борисова. Была замужем за кучером Толстых Ларивоном. Он подробно описан в рассказе «Фальшивый купон»: из солдат, красавец, щёголь, загрустил о лёгкой жизни, запил, начал воровать. Попал в острог, где и умер от чахотки, оставив Аксинью с четырьмя детьми. В «Записках христианина» Толстой отметил, что приходила к нему Тита Борискина баба, т.е. мать Аксиньи. Просила помощи для своей дочери — вдовы с пятью детьми.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Orekhov_Danila_Fedorovich_2_477">Орехов Данила Фёдорович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Орехов Данила Фёдорович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="10234">Орехов Данила Фёдорович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Орехов Данила Фёдорович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1796-1857) — яснополянский крестьянин Волконских-Толстых. В деревне был авторитетом. Имел 13 детей; дети его часто именовались Данилкиными. В «Дневнике помещика» 3 июня 1856 г. Толстой писал: «Потом подъехал к Даниле (богатый, семейный мужик, из ямщиков), худой, бледный, неподобострастный, но добродушный и очень умный. Он подошёл ко мне, когда я заговорил об оброке, с лицом, выражающим стыд за меня, что я — притворяюсь и лгу. Он отделался общими местами, говоря, что и за мной жить хорошо, что при папеньке моём за ним оброк тоже не стоял» (5: 252). Толстой ещё не раз упоминал Данилу Орехова в дневнике.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

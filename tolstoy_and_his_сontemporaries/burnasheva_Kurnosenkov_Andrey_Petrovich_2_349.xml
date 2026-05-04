@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Kurnosenkov_Andrey_Petrovich_2_349">Курносенков Андрей Петрович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Курносенков Андрей Петрович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20109">Курносенков Андрей Петрович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Курносенков Андрей Петрович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1870-1924) — яснополянский крестьянин из беднейшей семьи. Женился, но взяли в солдаты, хотя заплатил колдунье деньги за освобождение от солдатчины. Отслужив, вернулся в Ясную Поляну. Родилось 12 детей. Эту семью Толстой посещал чаще других. Помогал деньгами, защищал от поборов, позднее материально помогала и А.Л. Толстая.</p>
+        <p>Характер у Андрея был ершистый, да и пристрастился к вину, пропадал где-то по целым неделям. Накопились большие недоимки. В ноябре 1909 г. за неуплату податей описали последнюю овцу. Жена Андрея обратилась к Толстому за помощью. В рассказе «Три дня в деревне. Подати» Толстой описывал ужасающую картину, которую он увидел в доме Курносенковых. Пятеро голопузых детей, муж-пьяница, старая покосившаяся избёнка, нервная, нуждой и трудами измученная жена. И тут же в сенях та самая последняя овца, за которой явились стражи порядка.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

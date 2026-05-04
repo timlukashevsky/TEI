@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Biderman_Fridrikh_Karl_2_089">Бидерман Фридрих Карл</title>
+        <title type="bibl">
+          Алексеева В. В. Бидерман Фридрих Карл // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888003">
+                  <name>Алексеева В. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="1416">Бидерман Фридрих Карл</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Бидерман Фридрих Карл</head>
+      <ab type="bibliographicalEntry">
+        <p>(1812-1901) — немецкий историк, журналист, педагог. Толстого интересовал его новый метод преподавания истории. В апреле 1861 г., путешествуя по Германии с целью познакомиться с постановкой народного образования, Толстой общался с Бидерманом, о чём есть записи в дневнике: 5/17 апреля: «Бидерман неглуп, но учёный и литератор, которого часть уже сидит в книге его, а не в нём». Толстой, вероятно, имел в виду книгу Бидермана «Geschichtsunterricht nach kulturgeschichtlicher Methode» («Преподавание истории культурно-историческим методом». — нем.).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

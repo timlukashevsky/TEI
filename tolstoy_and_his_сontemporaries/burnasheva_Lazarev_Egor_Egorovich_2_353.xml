@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Lazarev_Egor_Egorovich_2_353">Лазарев Егор Егорович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Лазарев Егор Егорович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="7569">Лазарев Егор Егорович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Лазарев Егор Егорович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1855 — после 1938) — крестьянин деревни Грачёву Бузулукского уезда Самарской губ. Народоволец, затем эсер. Корреспондент и адресат Толстого.</p>
+        <p>Толстой познакомился с Лазаревым в июне 1883 г. в своём самарском имении и признавал, что он «очень интересен. Образован, умён, искренен, горяч и совсем мужик — и говором и привычкой работать», — писал он жене 8 июля 1883 г. Лазарев стал прототипом Набатова в романе «Воскресение».</p>
+        <p>За революционную деятельность Лазарева дважды арестовывали.</p>
+        <p>Зимой 1884 г. Толстой посетил его в Бутырской тюрьме.</p>
+        <p>Сосланный в Сибирь, в 1890 г. Лазарев бежал из ссылки за границу. Возобновилась его переписка с Толстым, чему писатель был рад и высказывал Лазареву «большую симпатию». Лазарев написал «Воспоминания о Л.Н. Толстом» (опубликованы в 1922 г.).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

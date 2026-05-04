@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Zharova_Natalya_Nikiforovna_2_253">Жарова Наталья Никифоровна</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Жарова Наталья Никифоровна // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="5047">Жарова Наталья Никифоровна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Жарова Наталья Никифоровна</head>
+      <ab type="bibliographicalEntry">
+        <p>(1887 — после 1924 г.) — яснополянская крестьянка, жена Е.И. Жарова, мать Ивана Жарова. Пятая в семье дочка Маша родилась за 4 дня до смерти отца. За больным и роженицей ухаживали Толстые. Толстой косил и пахал для семьи, выполнял многие другие работы. Земли у Жаровых был всего один надел — нужда ужасающая. Толстой предложил Наталье сдать детей в приют, но она отказалась. И тогда он назначил пенсию семье. Старожилы Ясной Поляны до сих пор помнят, как Наталья поступила со своими детьми, как помогали ей Толстые: присылали муку, детям ситец на рубахи и конфеты по праздникам. В 1907 г. Толстой написал прошение тульскому губернатору об освобождении Жаровой от уплаты долгов свёкра (12 руб.). Толстой часто хлопотал о семье и небезуспешно.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

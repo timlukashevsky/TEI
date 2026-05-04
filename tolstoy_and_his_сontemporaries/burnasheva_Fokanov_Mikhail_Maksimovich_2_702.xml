@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Fokanov_Mikhail_Maksimovich_2_702">Фоканов Михаил Максимович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Фоканов Михаил Максимович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="14636">Фоканов Михаил Максимович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Фоканов Михаил Максимович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1791-1873) — крестьянин князей Волконских и графов Толстых. С 1816 г. остался главой огромной своей собственной семьи и семей умерших братьев. В середине 1850-х гг. двор Фокановых насчитывал более 30 человек. С ними жили их родственники, тоже с семьями. Не удивительно, что М.М. Фоканов нашёл отражение в творчестве Толстого. Он прототип одного из главных героев романа «Декабристы», в черновиках названный Дементием Фокановым. Это богатый старик с тремя сыновьями и их семьями. Двор их сильный, первый на селе. Подати платили исправно. Хозяин — человек расчётливый. Это самый рассудительный из мужиков. Толстой оставил в романе и подлинную фамилию Фоканова, и даже такую его примету, как хромота. Появился Михайла Фоканов и в рассказе «Тихон и Маланья».</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

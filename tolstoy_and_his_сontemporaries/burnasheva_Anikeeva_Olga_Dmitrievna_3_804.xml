@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Anikeeva_Olga_Dmitrievna_3_804">Анике́ева Ольга Дмитриевна</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Анике́ева Ольга Дмитриевна // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="479">Анике́ева Ольга Дмитриевна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Анике́ева Ольга Дмитриевна</head>
+      <ab type="bibliographicalEntry">
+        <p>(рожд. Горчакова; 1834-1869) — троюродная тётка Толстого; дочь Д. П. Горчакова, «вольнодумца», члена Академии наук, сестра С. Д. Горчакова. «Знакомая Толстым, друг тётеньки П. И. Юшковой», «простая и милая», как писала С. А. Толстая (CAT. Моя жизнь. 1. С. 88). С. Н. Толстой в письме брату 12 апреля 1853 г. называл Аникееву среди тех, кто «чрезвычайно довольны» его «Детством».</p>
+        <p>Толстой бывал у Аникеевой в Петербурге, где она жила у Певческого моста, и в Москве, куда в декабре 1862 г. привёз к ней познакомить свою молодую жену.</p>
+        <p>В сентябре 1867 г., работая над описанием Бородинского сражения в «Войне и мире», Толстой решил поехать на Бородинское поле, чтобы своими глазами увидеть те места, где происходило сражение. Отправляясь в Бородино, он запасся письмами от О. Д. Аникеевой к управляющему её имением (в 10 верстах от Бородина) и к игуменье монастыря у деревни Семёновское, основанного вдовой погибшего при Бородине генерала Н. А. Тучкова.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

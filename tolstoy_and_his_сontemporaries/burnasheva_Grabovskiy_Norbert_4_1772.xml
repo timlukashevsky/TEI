@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Grabovskiy_Norbert_4_1772">Грабо́вский Норберт</title>
+        <title type="bibl">
+          Ерохин А. В. Грабо́вский Норберт // Лев Толстой и его современники: энциклопедия. Вып. 4 / Под общ. ред. Н. И. Бурнашёвой. М.: ИНФРА-М, 2021.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888043">
+                  <name>Ерохин А. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+              <pubPlace>
+                Москва
+              </pubPlace>
+              <publisher>
+                ИНФРА-М
+              </publisher>
+              <date when="2021"/>
+              </imprint>
+              <biblScope unit="volume">
+                4
+              /biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20049">Грабо́вский Норберт</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Грабо́вский Норберт</head>
+      <ab type="bibliographicalEntry">
+        <p>(Grabowsky; 1861-1922) — немецкий врач и публицист, пропагандист вегетарианства и полового воздержания, автор книг «Воздержание и экстраординарное значение нравственно воздержной жизни для нашего собственного блага и для блага общественности» «Enthaltsamkeit und die ausserordentliche Bedeutung des sittlichenthaltsamen Lebens für unser eignes Wohle wie das der Allgemeinheit» (1901) и «Духовная любовь и сущность духовной жизни, раскрытая через сущность любви. Книга о реформе духа и любовной жизни человечества» «Die geistige Liebe und das Wesen des geistigen Lebens enthüllt durch das Wesen der Liebe. Ein Reformbuch des Geistes und Liebelebens der Menschheit» (Leipzig, 1902). На сегодняшний день практически полностью забыт.</p>
+        <p>В конце февраля 1909 г. Толстой получил из Германии (Вейзенау) от некоего М. Эндерса книгу Н. Грабовского «Духовная любовь» («Geistige Liebe»); в сопроводительном письме отправитель сообщал, что Грабовский — единственный писатель Германии, пишущий о половом воздержании. На конверте Толстой пометил: «Душану, благодарить» (79: 262). Д. П. Маковицкий записал 1 марта: «Л. Н. получил книжку доктора Грабовского: “Geistige Liebe” — о том, что телесная любовь — животное, воздержание — человек. Л. Н. прочёл книжку со вниманием, упрекал Грабовского в самоуверенности, приписывании себе оригинальности, тогда как пять тысяч лет тому назад всё это было сказано. Об этой же книге Л. Н. заговорил вечером за чаем: “Вот я только сейчас читал книгу по поводу половой любви. Везде одно и то же — что можно прожить без брака, воздерживаясь”» (ЯПЗ. 3. С. 345).</p>
+        <p>На следующий день Толстой продолжал читать Грабовского: «Нынче 2 марта 1909. — отметил он в дневнике. … Читал Грабовского Geistige Liebe. Много очень глубокого и хорошего. Надо вникнуть» (57: 31-32). 7 марта за обедом Толстой сказал В. Г. Черткову о книге Грабовского: “Он очень оригинален; у него мания величия; он говорит, что открыл истину, которая тысячи лет известна. Наряду с утверждениями, с которыми я не согласен, есть у него глубочайшие истины. Он в высшей степени религиозный. Я выписал другие его сочинения”» (ЯПЗ. 3. С. 350).</p>
+        <p>Толстой говорил Маковицкому, что «знал Грабовского и раньше, ему помнится, что он раньше писал Л. Н-чу и посылал книги. Поручил поискать их и написать Эндерсу, приславшему книгу Грабовского, что он интересуется ею, и выписать ещё некоторые из его книг», — записал Маковицкий 6 марта (ЯПЗ. 3. С. 349). Возможно, тогда были выписаны ещё несколько книг Грабовского, которые сохранились в ЯПб: это «Bildung, was ist sie und wie wird sie gewonnen?: Ein Handbuch der Selbsterziehung für Erwachsene aller Stände» (Leipzig, 1902); «Eine Neue Aera des geistigen Lebens der Menschheit / Auf Grund der unerreichten Entdeckung Dr. Grabowsky’s» (Berlin, 1901); «Enthaltsamkeit und die ausserordentliche Bedeutung des sittlichenthaltsamen Lebens für unser eignes Wohl wie das der Allgemeinheit» (Zweite verbesserte und vermehrte Auﬂage. Leipzig, 1901).</p>
+        <p>В книге Грабовского «Geistige Liebe» Толстого привлекло, скорее, содержание, чем личность автора. Мысли Грабовского о половом аскетизме во многом совпадали с представлениями Толстого о том, что «можно прожить без брака, воздерживаясь». Толстой проводил и знаменательную параллель между воззрениями Грабовского и взглядами «юного философа» Вейнингера на то, что «есть мужественное и женственное в каждом человеке. У кого и то и другое в одинаковой мере, тот не нуждается в супружестве» (ЯПЗ. 3. С. 349).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Puare_Yakov_Viktorovich_2_523">Пуаре Яков Викторович</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Пуаре Яков Викторович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="11362">Пуаре Яков Викторович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Пуаре Яков Викторович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1826-1877) — француз, учитель гимнастики и фехтовального искусства, владелец гимнастического заведения в Москве, в 1851 г. помещавшегося «против Сундуновских бань в доме кн. Касаткина». Толстой, по природе очень спортивный, сильный, ловкий, любил разного рода физические упражнения и в 1850-1851 гг., живя в Москве, почти ежедневно, нередко два раза в день (часто учитель являлся на дом к ученику), брал у Пуаре уроки гимнастики и фехтования, придавая этим занятиям большое значение: для него это было важно как один из способов самосовершенствования; он даже составил для себя правила и таблицы гимнастических упражнений (см. Юб.: 46: 273-276).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

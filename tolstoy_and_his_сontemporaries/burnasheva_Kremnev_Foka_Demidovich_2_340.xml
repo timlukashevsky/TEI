@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Kremnev_Foka_Demidovich_2_340">Кремнёв Фока Демидович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Кремнёв Фока Демидович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="7144">Кремнёв Фока Демидович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Кремнёв Фока Демидович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1779-1855) — дворовый человек Волконских, затем Толстых. Помогал Толстому в школе 1849 г. Следил, как работали учителя, хотя сам не знал ни арифметики, ни грамматики. Толстой описал его в повести «Детство». В «Воспоминаниях» он тоже не забыт: «…в огромно высокую дверь (тёмно-красную, подмалёванную, двери такие и остались) входит в синем сертуке с высокими со сборками плечами дворецкий, бывшая вторая скрипка в оркестре дедушки, Фока Демидыч, с своими сходящимися поднятыми бровями и с очевидной гордостью и торжественностью объявляет: “Кушанье поставлено”» (гл. VIII).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

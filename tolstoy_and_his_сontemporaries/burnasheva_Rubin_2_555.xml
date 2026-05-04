@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Rubin_2_555">Рубин</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Рубин // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="11906">Рубин</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Рубин</head>
+      <ab type="bibliographicalEntry">
+        <p>(имя и даты жизни неизвестны) — фейерверкер, сослуживец Толстого по 4-й батарейной батарее 20-й полевой артиллерийской бригады на Кавказе. В период работы над рассказом «Рубка леса» фамилия фейерверкера неоднократно упоминалась в дневнике Толстого среди фамилий других солдат батареи: Жданова, Захарова, Спевака… Там же записано несколько историй из солдатской жизни: о помощи Жданова Рубину, когда тот был ещё рекрутом, о случае со строевым ефрейтором Спеваком, у которого украли деньги, данные ему Рубиным «на сохранение», и о реакции Рубина на случившееся. В рассказе «Рубка леса» фейерверкер Рубин выведен под фамилией Максимов.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

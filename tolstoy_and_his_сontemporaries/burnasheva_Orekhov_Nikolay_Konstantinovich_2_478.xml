@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Orekhov_Nikolay_Konstantinovich_2_478">Орехов Николай Константинович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Орехов Николай Константинович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="10236">Орехов Николай Константинович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Орехов Николай Константинович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1895-1941) — яснополянский крестьянин. Ученик в школе Толстого в 1907-1908 гг. По отзывам писателя, Коля был мальчиком весьма понятливым, удивительно милым. Когда в школе речь зашла о том, что нет ни ада, ни рая, Коля сказал: «Тогда и жить не стоит, куды душа-то пойдёт?» Много раз дома Толстой говорил о том, что он доволен мальчиками, особенно Колей. Ребята спорили между собою, какое Евангелие лучше. Но дети есть дети: бывало шалили и учителю приходилось кое-кого удалять с урока.</p>
+        <p>По предложению Коли Орехова в апреле 1908 г. была сделала фотография учеников Толстого у «дерева бедных». Толстой на своём любимом коне Делире и пятеро его учеников. Коля Орехов был дружен с детьми и внуками Толстых, особенно с Ильёй Андреевичем. А.Л. Толстая написала рассказ «Николка» о детских и юношеских годах Николая Орехова. Опубликован в 1991 г. в журнале «Диалог» (18 декабря).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

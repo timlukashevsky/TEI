@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Zyabrev_Petr_Osipovich_2_280">Зябрев Пётр Осипович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Зябрев Пётр Осипович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="5531">Зябрев Пётр Осипович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Зябрев Пётр Осипович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1843-1908) — яснополянский крестьянин, младший сын Осипа Зябрева, любимец отца. Ученик школы Толстого 1849 г.; книголюб и деревенский философ, имел большую библиотеку. Мужики частенько собирались у него потолковать о книгах и жизни. Частым гостем бывал Толстой, читал ему свои новые сочинения. В своих суждениях Пётр Осипович бывал резок, смел, даже заносчив, считал себя выше господ и учёных; случалось, спорил с Толстым, упрекал его в неправильных действиях. Но, несмотря на все сложности характера Петра Осиповича, Толстой считался с его мнением, любил слушать его рассуждения о древних философах, о книгах исторического содержания, о путешествиях.</p>
+        <p>Зябрев в последние дни своей жизни написал воспоминания, в которых рассказал о школе Толстого, о своей сложной семье, об обучении крестьянина трудовым навыкам.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

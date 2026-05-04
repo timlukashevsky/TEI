@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Zhidkova_Mariya_Vlasievna_2_260">Жидкова Мария Власиевна</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Жидкова Мария Власиевна // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20069">Жидкова Мария Власиевна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Жидкова Мария Власиевна</head>
+      <ab type="bibliographicalEntry">
+        <p>(1835-1891) — яснополянская крестьянка, вторая жена Анисима Жидкова. Родила 9-х детей. Поделиться горем, рассказать о нужде шла к Толстому. В записной книжке 30 апреля 1879 г. он отметил: «Жидкова прибежала, испуганная, босая, избу не велят на старом месте ставить и нового не указывают». В письме к С.А. Толстой в мае 1886 г. сказано: «Нынче Жидкова пришла и говорила, что сын её поехал пахать не евши» (83: 571). Жидкова более 13 лет вдовствовала и вела хозяйство одна. Толстой постоянно помогал семье после смерти Анисима.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

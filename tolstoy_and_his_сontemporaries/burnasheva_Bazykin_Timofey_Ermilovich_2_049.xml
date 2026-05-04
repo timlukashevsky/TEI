@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Bazykin_Timofey_Ermilovich_2_049">Базыкин Тимофей Ермилович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Базыкин Тимофей Ермилович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="867">Базыкин Тимофей Ермилович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Базыкин Тимофей Ермилович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1861-1934) — яснополянский крестьянин; сын Аксиньи Базыкиной. Был дружен с детьми Толстых. А.Л. Толстая в книге «Отец» (М., 1989. С. 104) писала о нём: «Эго был могучий, широкоплечий, высокий человек с умными серыми глазами, русой бородой и крупными чертами лица. Тимоша был малограмотный, но любил читать книги. В деревне его уважали и считали честным человеком. Необыкновенно приятный голос и культурность речи невольно обращали на себя внимание людей, встречавшихся с ним». Тимофей особенно дружил с Андреем Львовичем, у которого служил конюхом. Они любили друг друга. Андрей Львович в 1897 г. крестил у Тимофея дочь Наталью. Когда Андрей Львович умер в 1916 г., Тимофей, как пишет внук Толстого Сергей Михайлович, «горевал очень» (Дети Толстого. С. 182-183).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

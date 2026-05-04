@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Markkham_Edvin_3_1233">Ма́ркхам Эдвин</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Ма́ркхам Эдвин // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20125">Ма́ркхам Эдвин</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Ма́ркхам Эдвин</head>
+      <ab type="bibliographicalEntry">
+        <p>(Markham Edwin; 1852-1940) — корреспондент и адресат Толстого; известный американский поэт. Родился в штате Орегон. В 1899 г. вышла его поэма «The Man with the Ное» («Человек с мотыгой»), обличавшая социальный строй, беспощадно и жестоко эксплуатирующий рабочего человека. В США широко известны и др. его произведения: «Lincoln and other Poems» (1900), «Shoes of Happiness and other Poems» (1924). В 1900 г. Э. Маркхам прислал в Ясную Поляну свою книгу «Человек с мотыгой. И другие стихотворения» («The Man with the Ное. And other Poems», New York, 1899 - книга сохранилась в ЯПб) с автографом: «Графу Льву Толстому с горячим приветом, с той стороны земли. Эдвин Маркхам, Бруклин, Нью-Йорк, 5 января 1900». В письмах к Толстому Маркхам признавался, что для многих американцев русский писатель «является пророком и идеалом», называл его «учителем», «светочем» «для многих в Америке». Эти два письма Толстой получил в январе 1899 г. и в январе 1900 г. Он отвечал Маркхаму 5 февраля 1900 г., благодарил его за присылку книги и писал: «Мне нравятся ваши стихи, в особенности первая поэма, служащая ключом ко всей книге. Для меня большая радость иметь таких друзей, как вы, по ту сторону земли, как вы говорите» (72: 298).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

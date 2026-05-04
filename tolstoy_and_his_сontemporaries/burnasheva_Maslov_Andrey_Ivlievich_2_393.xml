@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Maslov_Andrey_Ivlievich_2_393">Маслов Андрей Ивлиевич</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Маслов Андрей Ивлиевич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20127">Маслов Андрей Ивлиевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Маслов Андрей Ивлиевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1840-1908) — безземельный крестьянин деревни Телятинки. Ученик школы Толстого 1849 г. Толстой посетил Маслова 9 октября 1908 г. и просил написать воспоминания, называл его своим другом. Маслов был уже тяжело болен. Жил в сторожке у реки Воронки. Писатель вспоминал, как Маслов спасался на печке во время паводка, просил принести его, Толстого, фотографию и смотрел на неё с умилением. Маслов привлекал внимание Толстого трагической яркостью своей судьбы горемычного безземельного крестьянина, о чём он рассказал в своих воспоминаниях (ОР ГМТ). А.Б. Гольденвейзер вспоминал, что тип и судьба Маслова были «нужны Льву Николаевичу для его художественной работы, возможно, для работы над замыслом “Нет в мире виноватых”».</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

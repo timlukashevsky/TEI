@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Shchegolenok_Vasiliy_Petrovich_2_756">Щеголёнок Василий Петрович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Щеголёнок Василий Петрович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="15850">Щеголёнок Василий Петрович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Щеголёнок Василий Петрович</head>
+      <ab type="bibliographicalEntry">
+        <p>(Шевелёв В.П.; 1805-после 1886 г.) — крестьянин-сказитель из Олонецкой губ. Толстой познакомился с ним в Москве в 1879 г. Пригласил в Ясную Поляну, где Щеголёнок гостил летом. Толстой записал с его слов более 20 былин. Они стали основой таких сочинений писателя, как «Чем люди живы», «Два старика», «Корней Васильев», «Разрушение ада и восстановление его», «Молитва»… Толстой переработал их, некоторые вспомнил через 20 лет и использовал для «Круга чтения».</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

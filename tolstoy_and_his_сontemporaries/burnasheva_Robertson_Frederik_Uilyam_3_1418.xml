@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Robertson_Frederik_Uilyam_3_1418">Ро́бертсон Фредерик Уильям</title>
+        <title type="bibl">
+          Алексеева Г. В. Ро́бертсон Фредерик Уильям // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888161">
+                  <name>Алексеева Г. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="11735">Ро́бертсон Фредерик Уильям</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Ро́бертсон Фредерик Уильям</head>
+      <ab type="bibliographicalEntry">
+        <p>(Robertson; 1816-1853) — известный английский проповедник, богослов, о котором высоко отзывались современники, включая Ч. Диккенса. В ЯПб имеются два издания его проповедей: Robertson F. W. Sermons / Preached at Trinity Chapel, Brighton, by … Frederick W. Robertson… - Leipzig: В. Tauchnitz, 1861-1866.-4 vols.-(Collection of British Authors; Vol. 556-559); Robertson F. W. Sermons preached at Brighton / By … Frederick W. Robertson …: Second series. - London: Kegan Paul, Trench and Co., 1886. Ha втором издании сохранились следы чтения, скорее всего, Толстого в виде отчёркиваний и подчёркиваний. Толстой включил в «Круг чтения» фрагмент из Sermons Робертсона: «Опасно отыскивать причину зла вне нас. Покаяние при этом становится невозможным» (41: 533). Толстой ссылался на Робертсона в дневнике и письмах. 22 февраля 1889 г. он записал в дневнике, что взял «у Готье Robertson’a» (50: 40). В письме к М. М. Ледерле писатель упоминал Sermons Робертсона среди сочинений, произведших на него «с 50-ти до 63-х лет» «большое впечатление» (66: 68).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

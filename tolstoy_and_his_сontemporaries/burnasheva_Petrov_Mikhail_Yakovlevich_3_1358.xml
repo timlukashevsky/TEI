@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Petrov_Mikhail_Yakovlevich_3_1358">Петро́в Михаил Яковлевич</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Петро́в Михаил Яковлевич // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="10734">Петро́в Михаил Яковлевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Петро́в Михаил Яковлевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1881-?) — корреспондент и адресат Толстого, псаломщик из слободы Прогорелой Богучарского уезда Воронежской губ. 22 сентября 1907 г. он писал Толстому о своём критическом отношении к духовенству, но вместе с тем задавал вопрос: «Пока существует духовная каста, она должна же жить. Как, по-вашему, она должна поступать, чтобы не ошибиться в движении наравне с остальным мыслящим человечеством?» (ОР ГМТ). По поручению Толстого на письмо ответил H. Н. Гусев, объяснив, «что Лев Николаевич считает деятельность духовной касты вредной» (Гусев H. Н. Два года с Л. Н. Толстым. М., 1973. С. 59). Петрову была послана книга Толстого «Обращение к духовенству». Сам Толстой приписал к письму Гусева: «Посылаю вам эту книгу и письмо, любя, и прошу, надеюсь, что вы примете их так же» (77: 222-223).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

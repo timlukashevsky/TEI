@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Morris_Uilyam_3_1270">Мо́ррис Уильям</title>
+        <title type="bibl">
+          Алексеева Г. В. Мо́ррис Уильям // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888161">
+                  <name>Алексеева Г. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="9293">Мо́ррис Уильям</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Мо́ррис Уильям</head>
+      <ab type="bibliographicalEntry">
+        <p>(Morris William; 1834-1896) — английский поэт, писатель-социалист, издатель, яркий представитель второго поколения «прерафаэлитов». Увлекался Карлейлем, испытал серьёзное влияние Рёскина, интересовался идеями социального преображения общества. Толстой был знаком с его сочинениями, в частности с одним из самых известных произведений поэта, наиболее полно отражающим его политические взгляды, - романом «Вести ниоткуда, или Эпоха спокойствия». Моррис написал книгу в ответ на утопию Э. Беллами «Оглядываясь назад или 2000 год», которая также сохраняется в ЯПб. Толстой ставил Морриса в один ряд с такими писателями, как Э. Беллами, А. Франс (36: 352). В «Круг чтения» он включил отрывок на 28 февраля: «Можно допустить, что искусство умрёт, но немыслимо, чтобы искусство могло жить, раболепствуя перед богатством и глумясь над бедностью» (41: 137).</p>
+        <p>Бывший секретарь Морриса С. Кокрель 29 июня 1903 г. посетил Толстого в Ясной Поляне и обещал прислать ему книги поэта: Толстой ждал их (74: 150). 24 августа он благодарил Кокреля за присылку книг. В ЯПб сохраняются 9 книг Морриса на английском и немецком языках: The Aims of art / By William Morris … - London, 1887; Architecture industry and wealth / Collected papers by William Morris. - London; New York; Bombay, 1902; Art and its producers; And the Arts and crafts of today / Two addresses delivered before the National association for the advancement of art by William Morris. - London, 1901 ; Art and the beauty of the earth / [A lecture delivered … at Burslem Town Hall on October 13, 1881 by William Morris]. - London, 1898; A Dream of John Ball; And a King’s lesson / By William Morris. - London; New York; Bombay, 1903; Hopes and fears for art / Five lectures delivered in Birmingham, London and Nottingham. 1878-1881 by William Morris … - Fifth edition. - London; New York; Bombay, 1898; Lieder der Arbeit / Von William Morris; aus dem Englischen übersetzt von Lilly Nadler-Nuellens. - Wien: Wohlstand für Alle, 1909; New from nowhere, or an Epoch of rest: Being some chapters from a utopian romance / By William Morris … - London, 1891.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

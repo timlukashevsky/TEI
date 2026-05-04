@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Rezunov_Fedor_Nikolaevich_2_538">Резунов Фёдор Николаевич</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Резунов Фёдор Николаевич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="11610">Резунов Фёдор Николаевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Резунов Фёдор Николаевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1803-1861) — яснополянский крестьянин Волконских-Толстых. Характер его, человека крутого и жёсткого, дравшегося с собственным сыном Сергеем, и др. факты и детали из жизни Резуновых отразились в произведениях Толстого. Резунов появляется в романе «Декабристы»; в рассказе «Поликушка» на сходке крестьян, где обсуждалась очерёдность рекрутства, «громче всех кричал Фёдор Резун, плотник». В «Дневнике помещика» Резун — умный и смелый мужик, не раз вступал в споры с самим барином. От отца он воспринял умение выделять главное, понять его. Яснополянцы ценили Резунова, несмотря на сложность его характера. Он был дружен со многими односельчанами и был главной фигурой рода Резуновых в первой половине XIX в.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

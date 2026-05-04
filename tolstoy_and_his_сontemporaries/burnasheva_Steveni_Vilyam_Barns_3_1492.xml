@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Steveni_Vilyam_Barns_3_1492">Сте́вени Вильям Барнс</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Сте́вени Вильям Барнс // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="13159">Сте́вени Вильям Барнс</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Сте́вени Вильям Барнс</head>
+      <ab type="bibliographicalEntry">
+        <p>(Steveni; 1859-?) — посетитель Толстого; американец, корреспондент лондонской газеты «Daily Chronicle» и др. Приезжал в 1892 г. в Россию, чтобы изучить проблемы, связанные с голодом и организацией помощи голодающим. Был у Толстого в Москве 18 января и в Бегичевке 8-9 февраля 1892 г. Свою беседу с Толстым в Бегичевке изложил в статье, напечатанной в английском журнале «The Cornbill Magazine» (1892, июнь) и в книге «Through famine stricken Russia» («По поражённой голодом России») (Лондон, 1892): третья глава книги названа: «I interview Count Tolstoy». В 1893 г., узнав, что в книге «Царство Божие внутри вас» Толстой ставит и социальные вопросы, Стевени посетил его 22 октября (5-6 ноября) в Ясной Поляне и свои разговоры с ним опубликовал в «Daily Chronicle» (1893, №№ от 14-26 декабря). Во второй свой приезд Стевени получил от Толстого рекомендательную записку к А. Н. Дунаеву: «Податель сего американец Стевен изучает социальные вопросы и человек не плохой. … Помогите ему, направьте, где ему интересно и нужно» (66: 426).</p>
+        <p>Годы спустя, в 1907 г., при письме от 8 июля (н. ст.) Стевени прислал Толстому полученный им от мирового судьи Артура В. Мэчина чек на 10 с половиной долларов для помощи голодающим. В 1917 г. напечатал воспоминания о Толстом: «Personal Recollectives of count Tolstoy 1891 and 1892» - «Anglo-Russian Litterary Society Praedings». 1917, № 80, p. 32-55.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

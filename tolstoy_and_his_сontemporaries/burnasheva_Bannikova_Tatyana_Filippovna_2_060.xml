@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Bannikova_Tatyana_Filippovna_2_060">Банникова Татьяна Филипповна</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Банникова Татьяна Филипповна // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="20017">Банникова Татьяна Филипповна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Банникова Татьяна Филипповна</head>
+      <ab type="bibliographicalEntry">
+        <p>(1803 — после 1866) — из семьи потомственных слуг Волконских-Толстых в Ясной Поляне; няня малолетнего Лёвы Толстого. Она сменила 100-летнюю няню Аннушку. Толстой в «Воспоминаниях» о ней писал: «…маленькая, смуглая, с пухлыми маленькими руками, была молодая няня, помощница старой няни Аннушки … потом была няней моих племянниц и моего старшего сына. Это было одно из тех трогательных существ из народа, которые так сживаются с семьями своих питомцев, что все свои интересы переносят в них. … Помню, она тяжело, тихо и кротко умирала в нашем доме на том самом месте, на котором я теперь сижу и пишу эти воспоминания» (гл. VIII).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Shentyakov_Pavel_Fedorovich_2_743">Шентяков Павел Фёдорович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Шентяков Павел Фёдорович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="15561">Шентяков Павел Фёдорович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Шентяков Павел Фёдорович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1826-1899) — яснополянский безземельный крестьянин, лихой ямщик, шорник в усадьбе Толстых, недолго был кучером. Сильно пил. Упоминается в рассказе «Тихон и Маланья» под именем Пашки Шентяка. Семья у Павла большая и бедная. В «Записках христианина» Толстой описывал печальную картину бедности и запущенности двора Шентяковых.</p>
+        <p>Толстой часто общался с Павлом, помогал ему в работе, деньгами, советами и содействием. Жена у Павла, как записал Толстой, была непутёвая, приблудная. Павел же человек мастеровой и добрый. Несмотря на свою нужду, он приютил бездомную Ганю с детьми, которых бросил отец. Когда Ганя умерла, Павел вместе с Толстым рыли ей могилу и похоронили. Шентяков шел к Толстому со всеми своими бедами. Когда у него в 1893 г. умерла от чахотки 26-летняя дочь Ирина, он пришёл к Толстым поделиться горем.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

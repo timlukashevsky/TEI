@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Doul_Natan_Khaskel_2_224">Доул Натан Хаскел</title>
+        <title type="bibl">
+          Алексеева Г. В. Доул Натан Хаскел // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888161">
+                  <name>Алексеева Г. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="4599">Доул Натан Хаскел</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Доул Натан Хаскел</head>
+      <ab type="bibliographicalEntry">
+        <p>(Dole Nathan Haskell; 1852-1935) — американский писатель и переводчик произведений Толстого на английский язык. Автор работ о нём на английском языке. Адресат и корреспондент Толстого. 20 марта 1889 г. Толстой отметил в дневнике, что «поправил хорошую статью Dol’a» (50: 54). 11 июня 1890 г. он написал Доулу письмо (продиктовал дочери Т.Л. Толстой) с просьбой содействовать успеху в Америке выставки картины Н.Н. Ге «Что есть истина?».</p>
+        <p>Из сочинений Доула в личной библиотеке Толстого в Ясной Поляне сохранилась книга: «Peace and progress: Two symphonic poems» «Мир и прогресс: Две симфонические поэмы»>. — Boston, 1904. В библиотеке есть и переводы Доула романов Толстого «Анна Каренина», «Война и мир», повести «Казаки», др. повестей и рассказов, сочинений для детей.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

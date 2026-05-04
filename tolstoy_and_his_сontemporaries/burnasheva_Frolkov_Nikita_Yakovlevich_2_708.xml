@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Frolkov_Nikita_Yakovlevich_2_708">Фролков Никита Яковлевич</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Фролков Никита Яковлевич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="14775">Фролков Никита Яковлевич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Фролков Никита Яковлевич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1861 — после 1924 г.) — яснополянский крестьянин. Ученик школы Толстого 1870-х гг. Босоногим мальчишкой часто бегал в усадьбу Толстых. Старый вельветовый пиджачок рассыпался на нём при движении. Все смеялись. Толстой добродушно сказал: «Ничего, дружок, не горюй, это изюмчик из тебя сыплется». Так и прозвали Никиту Изюмчиком.</p>
+        <p>В 1900-е гг. Никита Фролков был старостой деревни. К нему заходил Толстой в декабре 1909 г. поговорить о сборе податей, их жестокости. Этот разговор описан в рассказе «Подати» в очерке «Три дня в деревне» (38: 20).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

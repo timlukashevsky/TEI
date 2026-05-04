@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Rezunov_Sergey_Fedorovich_2_536">Резунов Сергей Фёдорович</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Резунов Сергей Фёдорович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="11607">Резунов Сергей Фёдорович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Резунов Сергей Фёдорович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1819-1895) — старший сын Ф.Н. Резунова. От отца унаследовал буйный характер, но был весельчаком, остроумным, самостоятельным в суждениях, большим спорщиком. В одном из таких споров с отцом дело дошло до драки и сын сломал руку отцу. Тот хотел отправить его в Сибирь, но Толстой убедил не делать этого, и на суде отец простил сына.</p>
+        <p>Писатель присматривался к этому крестьянину, общался часто с ним, о чём говорят записи дневника. Резуновы были люди шумливые, но гордые. Об этой черте, в частности у Сергея Фёдоровича, говорит запись Толстого 27 ноября 1858 г.: «Нынче Резун лгал, я взбесился и по мерзкой привычке сказал: высечь. Я ждал, что он придёт. Послал остановить, его не догнали. … Просил прощенья, дал 3 рубля. Но мучало» (48: 18-19).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

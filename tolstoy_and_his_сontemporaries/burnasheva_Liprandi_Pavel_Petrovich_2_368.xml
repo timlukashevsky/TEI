@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Liprandi_Pavel_Petrovich_2_368">Липранди Павел Петрович</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Липранди Павел Петрович // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="7916">Липранди Павел Петрович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Липранди Павел Петрович</head>
+      <ab type="bibliographicalEntry">
+        <p>(1796-1864) — генерал от инфантерии, участник кампании 1813-1814 гг. (был в 17 сражениях), турецкой (1828-1829) и польской (1830-1831) войн. В 1853-1854 гг. командовал особым отрядом в Валахии. Во время Крымской кампании особо отличился в сражении под Балаклавой 13 октября 1854 г. Имел большой военный опыт и прекрасное военное образование, заботился о солдатах и пользовался популярностью в армии.</p>
+        <p>26 ноября 1854 г. Толстой записал в дневнике: «Липранди назначен командующим войск в Севастополе Липранди был назначен командующим 6-м пехотным корпусом. — Н.Б.. Слава Богу! Исключая успехов, которые он имел в этой кампании, он любим и популярен, не е…… матерью т. е. дурным характером. — Н.Б., а распорядительностью и умом». Липранди под своим именем выведен в севастопольской песне Толстого «Как четвёртого числа…».</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

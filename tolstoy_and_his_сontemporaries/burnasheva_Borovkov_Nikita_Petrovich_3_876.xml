@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Borovkov_Nikita_Petrovich_3_876">Боровко́в Никита Петрович</title>
+        <title type="bibl">
+          Дробат Л. С. Боровко́в Никита Петрович // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888040">
+                  <name>Дробат Л. С.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="1762">Боровко́в Никита Петрович</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Боровко́в Никита Петрович</head>
+      <ab type="bibliographicalEntry">
+        <p>(даты жизни не установлены) — до 1888 г. страховой агент тульского земства по Крапивенскому уезду, когда за растраты был уволен от должности и предан суду. Толстой неоднократно хлопотал за него и его детей, обращался по делу Боровкова к своему хорошему знакомому юристу Н. В. Давыдову. «Земский агент Боровков просит скорей дело» (51: 133), - отметил Толстой в записной книжке 10 апреля 1890 г. «Просить Давыдова о Боровкове, страховом агенте» (51: 141), - запись 7 июля того же года. И снова уже в декабре: «Просить Давыдова о Боровкове» (51: 127). Толстой, жалея детей Боровкова, писал Давыдову: «Записку эту передаст вам сын бывшего земского агента Боровкова, который ищет какого бы то ни было места. Он очень жалок. Не можете ли помочь ему и не досадовать на меня, что утруждаю вас» (65: 212).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

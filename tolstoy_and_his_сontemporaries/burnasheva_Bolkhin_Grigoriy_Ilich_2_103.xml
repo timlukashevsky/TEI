@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Bolkhin_Grigoriy_Ilich_2_103">Болхин Григорий Ильич</title>
+        <title type="bibl">
+          Шинкарюк Н. И. Болхин Григорий Ильич // Лев Толстой и его современники: энциклопедия. Изд. 2-е, испр. и доп. / Под общ. ред. Н. И. Бурнашёвой. М.: Парад, 2010.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888157">
+                  <name>Шинкарюк Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Москва
+                </pubPlace>
+                <publisher>
+                  Парад
+                </publisher>
+                <date when="2010"/>
+              </imprint>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="1666">Болхин Григорий Ильич</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Болхин Григорий Ильич</head>
+      <ab type="bibliographicalEntry">
+        <p>(1836-1912) — яснополянский крестьянин, брат Гаврилы Ильича. Был хорошо знаком с Толстым, часто косили вместе. В рассказе «Идиллия» изображён Гришка Болхин. Выбор имени этого героя становится более понятным при ознакомлении с рукописью дворового человека Толстых Н.И. Власова. В ней рассказано о трогательной любви Григория Болхина и его жены Аксиньи, несмотря на лишения и тяжёлую нужду (гл. XVIII). Честность, трудолюбие и оптимизм были присущи этим людям. Власов дал портрет Григория: «Высокий рост, кудрявые чёрные волосы, худое красивое лицо и добрые честные глаза» (ОР ГМТ).</p>
+        <p>Толстой лично принимал участие в решении дела о якобы краже Григорием колёс, посещал его в остроге в Туле, добился оправдания Григория и возвращения ему колёс, о чём записал в дневнике в 1881 г.</p>
+        <p>Яснополянец Алексей Бочаров в дневнике в 1878 г. характеризует Григория как мужика старательного, хозяйственного, не похожего по характеру на своего брата Гаврилу.</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Antipova_Aleksandra_Aleksandrovna_3_808">Анти́пова Александра Александровна</title>
+        <title type="bibl">
+          Бурнашёва Н. И. Анти́пова Александра Александровна // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888000">
+                  <name>Бурнашёва Н. И.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="532">Анти́пова Александра Александровна</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Анти́пова Александра Александровна</head>
+      <ab type="bibliographicalEntry">
+        <p>(в замужестве Олышева; 1870-?) — знакомая Толстого; сестра жены С. И. Бирюкова, работала с Толстым на голоде. 12 мая 1892 г. Толстой писал из Бегичевки С. А. Толстой: «…помощницы две явились: Элена Михайловна и Антипова. Они уже ездят и хлопочут. Всё это время раздаём семя, и большая от этого суета» (84: 150); «Антипова - очень милая и деятельная девица» (84: 152). Через некоторое время в Бегичевку приехала сестра Антиповой - Наталья Александровна. В июле многие уехали, и 24 июля 1892 г. Толстой сообщал жене: «Остаются здесь одни девицы Антиповы…» (84: 158). Позднее С. А. Толстая называла имя Антиповой среди имён «нескольких очень хороших девиц» (CAT. Моя жизнь. 2. С. 290), помогавших Толстому в Бегичевке.</p>
+        <p>27 октября 1892 г. в письме П. И. Бирюкову из Ясной Поляны Толстой очень тепло вспоминал Антипову: «…милой Алине Александровне передайте мою любовь и благодарность за её помощь» (66: 271).</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:id="burnasheva_Sted_Uilyam_Tomas_3_1499">Стэд Уильям Томас</title>
+        <title type="bibl">
+          Алексеева Г. В. Стэд Уильям Томас // Лев Толстой и его современники: энциклопедия. Вып. 3 / Под общ. ред. Н. И. Бурнашёвой. Тула, М., 2016.
+        </title>
+        <respStmt>
+          <resp>
+          Этот электронный документ создан объединением Tolstoy Digital в рамках проекта "Социальная сеть Толстого" по материалам энциклопедии "Лев Толстой и его современники" (2026)
+          </resp>
+          <name>
+          Дарья Тюрякова-Матвеева, Анастасия Бонч-Осмоловская, Тимофей Лукашевский
+          </name>
+        </respStmt>
+        <funder>
+          Проект «Слово Толстого» (Tolstoy Digital)
+        </funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName>
+            Tolstoy Digital
+          </orgName>
+        </publisher>
+      </publicationStmt>
+      <sourceDesc>
+          <biblStruct>
+            <analytic>
+              <author>
+                <person ref="888161">
+                  <name>Алексеева Г. В.</name>
+                </person>
+              </author>
+            </analytic>
+            <monogr>
+              <editor>
+                <name>Бурнашева Н. И.</name>
+              </editor>
+              <title level="m">
+                Лев Толстой и его современники. Энциклопедия
+              </title>
+              <imprint>
+                <pubPlace>
+                  Тула; Москва
+                </pubPlace>
+                <date when="2016"/>
+              </imprint>
+              <biblScope unit="volume">
+                3
+              </biblScope>
+              <biblScope unit="page">
+              </biblScope>
+            </monogr>
+          </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef ana="#materials" target="burnasheva"/>
+        <keywords scheme="persons">
+            <term ref="13310">Стэд Уильям Томас</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Стэд Уильям Томас</head>
+      <ab type="bibliographicalEntry">
+        <p>(Stead; 1849-1912) — посетитель, корреспондент и адресат Толстого; известный английский журналист, основатель (в 1890 г.) и редактор журнала Review of Reviews, общественный деятель. В сентябре 1888 г. побывал у Толстого в Ясной Поляне. Автор книги: Truth about Russia. London; Paris; New York; Melbourne: Cassel and Co, 1888. Три главы этой книги рассказывают о пребывании в Ясной Поляне и встречах с Толстым. Одна из глав напечатана А. С. Сувориным в «Новом времени» (1889. № 4637, 25 января) под названием «Неделя в Ясной Поляне».</p>
+        <p>В 1890 г. в журнале Стэда (№ 4) вышла его статья «The Story of the Month: Count Tolstoi’s Kreutzer Sonata» («Литературная новинка месяца: “Крейцерова соната” графа Толстого»). Толстой по этому поводу заметил в письме к Э. Диллону: «Статья Стэда очень легкомысленна и даже нехороша» (65: 82). В семье Толстых иногда возникали разговоры о Стэде в связи с публикациями в Review of Reviews или «Новом времени». О чтении Review of Reviews есть запись в дневнике Толстого 16 февраля 1891 г.: «Читал R. of R. (отвратительно)…» (52: 11).</p>
+        <p>Стэд намеревался один из рождественских выпусков своего журнала посвятить Толстому и посетить Ясную Поляну в 1905 г., но приехать не удалось. По поводу предполагаемого приезда Толстой писал своему переводчику и биографу Э. Мооду 20 августа: «Что касается Стэда, то я особенно рад буду его посещению. Оно уничтожит то недоразумение, которое случайно и, вероятно, по моей вине возникло» (76: 15). В августе 1905 г. Толстой получил от Стэда его статью «Граф Толстой». Статья Толстому не понравилась своей «несерьёзностью» (76: 25). По свидетельству Д. П. Маковицкого, он сказал, что это «самое неприличное восхваление, газетная болтовня» (12 сентября 1905 г. - ЯПЗ. 1. С. 398). В ответ на приложенное к статье письмо Стэда от 11 августа 1905 г. с просьбой прислать что-нибудь в его журнал Толстой писал: «Сожалею, что не в состоянии исполнить вашей просьбы написать что-нибудь для ваших читателей» (76: 25). 5 января 1907 г. он занёс в записную книжку (карманный ежедневник): «Читал Review of Reviews обзор всей жизни мира. Какие жалкие, обманные, лживые, дурные интересы!» (56: 178).</p>
+        <p>В ЯПб сохранились многочисленные номера журнала Review of Reviews, а также 6 книг Стэда: 1) The Americanisation of the world or the Trend of the twentieth century / By W. T. Stead. - London, 1902; 2) If Christ came to Chicago! / A plea for the Union of ail who love in the service of all who suffer by William T. Stead. - London, 1894; 3) «Lest we forget»: A keepsake from the nineteenth century / By W. T. Stead. - London; Melbourne, 1901. На книге - дарственная надпись: «То Count Leo Tolstoi with the Author’s respects Christmas 1900 Графу Льву Толстому с почтением от автора. Рождество 1900. - Г. А.»; 4) Portraits and autographs: An album for the people. - London, 1890 (Mowbray house). Вклеена фотография редактора с дарственной надписью (факсимиле): «Yours truly William Т. Stead»; 5) The Revival in the West: A narrative of facts / By W. T. Stead. - London, 1905 (Henderson and Spalding); 6) Truth about Russia / By W. T. Stead. - London; Paris; New York; Melbourne, 1888. На обороте авантитула - дарственная надпись: «То Count Tolstoi with affectionate remembrance of the family at Jasnaya Pauliana From the Author. W. T. Stead Графу Толстому с нежной памятью о яснополянской семье. От автора. - Г. А.».</p>
+      </ab>
+      <bibl></bibl>
+    </body>
+  </text>
+</TEI>
